@@ -1,0 +1,423 @@
+[{"codigoentidad":"01-01-01","nombreentidad":"SENADO DE LA REPUBLICA","codigotipogasto":"A","inicial":"435007000000.00","vigente":"435257000000.00"}
+,{"codigoentidad":"01-01-01","nombreentidad":"SENADO DE LA REPUBLICA","codigotipogasto":"B","inicial":"1105650762.00","vigente":"1105650762.00"}
+,{"codigoentidad":"01-01-01","nombreentidad":"SENADO DE LA REPUBLICA","codigotipogasto":"C","inicial":"60435616147.00","vigente":"60435616147.00"}
+,{"codigoentidad":"01-01-02","nombreentidad":"CAMARA DE REPRESENTANTES","codigotipogasto":"A","inicial":"697515000000.00","vigente":"717515000000.00"}
+,{"codigoentidad":"01-01-02","nombreentidad":"CAMARA DE REPRESENTANTES","codigotipogasto":"C","inicial":"139564383853.00","vigente":"139564383853.00"}
+,{"codigoentidad":"02-01-01","nombreentidad":"PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"A","inicial":"1286301000000.00","vigente":"1696301000000.00"}
+,{"codigoentidad":"02-01-01","nombreentidad":"PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"C","inicial":"121314601013.00","vigente":"121314601013.00"}
+,{"codigoentidad":"02-09-00","nombreentidad":"AGENCIA PRESIDENCIAL DE COOPERACION INTERNACIONAL DE COLOMBIA, APC - COLOMBIA","codigotipogasto":"A","inicial":"49887000000.00","vigente":"49887000000.00"}
+,{"codigoentidad":"02-09-00","nombreentidad":"AGENCIA PRESIDENCIAL DE COOPERACION INTERNACIONAL DE COLOMBIA, APC - COLOMBIA","codigotipogasto":"C","inicial":"58249784996.00","vigente":"17238689037.00"}
+,{"codigoentidad":"02-11-00","nombreentidad":"UNIDAD NACIONAL PARA LA GESTION DEL RIESGO DE DESASTRES","codigotipogasto":"A","inicial":"689019000000.00","vigente":"7037969610737.00"}
+,{"codigoentidad":"02-11-00","nombreentidad":"UNIDAD NACIONAL PARA LA GESTION DEL RIESGO DE DESASTRES","codigotipogasto":"C","inicial":"10000000000.00","vigente":"10000000000.00"}
+,{"codigoentidad":"02-12-00","nombreentidad":"AGENCIA PARA LA REINCORPORACION Y LA NORMALIZACION - ARN","codigotipogasto":"A","inicial":"357622000000.00","vigente":"371804627051.00"}
+,{"codigoentidad":"02-12-00","nombreentidad":"AGENCIA PARA LA REINCORPORACION Y LA NORMALIZACION - ARN","codigotipogasto":"C","inicial":"2000000000.00","vigente":"9548345900.00"}
+,{"codigoentidad":"02-13-00","nombreentidad":"AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS","codigotipogasto":"A","inicial":"14111913356.00","vigente":"15494009556.00"}
+,{"codigoentidad":"02-13-00","nombreentidad":"AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS","codigotipogasto":"C","inicial":"15000000000.00","vigente":"15000000000.00"}
+,{"codigoentidad":"02-14-01","nombreentidad":"AGENCIA DE RENOVACION DEL TERRITORIO ART - GESTION GENERAL","codigotipogasto":"A","inicial":"71193000000.00","vigente":"71193000000.00"}
+,{"codigoentidad":"02-14-01","nombreentidad":"AGENCIA DE RENOVACION DEL TERRITORIO ART - GESTION GENERAL","codigotipogasto":"C","inicial":"68308579275.00","vigente":"68308579275.00"}
+,{"codigoentidad":"02-14-02","nombreentidad":"DIRECCIÓN DE SUSTITUCIÓN DE CULTIVOS DE USO ILÍCITO","codigotipogasto":"A","inicial":"3777000000.00","vigente":"3777000000.00"}
+,{"codigoentidad":"02-14-02","nombreentidad":"DIRECCIÓN DE SUSTITUCIÓN DE CULTIVOS DE USO ILÍCITO","codigotipogasto":"C","inicial":"50000000000.00","vigente":"50000000000.00"}
+,{"codigoentidad":"03-01-01","nombreentidad":"DEPARTAMENTO NACIONAL DE PLANEACION - GESTION GENERAL","codigotipogasto":"A","inicial":"109291555403.00","vigente":"109291555403.00"}
+,{"codigoentidad":"03-01-01","nombreentidad":"DEPARTAMENTO NACIONAL DE PLANEACION - GESTION GENERAL","codigotipogasto":"C","inicial":"925503557273.00","vigente":"882308686552.00"}
+,{"codigoentidad":"03-03-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL - AGENCIA NACIONAL DE CONTRATACION PUBLICA - COLOMBIA COMPRA EFICIENTE","codigotipogasto":"A","inicial":"27651481441.00","vigente":"28951481441.00"}
+,{"codigoentidad":"03-03-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL - AGENCIA NACIONAL DE CONTRATACION PUBLICA - COLOMBIA COMPRA EFICIENTE","codigotipogasto":"C","inicial":"68443978983.00","vigente":"68443978983.00"}
+,{"codigoentidad":"03-24-00","nombreentidad":"SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS","codigotipogasto":"A","inicial":"462878497000.00","vigente":"662878497000.00"}
+,{"codigoentidad":"03-24-00","nombreentidad":"SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS","codigotipogasto":"C","inicial":"33195536331.00","vigente":"33195536331.00"}
+,{"codigoentidad":"04-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADÍSTICA (DANE) - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"180914447000.00","vigente":"180914447000.00"}
+,{"codigoentidad":"04-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADÍSTICA (DANE) - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"196744680851.00","vigente":"196744680851.00"}
+,{"codigoentidad":"04-02-00","nombreentidad":"FONDO ROTATORIO DEL DANE","codigotipogasto":"A","inicial":"1847000000.00","vigente":"1847000000.00"}
+,{"codigoentidad":"04-02-00","nombreentidad":"FONDO ROTATORIO DEL DANE","codigotipogasto":"C","inicial":"32128446000.00","vigente":"32128446000.00"}
+,{"codigoentidad":"04-03-00","nombreentidad":"INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI - IGAC","codigotipogasto":"A","inicial":"126372000000.00","vigente":"126372000000.00"}
+,{"codigoentidad":"04-03-00","nombreentidad":"INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI - IGAC","codigotipogasto":"C","inicial":"293530427202.00","vigente":"293530427202.00"}
+,{"codigoentidad":"05-01-01","nombreentidad":"DEPARTAMENTO DE LA FUNCIÓN PÚBLICA - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"45489738349.00","vigente":"45489738349.00"}
+,{"codigoentidad":"05-01-01","nombreentidad":"DEPARTAMENTO DE LA FUNCIÓN PÚBLICA - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"10000000000.00","vigente":"10488205700.00"}
+,{"codigoentidad":"05-03-00","nombreentidad":"ESCUELA SUPERIOR DE ADMINISTRACIÓN PÚBLICA (ESAP)","codigotipogasto":"A","inicial":"165719649000.00","vigente":"165719649000.00"}
+,{"codigoentidad":"05-03-00","nombreentidad":"ESCUELA SUPERIOR DE ADMINISTRACIÓN PÚBLICA (ESAP)","codigotipogasto":"C","inicial":"284986451000.00","vigente":"284986451000.00"}
+,{"codigoentidad":"11-01-01","nombreentidad":"MINRELACIONES EXTERIORES - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"732652960750.00","vigente":"732652960750.00"}
+,{"codigoentidad":"11-02-00","nombreentidad":"FONDO ROTATORIO DEL MINISTERIO DE RELACIONES EXTERIORES","codigotipogasto":"A","inicial":"756101646753.00","vigente":"873802947529.00"}
+,{"codigoentidad":"11-02-00","nombreentidad":"FONDO ROTATORIO DEL MINISTERIO DE RELACIONES EXTERIORES","codigotipogasto":"C","inicial":"132459000000.00","vigente":"132459000000.00"}
+,{"codigoentidad":"11-04-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL MIGRACIÓN COLOMBIA","codigotipogasto":"A","inicial":"198935807966.00","vigente":"234016125793.00"}
+,{"codigoentidad":"11-04-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL MIGRACIÓN COLOMBIA","codigotipogasto":"C","inicial":"68633961587.00","vigente":"68633961587.00"}
+,{"codigoentidad":"12-01-01","nombreentidad":"MINISTERIO DE JUSTICIA Y DEL DERECHO - GESTION GENERAL","codigotipogasto":"A","inicial":"166399120926.00","vigente":"166399120926.00"}
+,{"codigoentidad":"12-01-01","nombreentidad":"MINISTERIO DE JUSTICIA Y DEL DERECHO - GESTION GENERAL","codigotipogasto":"C","inicial":"64975440757.00","vigente":"64975440757.00"}
+,{"codigoentidad":"12-04-00","nombreentidad":"SUPERINTENDENCIA DE NOTARIADO Y REGISTRO","codigotipogasto":"A","inicial":"709752149771.00","vigente":"709752149771.00"}
+,{"codigoentidad":"12-04-00","nombreentidad":"SUPERINTENDENCIA DE NOTARIADO Y REGISTRO","codigotipogasto":"C","inicial":"194474468077.00","vigente":"194474468077.00"}
+,{"codigoentidad":"12-08-00","nombreentidad":"INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO - INPEC","codigotipogasto":"A","inicial":"2202168345486.00","vigente":"2202168345486.00"}
+,{"codigoentidad":"12-08-00","nombreentidad":"INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO - INPEC","codigotipogasto":"C","inicial":"6432700000.00","vigente":"6432700000.00"}
+,{"codigoentidad":"12-10-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO","codigotipogasto":"A","inicial":"86850143823.00","vigente":"235719209405.00"}
+,{"codigoentidad":"12-10-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO","codigotipogasto":"C","inicial":"22266327000.00","vigente":"22266327000.00"}
+,{"codigoentidad":"12-11-00","nombreentidad":"UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC","codigotipogasto":"A","inicial":"1632154076293.00","vigente":"1632154076293.00"}
+,{"codigoentidad":"12-11-00","nombreentidad":"UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC","codigotipogasto":"C","inicial":"417154693375.00","vigente":"417154693375.00"}
+,{"codigoentidad":"13-01-01","nombreentidad":"MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"24273505676794.00","vigente":"23125650183259.00"}
+,{"codigoentidad":"13-01-01","nombreentidad":"MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"4237277854104.00","vigente":"4094912854104.00"}
+,{"codigoentidad":"13-01-17","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL AGENCIA DEL INSPECTOR GENERAL DE TRIBUTOS, RENTAS Y CONTRIBUCIONES PARAFISCALES (ITRC)","codigotipogasto":"A","inicial":"26935000000.00","vigente":"30135000000.00"}
+,{"codigoentidad":"13-01-17","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL AGENCIA DEL INSPECTOR GENERAL DE TRIBUTOS, RENTAS Y CONTRIBUCIONES PARAFISCALES (ITRC)","codigotipogasto":"C","inicial":"663406092.00","vigente":"663406092.00"}
+,{"codigoentidad":"13-01-18","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL UNIDAD DE PROYECCIÓN NORMATIVA Y ESTUDIOS DE REGULACIÓN FINANCIERA (URF)","codigotipogasto":"A","inicial":"18376000000.00","vigente":"18376000000.00"}
+,{"codigoentidad":"13-08-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL CONTADURÍA GENERAL DE LA NACIÓN","codigotipogasto":"A","inicial":"23038018000.00","vigente":"23038018000.00"}
+,{"codigoentidad":"13-08-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL CONTADURÍA GENERAL DE LA NACIÓN","codigotipogasto":"C","inicial":"4334872606.00","vigente":"4334872606.00"}
+,{"codigoentidad":"13-09-00","nombreentidad":"SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA","codigotipogasto":"A","inicial":"26141600000.00","vigente":"26141600000.00"}
+,{"codigoentidad":"13-09-00","nombreentidad":"SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA","codigotipogasto":"C","inicial":"20000000000.00","vigente":"20000000000.00"}
+,{"codigoentidad":"13-10-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES","codigotipogasto":"A","inicial":"3600355000000.00","vigente":"3707237000000.00"}
+,{"codigoentidad":"13-10-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES","codigotipogasto":"C","inicial":"72802470035.00","vigente":"72802470035.00"}
+,{"codigoentidad":"13-12-00","nombreentidad":"UNIDAD DE INFORMACIÓN Y ANÁLISIS FINANCIERO","codigotipogasto":"A","inicial":"26637000000.00","vigente":"31265142857.00"}
+,{"codigoentidad":"13-12-00","nombreentidad":"UNIDAD DE INFORMACIÓN Y ANÁLISIS FINANCIERO","codigotipogasto":"C","inicial":"2496264045.00","vigente":"2496264045.00"}
+,{"codigoentidad":"13-13-00","nombreentidad":"SUPERINTENDENCIA FINANCIERA DE COLOMBIA","codigotipogasto":"A","inicial":"443882000000.00","vigente":"443882000000.00"}
+,{"codigoentidad":"13-13-00","nombreentidad":"SUPERINTENDENCIA FINANCIERA DE COLOMBIA","codigotipogasto":"C","inicial":"60609269000.00","vigente":"60609269000.00"}
+,{"codigoentidad":"13-14-01","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN  PENSIONAL Y CONTRIBUCIONES PARAFISCALES DE LA PROTECCIÓN SOCIAL (UGPPP) - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"244439000000.00","vigente":"249439000000.00"}
+,{"codigoentidad":"13-14-01","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN  PENSIONAL Y CONTRIBUCIONES PARAFISCALES DE LA PROTECCIÓN SOCIAL (UGPPP) - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"4784056802.00","vigente":"4784056802.00"}
+,{"codigoentidad":"13-15-00","nombreentidad":"FONDO ADAPTACIÓN","codigotipogasto":"A","inicial":"43385000000.00","vigente":"43385000000.00"}
+,{"codigoentidad":"13-15-00","nombreentidad":"FONDO ADAPTACIÓN","codigotipogasto":"C","inicial":"505287741955.00","vigente":"505287741955.00"}
+,{"codigoentidad":"14-01-00","nombreentidad":"SERVICIO DE LA DEUDA PÚBLICA NACIONAL","codigotipogasto":"B","inicial":"97191505905792.00","vigente":"97191505905792.00"}
+,{"codigoentidad":"15-01-01","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"939186000000.00","vigente":"906625687035.00"}
+,{"codigoentidad":"15-01-01","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - GESTIÓN GENERAL","codigotipogasto":"B","inicial":"327684852349.00","vigente":"327684852349.00"}
+,{"codigoentidad":"15-01-01","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"381169083961.00","vigente":"381169083961.00"}
+,{"codigoentidad":"15-01-02","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - COMANDO GENERAL","codigotipogasto":"A","inicial":"140867000000.00","vigente":"150564922593.00"}
+,{"codigoentidad":"15-01-02","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - COMANDO GENERAL","codigotipogasto":"C","inicial":"38119371519.00","vigente":"38119371519.00"}
+,{"codigoentidad":"15-01-03","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - EJÉRCITO","codigotipogasto":"A","inicial":"13570121000000.00","vigente":"13693245394660.00"}
+,{"codigoentidad":"15-01-03","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - EJÉRCITO","codigotipogasto":"C","inicial":"780370192052.00","vigente":"780370192052.00"}
+,{"codigoentidad":"15-01-04","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - ARMADA","codigotipogasto":"A","inicial":"2978236000000.00","vigente":"3092045762448.00"}
+,{"codigoentidad":"15-01-04","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - ARMADA","codigotipogasto":"C","inicial":"818805294719.00","vigente":"818805294719.00"}
+,{"codigoentidad":"15-01-05","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - FUERZA AÉREA","codigotipogasto":"A","inicial":"2225688000000.00","vigente":"2276610233264.00"}
+,{"codigoentidad":"15-01-05","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - FUERZA AÉREA","codigotipogasto":"C","inicial":"849353185675.00","vigente":"849353185675.00"}
+,{"codigoentidad":"15-01-11","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - SALUD","codigotipogasto":"A","inicial":"2245600000000.00","vigente":"2245600000000.00"}
+,{"codigoentidad":"15-01-11","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - SALUD","codigotipogasto":"C","inicial":"29588599577.00","vigente":"29588599577.00"}
+,{"codigoentidad":"15-01-12","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - DIRECCIÓN GENERAL MARITIMA (DIMAR)","codigotipogasto":"A","inicial":"191251000000.00","vigente":"191251000000.00"}
+,{"codigoentidad":"15-01-12","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - DIRECCIÓN GENERAL MARITIMA (DIMAR)","codigotipogasto":"C","inicial":"75000000000.00","vigente":"75000000000.00"}
+,{"codigoentidad":"15-01-13","nombreentidad":"MINISTERIO DE DEFENSA NACIONAL - DIRECCIÓN DE VETERANOS Y REHABILITACIÓN INCLUSIVA","codigotipogasto":"A","inicial":"2239863000000.00","vigente":"2239863000000.00"}
+,{"codigoentidad":"15-03-00","nombreentidad":"CAJA DE RETIRO DE LAS FUERZAS MILITARES","codigotipogasto":"A","inicial":"8412923000000.00","vigente":"8412923000000.00"}
+,{"codigoentidad":"15-03-00","nombreentidad":"CAJA DE RETIRO DE LAS FUERZAS MILITARES","codigotipogasto":"C","inicial":"13838000000.00","vigente":"13838000000.00"}
+,{"codigoentidad":"15-07-00","nombreentidad":"INSTITUTO CASAS FISCALES DEL EJÉRCITO","codigotipogasto":"A","inicial":"37936000000.00","vigente":"37936000000.00"}
+,{"codigoentidad":"15-07-00","nombreentidad":"INSTITUTO CASAS FISCALES DEL EJÉRCITO","codigotipogasto":"C","inicial":"39858000000.00","vigente":"39858000000.00"}
+,{"codigoentidad":"15-08-00","nombreentidad":"DEFENSA CIVIL COLOMBIANA, GUILLERMO LEÓN VALENCIA","codigotipogasto":"A","inicial":"46388000000.00","vigente":"66388000000.00"}
+,{"codigoentidad":"15-08-00","nombreentidad":"DEFENSA CIVIL COLOMBIANA, GUILLERMO LEÓN VALENCIA","codigotipogasto":"C","inicial":"8000580895.00","vigente":"8000580895.00"}
+,{"codigoentidad":"15-10-00","nombreentidad":"CLUB MILITAR DE OFICIALES","codigotipogasto":"A","inicial":"65319000000.00","vigente":"65319000000.00"}
+,{"codigoentidad":"15-10-00","nombreentidad":"CLUB MILITAR DE OFICIALES","codigotipogasto":"C","inicial":"13965000000.00","vigente":"13965000000.00"}
+,{"codigoentidad":"15-11-00","nombreentidad":"CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL","codigotipogasto":"A","inicial":"7953759000000.00","vigente":"7953759000000.00"}
+,{"codigoentidad":"15-11-00","nombreentidad":"CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL","codigotipogasto":"C","inicial":"9907000000.00","vigente":"9907000000.00"}
+,{"codigoentidad":"15-12-01","nombreentidad":"FONPOLICÍA - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"329976000000.00","vigente":"329976000000.00"}
+,{"codigoentidad":"15-12-01","nombreentidad":"FONPOLICÍA - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"5599000000.00","vigente":"5599000000.00"}
+,{"codigoentidad":"15-16-00","nombreentidad":"SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA","codigotipogasto":"A","inicial":"32635000000.00","vigente":"32635000000.00"}
+,{"codigoentidad":"15-16-00","nombreentidad":"SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA","codigotipogasto":"C","inicial":"5032000000.00","vigente":"5032000000.00"}
+,{"codigoentidad":"15-19-00","nombreentidad":"HOSPITAL MILITAR","codigotipogasto":"A","inicial":"539632000000.00","vigente":"609632000000.00"}
+,{"codigoentidad":"15-19-00","nombreentidad":"HOSPITAL MILITAR","codigotipogasto":"C","inicial":"40000000000.00","vigente":"40000000000.00"}
+,{"codigoentidad":"15-20-00","nombreentidad":"AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES","codigotipogasto":"A","inicial":"1040248000000.00","vigente":"1040248000000.00"}
+,{"codigoentidad":"15-20-00","nombreentidad":"AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES","codigotipogasto":"C","inicial":"5500000000.00","vigente":"5500000000.00"}
+,{"codigoentidad":"15-21-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL","codigotipogasto":"A","inicial":"151044000000.00","vigente":"151044000000.00"}
+,{"codigoentidad":"15-21-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL","codigotipogasto":"C","inicial":"5997066452.00","vigente":"5997066452.00"}
+,{"codigoentidad":"16-01-01","nombreentidad":"POLICÍA NACIONAL - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"16289261743991.00","vigente":"16295161743991.00"}
+,{"codigoentidad":"16-01-01","nombreentidad":"POLICÍA NACIONAL - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"453259206045.00","vigente":"453259206045.00"}
+,{"codigoentidad":"16-01-02","nombreentidad":"POLICÍA NACIONAL - SALUD","codigotipogasto":"A","inicial":"2182411000000.00","vigente":"2182411000000.00"}
+,{"codigoentidad":"16-01-02","nombreentidad":"POLICÍA NACIONAL - SALUD","codigotipogasto":"C","inicial":"42481000000.00","vigente":"42481000000.00"}
+,{"codigoentidad":"16-01-03","nombreentidad":"POLICIA NACIONAL - EDUCACION","codigotipogasto":"A","inicial":"181231000000.00","vigente":"181231000000.00"}
+,{"codigoentidad":"16-01-03","nombreentidad":"POLICIA NACIONAL - EDUCACION","codigotipogasto":"C","inicial":"60000000000.00","vigente":"60000000000.00"}
+,{"codigoentidad":"17-01-01","nombreentidad":"MINAGRICULTURA - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"315859623000.00","vigente":"435859623000.00"}
+,{"codigoentidad":"17-01-01","nombreentidad":"MINAGRICULTURA - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"770270384808.00","vigente":"770270384808.00"}
+,{"codigoentidad":"17-01-06","nombreentidad":"UNIDAD DE PLANIFICACION DE TIERRAS RURALES, ADECUACION DE TIERRAS Y USOS AGROPECUARIOS (UPRA)","codigotipogasto":"A","inicial":"14503874000.00","vigente":"14503874000.00"}
+,{"codigoentidad":"17-01-06","nombreentidad":"UNIDAD DE PLANIFICACION DE TIERRAS RURALES, ADECUACION DE TIERRAS Y USOS AGROPECUARIOS (UPRA)","codigotipogasto":"C","inicial":"50000000000.00","vigente":"50000000000.00"}
+,{"codigoentidad":"17-02-00","nombreentidad":"INSTITUTO COLOMBIANO AGROPECUARIO (ICA)","codigotipogasto":"A","inicial":"224404090000.00","vigente":"224404090000.00"}
+,{"codigoentidad":"17-02-00","nombreentidad":"INSTITUTO COLOMBIANO AGROPECUARIO (ICA)","codigotipogasto":"C","inicial":"250000000000.00","vigente":"250000000000.00"}
+,{"codigoentidad":"17-15-00","nombreentidad":"AUTORIDAD NACIONAL DE ACUICULTURA Y PESCA - AUNAP","codigotipogasto":"A","inicial":"24551871000.00","vigente":"24551871000.00"}
+,{"codigoentidad":"17-15-00","nombreentidad":"AUTORIDAD NACIONAL DE ACUICULTURA Y PESCA - AUNAP","codigotipogasto":"C","inicial":"70000000000.00","vigente":"70000000000.00"}
+,{"codigoentidad":"17-16-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS","codigotipogasto":"A","inicial":"81763740000.00","vigente":"81763740000.00"}
+,{"codigoentidad":"17-16-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE GESTION DE RESTITUCION DE TIERRAS DESPOJADAS","codigotipogasto":"C","inicial":"390926397814.00","vigente":"390926397814.00"}
+,{"codigoentidad":"17-17-00","nombreentidad":"AGENCIA NACIONAL DE TIERRAS - ANT","codigotipogasto":"A","inicial":"77711889000.00","vigente":"77711889000.00"}
+,{"codigoentidad":"17-17-00","nombreentidad":"AGENCIA NACIONAL DE TIERRAS - ANT","codigotipogasto":"C","inicial":"1187087860795.00","vigente":"1187087860795.00"}
+,{"codigoentidad":"17-18-00","nombreentidad":"AGENCIA DE DESARROLLO RURAL - ADR","codigotipogasto":"A","inicial":"51717951000.00","vigente":"51717951000.00"}
+,{"codigoentidad":"17-18-00","nombreentidad":"AGENCIA DE DESARROLLO RURAL - ADR","codigotipogasto":"C","inicial":"495276594073.00","vigente":"495276594073.00"}
+,{"codigoentidad":"19-01-01","nombreentidad":"MINISTERIO DE SALUD Y PROTECCION SOCIAL - GESTION GENERAL","codigotipogasto":"A","inicial":"73677788916041.00","vigente":"73945434850912.00"}
+,{"codigoentidad":"19-01-01","nombreentidad":"MINISTERIO DE SALUD Y PROTECCION SOCIAL - GESTION GENERAL","codigotipogasto":"C","inicial":"2186282465247.00","vigente":"2597908300005.00"}
+,{"codigoentidad":"19-01-06","nombreentidad":"MINISTERIO  DE SALUD Y PROTECCIÓN SOCIAL - UNIDAD ADMINISTRATIVA ESPECIAL FONDO NACIONAL DE ESTUPEFACIENTES","codigotipogasto":"A","inicial":"41654733000.00","vigente":"41654733000.00"}
+,{"codigoentidad":"19-01-06","nombreentidad":"MINISTERIO  DE SALUD Y PROTECCIÓN SOCIAL - UNIDAD ADMINISTRATIVA ESPECIAL FONDO NACIONAL DE ESTUPEFACIENTES","codigotipogasto":"C","inicial":"1000000000.00","vigente":"1000000000.00"}
+,{"codigoentidad":"19-03-00","nombreentidad":"INSTITUTO NACIONAL DE SALUD (INS)","codigotipogasto":"A","inicial":"63567456438.00","vigente":"63567456438.00"}
+,{"codigoentidad":"19-03-00","nombreentidad":"INSTITUTO NACIONAL DE SALUD (INS)","codigotipogasto":"C","inicial":"57763576000.00","vigente":"57763576000.00"}
+,{"codigoentidad":"19-10-00","nombreentidad":"SUPERINTENDENCIA NACIONAL DE SALUD","codigotipogasto":"A","inicial":"270486183000.00","vigente":"270486183000.00"}
+,{"codigoentidad":"19-10-00","nombreentidad":"SUPERINTENDENCIA NACIONAL DE SALUD","codigotipogasto":"C","inicial":"292248473000.00","vigente":"292248473000.00"}
+,{"codigoentidad":"19-12-00","nombreentidad":"INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS - INVIMA","codigotipogasto":"A","inicial":"194139096000.00","vigente":"194139096000.00"}
+,{"codigoentidad":"19-12-00","nombreentidad":"INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS - INVIMA","codigotipogasto":"C","inicial":"83500000000.00","vigente":"83500000000.00"}
+,{"codigoentidad":"19-13-01","nombreentidad":"FONDO DE PREVISIÓN SOCIAL DEL CONGRESO - PENSIONES","codigotipogasto":"A","inicial":"445262549300.00","vigente":"446625334750.00"}
+,{"codigoentidad":"19-13-02","nombreentidad":"FONDO DE PREVISIÓN SOCIAL DEL CONGRESO - CESANTÍAS Y VIVIENDA","codigotipogasto":"A","inicial":"8360489400.00","vigente":"6997703950.00"}
+,{"codigoentidad":"19-14-01","nombreentidad":"FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA - SALUD","codigotipogasto":"A","inicial":"398239511811.00","vigente":"396223511811.00"}
+,{"codigoentidad":"19-14-01","nombreentidad":"FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA - SALUD","codigotipogasto":"C","inicial":"1000000000.00","vigente":"1000000000.00"}
+,{"codigoentidad":"19-14-02","nombreentidad":"FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA - PENSIONES","codigotipogasto":"A","inicial":"448594644854.00","vigente":"495667136361.00"}
+,{"codigoentidad":"19-14-02","nombreentidad":"FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA - PENSIONES","codigotipogasto":"C","inicial":"1000000000.00","vigente":"1000000000.00"}
+,{"codigoentidad":"21-01-01","nombreentidad":"MINISTERIO DE MINAS Y ENERGIA - GESTION GENERAL","codigotipogasto":"A","inicial":"180669500000.00","vigente":"180669500000.00"}
+,{"codigoentidad":"21-01-01","nombreentidad":"MINISTERIO DE MINAS Y ENERGIA - GESTION GENERAL","codigotipogasto":"B","inicial":"3459700000.00","vigente":"3459700000.00"}
+,{"codigoentidad":"21-01-01","nombreentidad":"MINISTERIO DE MINAS Y ENERGIA - GESTION GENERAL","codigotipogasto":"C","inicial":"9430689011809.00","vigente":"9430689011809.00"}
+,{"codigoentidad":"21-01-13","nombreentidad":"MINISTERIO DE MINAS Y ENERGIA - COMISION DE REGULACION DE ENERGIA Y GAS - CREG -","codigotipogasto":"A","inicial":"38835400000.00","vigente":"38835400000.00"}
+,{"codigoentidad":"21-01-13","nombreentidad":"MINISTERIO DE MINAS Y ENERGIA - COMISION DE REGULACION DE ENERGIA Y GAS - CREG -","codigotipogasto":"C","inicial":"24052900000.00","vigente":"24052900000.00"}
+,{"codigoentidad":"21-03-00","nombreentidad":"SERVICIO GEOLOGICO COLOMBIANO","codigotipogasto":"A","inicial":"76428064081.00","vigente":"76428064081.00"}
+,{"codigoentidad":"21-03-00","nombreentidad":"SERVICIO GEOLOGICO COLOMBIANO","codigotipogasto":"C","inicial":"80000000000.00","vigente":"80000000000.00"}
+,{"codigoentidad":"21-09-00","nombreentidad":"UNIDAD DE PLANEACION MINERO ENERGETICA - UPME","codigotipogasto":"A","inicial":"42155600000.00","vigente":"42155600000.00"}
+,{"codigoentidad":"21-09-00","nombreentidad":"UNIDAD DE PLANEACION MINERO ENERGETICA - UPME","codigotipogasto":"C","inicial":"42894252832.00","vigente":"42894252832.00"}
+,{"codigoentidad":"21-10-00","nombreentidad":"INSTITUTO DE PLANIFICACION Y PROMOCION DE SOLUCIONES  ENERGETICAS PARA LAS ZONAS NO INTERCONECTADAS - IPSE","codigotipogasto":"A","inicial":"22713274000.00","vigente":"22713274000.00"}
+,{"codigoentidad":"21-10-00","nombreentidad":"INSTITUTO DE PLANIFICACION Y PROMOCION DE SOLUCIONES  ENERGETICAS PARA LAS ZONAS NO INTERCONECTADAS - IPSE","codigotipogasto":"C","inicial":"50000000000.00","vigente":"50000000000.00"}
+,{"codigoentidad":"21-11-00","nombreentidad":"AGENCIA NACIONAL DE HIDROCARBUROS - ANH","codigotipogasto":"A","inicial":"2754945900000.00","vigente":"2754945900000.00"}
+,{"codigoentidad":"21-11-00","nombreentidad":"AGENCIA NACIONAL DE HIDROCARBUROS - ANH","codigotipogasto":"C","inicial":"423760700000.00","vigente":"423760700000.00"}
+,{"codigoentidad":"21-12-00","nombreentidad":"AGENCIA NACIONAL DE MINERIA - ANM","codigotipogasto":"A","inicial":"127513269391.00","vigente":"127513269391.00"}
+,{"codigoentidad":"21-12-00","nombreentidad":"AGENCIA NACIONAL DE MINERIA - ANM","codigotipogasto":"C","inicial":"90423293000.00","vigente":"90423293000.00"}
+,{"codigoentidad":"22-01-01","nombreentidad":"MINISTERIO EDUCACION NACIONAL - GESTION GENERAL","codigotipogasto":"A","inicial":"72995512455343.00","vigente":"71320673782253.00"}
+,{"codigoentidad":"22-01-01","nombreentidad":"MINISTERIO EDUCACION NACIONAL - GESTION GENERAL","codigotipogasto":"C","inicial":"3543208119834.00","vigente":"3543208119834.00"}
+,{"codigoentidad":"22-34-00","nombreentidad":"ESCUELA TECNOLOGICA INSTITUTO TECNICO CENTRAL","codigotipogasto":"A","inicial":"50721812884.00","vigente":"60907276227.00"}
+,{"codigoentidad":"22-34-00","nombreentidad":"ESCUELA TECNOLOGICA INSTITUTO TECNICO CENTRAL","codigotipogasto":"C","inicial":"28036948202.00","vigente":"28036948202.00"}
+,{"codigoentidad":"22-38-00","nombreentidad":"INSTITUCIÓN UNIVERSITARIA DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA - IUSAI","codigotipogasto":"A","inicial":"9669311369.00","vigente":"16247872357.00"}
+,{"codigoentidad":"22-38-00","nombreentidad":"INSTITUCIÓN UNIVERSITARIA DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA - IUSAI","codigotipogasto":"C","inicial":"7497768303.00","vigente":"7497768303.00"}
+,{"codigoentidad":"22-39-00","nombreentidad":"INSTITUTO NACIONAL DE FORMACION TECNICA PROFESIONAL DE SAN JUAN DEL CESAR","codigotipogasto":"A","inicial":"11425254587.00","vigente":"21824391459.00"}
+,{"codigoentidad":"22-39-00","nombreentidad":"INSTITUTO NACIONAL DE FORMACION TECNICA PROFESIONAL DE SAN JUAN DEL CESAR","codigotipogasto":"C","inicial":"9522349295.00","vigente":"9522349295.00"}
+,{"codigoentidad":"22-41-00","nombreentidad":"INSTITUCIÓN UNIVERSITARIA DE EL ESPINAL - UNIESPINAL","codigotipogasto":"A","inicial":"33762931000.00","vigente":"39054604588.00"}
+,{"codigoentidad":"22-41-00","nombreentidad":"INSTITUCIÓN UNIVERSITARIA DE EL ESPINAL - UNIESPINAL","codigotipogasto":"C","inicial":"24688656370.00","vigente":"24688656370.00"}
+,{"codigoentidad":"22-42-00","nombreentidad":"INSTITUTO TECNICO NACIONAL DE COMERCIO SIMON RODRIGUEZ DE CALI","codigotipogasto":"A","inicial":"15196003642.00","vigente":"21798962135.00"}
+,{"codigoentidad":"22-42-00","nombreentidad":"INSTITUTO TECNICO NACIONAL DE COMERCIO SIMON RODRIGUEZ DE CALI","codigotipogasto":"C","inicial":"12152395223.00","vigente":"12152395223.00"}
+,{"codigoentidad":"22-46-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE ALIMENTACION ESCOLAR","codigotipogasto":"A","inicial":"16586643078.00","vigente":"16586643078.00"}
+,{"codigoentidad":"22-46-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE ALIMENTACION ESCOLAR","codigotipogasto":"C","inicial":"2999536927704.00","vigente":"2999536927704.00"}
+,{"codigoentidad":"22-57-01","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD NACIONAL DE COLOMBIA","codigotipogasto":"A","inicial":"1645482538648.00","vigente":"1747406777582.00"}
+,{"codigoentidad":"22-57-01","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD NACIONAL DE COLOMBIA","codigotipogasto":"C","inicial":"84744865514.00","vigente":"84744865514.00"}
+,{"codigoentidad":"22-57-02","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE ANTIOQUIA","codigotipogasto":"A","inicial":"718761514679.00","vigente":"855004714946.00"}
+,{"codigoentidad":"22-57-02","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE ANTIOQUIA","codigotipogasto":"C","inicial":"10296243192.00","vigente":"10296243192.00"}
+,{"codigoentidad":"22-57-03","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL VALLE","codigotipogasto":"A","inicial":"550302068691.00","vigente":"598554254190.00"}
+,{"codigoentidad":"22-57-03","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL VALLE","codigotipogasto":"C","inicial":"8748509806.00","vigente":"8748509806.00"}
+,{"codigoentidad":"22-57-04","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD INDUSTRIAL DE SANTANDER","codigotipogasto":"A","inicial":"329613746766.00","vigente":"383555873436.00"}
+,{"codigoentidad":"22-57-04","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD INDUSTRIAL DE SANTANDER","codigotipogasto":"C","inicial":"5431527006.00","vigente":"5431527006.00"}
+,{"codigoentidad":"22-57-05","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD PEDAGOGICA Y TECNOLOGICA DE COLOMBIA","codigotipogasto":"A","inicial":"327942971571.00","vigente":"371763051562.00"}
+,{"codigoentidad":"22-57-05","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD PEDAGOGICA Y TECNOLOGICA DE COLOMBIA","codigotipogasto":"C","inicial":"7740281271.00","vigente":"7740281271.00"}
+,{"codigoentidad":"22-57-06","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS","codigotipogasto":"A","inicial":"89160129174.00","vigente":"107104325139.00"}
+,{"codigoentidad":"22-57-06","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS","codigotipogasto":"C","inicial":"2111472948.00","vigente":"2111472948.00"}
+,{"codigoentidad":"22-57-07","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE CARTAGENA","codigotipogasto":"A","inicial":"233909055994.00","vigente":"270207772690.00"}
+,{"codigoentidad":"22-57-07","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE CARTAGENA","codigotipogasto":"C","inicial":"3899390276.00","vigente":"3899390276.00"}
+,{"codigoentidad":"22-57-08","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE NARIÑO","codigotipogasto":"A","inicial":"183272343655.00","vigente":"208720623103.00"}
+,{"codigoentidad":"22-57-08","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE NARIÑO","codigotipogasto":"C","inicial":"3096373042.00","vigente":"3096373042.00"}
+,{"codigoentidad":"22-57-09","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD","codigotipogasto":"A","inicial":"481982884885.00","vigente":"824224769199.00"}
+,{"codigoentidad":"22-57-09","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA UNAD","codigotipogasto":"C","inicial":"3656656138.00","vigente":"3656656138.00"}
+,{"codigoentidad":"22-57-10","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL MAGDALENA","codigotipogasto":"A","inicial":"202120050032.00","vigente":"260197598433.00"}
+,{"codigoentidad":"22-57-10","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL MAGDALENA","codigotipogasto":"C","inicial":"3381689705.00","vigente":"3381689705.00"}
+,{"codigoentidad":"22-57-11","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DEL CAUCA","codigotipogasto":"A","inicial":"262937162318.00","vigente":"290300875314.00"}
+,{"codigoentidad":"22-57-11","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DEL CAUCA","codigotipogasto":"C","inicial":"5603105608.00","vigente":"5603105608.00"}
+,{"codigoentidad":"22-57-12","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD TECNOLOGICA DE PEREIRA","codigotipogasto":"A","inicial":"290427744062.00","vigente":"332327340129.00"}
+,{"codigoentidad":"22-57-12","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD TECNOLOGICA DE PEREIRA","codigotipogasto":"C","inicial":"4962380502.00","vigente":"4962380502.00"}
+,{"codigoentidad":"22-57-13","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE PAMPLONA","codigotipogasto":"A","inicial":"177789383573.00","vigente":"244346401890.00"}
+,{"codigoentidad":"22-57-13","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE PAMPLONA","codigotipogasto":"C","inicial":"2942021481.00","vigente":"2942021481.00"}
+,{"codigoentidad":"22-57-14","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD SURCOLOMBIANA","codigotipogasto":"A","inicial":"158037727918.00","vigente":"184446992148.00"}
+,{"codigoentidad":"22-57-14","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD SURCOLOMBIANA","codigotipogasto":"C","inicial":"4553071624.00","vigente":"4553071624.00"}
+,{"codigoentidad":"22-57-15","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD PEDAGOGICA NACIONAL","codigotipogasto":"A","inicial":"192858791691.00","vigente":"221082707754.00"}
+,{"codigoentidad":"22-57-15","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD PEDAGOGICA NACIONAL","codigotipogasto":"C","inicial":"3797037587.00","vigente":"3797037587.00"}
+,{"codigoentidad":"22-57-16","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE CALDAS","codigotipogasto":"A","inicial":"215621489319.00","vigente":"248414187806.00"}
+,{"codigoentidad":"22-57-16","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE CALDAS","codigotipogasto":"C","inicial":"6067171301.00","vigente":"6067171301.00"}
+,{"codigoentidad":"22-57-17","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD MILITAR NUEVA GRANADA","codigotipogasto":"A","inicial":"184754318685.00","vigente":"297270025330.00"}
+,{"codigoentidad":"22-57-17","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD MILITAR NUEVA GRANADA","codigotipogasto":"C","inicial":"2219943104.00","vigente":"2219943104.00"}
+,{"codigoentidad":"22-57-18","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL ATLÁNTICO","codigotipogasto":"A","inicial":"288807302009.00","vigente":"317836807749.00"}
+,{"codigoentidad":"22-57-18","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL ATLÁNTICO","codigotipogasto":"C","inicial":"4655496516.00","vigente":"4655496516.00"}
+,{"codigoentidad":"22-57-19","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL TOLIMA","codigotipogasto":"A","inicial":"174670949280.00","vigente":"223793983246.00"}
+,{"codigoentidad":"22-57-19","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL TOLIMA","codigotipogasto":"C","inicial":"2920770038.00","vigente":"2920770038.00"}
+,{"codigoentidad":"22-57-20","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE CORDOBA","codigotipogasto":"A","inicial":"213663434883.00","vigente":"241508492001.00"}
+,{"codigoentidad":"22-57-20","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE CORDOBA","codigotipogasto":"C","inicial":"2885399453.00","vigente":"2885399453.00"}
+,{"codigoentidad":"22-57-21","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL QUINDÍO","codigotipogasto":"A","inicial":"163716216481.00","vigente":"192779623511.00"}
+,{"codigoentidad":"22-57-21","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DEL QUINDÍO","codigotipogasto":"C","inicial":"2920026026.00","vigente":"2920026026.00"}
+,{"codigoentidad":"22-57-22","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD POPULAR DEL CESAR","codigotipogasto":"A","inicial":"122049567844.00","vigente":"159410527402.00"}
+,{"codigoentidad":"22-57-22","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD POPULAR DEL CESAR","codigotipogasto":"C","inicial":"1526601765.00","vigente":"1526601765.00"}
+,{"codigoentidad":"22-57-23","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE LOS LLANOS","codigotipogasto":"A","inicial":"99225330556.00","vigente":"119756839510.00"}
+,{"codigoentidad":"22-57-23","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE LOS LLANOS","codigotipogasto":"C","inicial":"2150178816.00","vigente":"2150178816.00"}
+,{"codigoentidad":"22-57-24","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD FRANCISCO DE PAULA SANTANDER","codigotipogasto":"A","inicial":"128755257450.00","vigente":"158837349532.00"}
+,{"codigoentidad":"22-57-24","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD FRANCISCO DE PAULA SANTANDER","codigotipogasto":"C","inicial":"2459572384.00","vigente":"2459572384.00"}
+,{"codigoentidad":"22-57-25","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD FRANCISCO DE PAULA SANTANDER SECCIONAL OCAÑA","codigotipogasto":"A","inicial":"80270688175.00","vigente":"100163698833.00"}
+,{"codigoentidad":"22-57-25","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD FRANCISCO DE PAULA SANTANDER SECCIONAL OCAÑA","codigotipogasto":"C","inicial":"1724179210.00","vigente":"1724179210.00"}
+,{"codigoentidad":"22-57-26","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE LA AMAZONIA","codigotipogasto":"A","inicial":"107369409041.00","vigente":"133344287557.00"}
+,{"codigoentidad":"22-57-26","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DE LA AMAZONIA","codigotipogasto":"C","inicial":"1663810209.00","vigente":"1663810209.00"}
+,{"codigoentidad":"22-57-27","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA","codigotipogasto":"A","inicial":"94734362373.00","vigente":"123550150448.00"}
+,{"codigoentidad":"22-57-27","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA","codigotipogasto":"C","inicial":"1724444190.00","vigente":"1724444190.00"}
+,{"codigoentidad":"22-57-28","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE CUNDINAMARCA","codigotipogasto":"A","inicial":"81252519558.00","vigente":"107634806858.00"}
+,{"codigoentidad":"22-57-28","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE CUNDINAMARCA","codigotipogasto":"C","inicial":"1666480889.00","vigente":"1666480889.00"}
+,{"codigoentidad":"22-57-29","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD TECNOLOGICA DEL CHOCO DIEGO LUIS CORDOBA","codigotipogasto":"A","inicial":"143829707629.00","vigente":"167919215597.00"}
+,{"codigoentidad":"22-57-29","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD TECNOLOGICA DEL CHOCO DIEGO LUIS CORDOBA","codigotipogasto":"C","inicial":"1311546022.00","vigente":"1311546022.00"}
+,{"codigoentidad":"22-57-30","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE SUCRE","codigotipogasto":"A","inicial":"88599381745.00","vigente":"112473569591.00"}
+,{"codigoentidad":"22-57-30","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE SUCRE","codigotipogasto":"C","inicial":"1908484576.00","vigente":"1908484576.00"}
+,{"codigoentidad":"22-57-31","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD DE LA GUAJIRA","codigotipogasto":"A","inicial":"112870549606.00","vigente":"145185137604.00"}
+,{"codigoentidad":"22-57-32","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DEL PACIFICO","codigotipogasto":"A","inicial":"60048029971.00","vigente":"68893208341.00"}
+,{"codigoentidad":"22-57-32","nombreentidad":"UNIVERSIDADES PUBLICAS - UNIVERSIDAD DEL PACIFICO","codigotipogasto":"C","inicial":"742440424.00","vigente":"742440424.00"}
+,{"codigoentidad":"22-57-33","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD INTERNACIONAL DEL TRÓPICO AMERICANO","codigotipogasto":"A","inicial":"54319523242.00","vigente":"74264820199.00"}
+,{"codigoentidad":"22-57-33","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD INTERNACIONAL DEL TRÓPICO AMERICANO","codigotipogasto":"C","inicial":"1358187201.00","vigente":"1358187201.00"}
+,{"codigoentidad":"22-57-34","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD AUTÓNOMA INDÍGENA INTERCULTURAL UAIIN CRIC","codigotipogasto":"A","inicial":"26211820649.00","vigente":"28868043329.00"}
+,{"codigoentidad":"22-57-34","nombreentidad":"UNIVERSIDADES PÚBLICAS - UNIVERSIDAD AUTÓNOMA INDÍGENA INTERCULTURAL UAIIN CRIC","codigotipogasto":"C","inicial":"787928929.00","vigente":"787928929.00"}
+,{"codigoentidad":"23-01-01","nombreentidad":"MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"105787329570.00","vigente":"105787329570.00"}
+,{"codigoentidad":"23-06-00","nombreentidad":"FONDO UNICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES","codigotipogasto":"A","inicial":"368070684000.00","vigente":"368070684000.00"}
+,{"codigoentidad":"23-06-00","nombreentidad":"FONDO UNICO DE TECNOLOGIAS DE LA INFORMACION Y LAS COMUNICACIONES","codigotipogasto":"C","inicial":"1485146818000.00","vigente":"1485146818000.00"}
+,{"codigoentidad":"23-08-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL COMISION DE REGULACION DE COMUNICACIONES","codigotipogasto":"A","inicial":"39201973000.00","vigente":"39201973000.00"}
+,{"codigoentidad":"23-08-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL COMISION DE REGULACION DE COMUNICACIONES","codigotipogasto":"C","inicial":"19872218000.00","vigente":"19872218000.00"}
+,{"codigoentidad":"23-09-00","nombreentidad":"AGENCIA NACIONAL DEL ESPECTRO - ANE","codigotipogasto":"A","inicial":"26413423000.00","vigente":"26413423000.00"}
+,{"codigoentidad":"23-09-00","nombreentidad":"AGENCIA NACIONAL DEL ESPECTRO - ANE","codigotipogasto":"C","inicial":"20458787000.00","vigente":"22745114508.00"}
+,{"codigoentidad":"23-11-00","nombreentidad":"COMPUTADORES PARA EDUCAR (CPE)","codigotipogasto":"A","inicial":"29515356000.00","vigente":"29515356000.00"}
+,{"codigoentidad":"23-11-00","nombreentidad":"COMPUTADORES PARA EDUCAR (CPE)","codigotipogasto":"C","inicial":"38120402000.00","vigente":"38120402000.00"}
+,{"codigoentidad":"23-12-00","nombreentidad":"CORPORACIÓN AGENCIA NACIONAL DE GOBIERNO DIGITAL - AND","codigotipogasto":"A","inicial":"6028896000.00","vigente":"6028896000.00"}
+,{"codigoentidad":"23-12-00","nombreentidad":"CORPORACIÓN AGENCIA NACIONAL DE GOBIERNO DIGITAL - AND","codigotipogasto":"C","inicial":"144253247581.00","vigente":"144253247581.00"}
+,{"codigoentidad":"24-01-01","nombreentidad":"MINISTERIO DE TRANSPORTE - GESTION GENERAL","codigotipogasto":"A","inicial":"318618478299.00","vigente":"318618478299.00"}
+,{"codigoentidad":"24-01-01","nombreentidad":"MINISTERIO DE TRANSPORTE - GESTION GENERAL","codigotipogasto":"B","inicial":"6797215826.00","vigente":"6797215826.00"}
+,{"codigoentidad":"24-01-01","nombreentidad":"MINISTERIO DE TRANSPORTE - GESTION GENERAL","codigotipogasto":"C","inicial":"152722000000.00","vigente":"152722000000.00"}
+,{"codigoentidad":"24-02-00","nombreentidad":"INSTITUTO NACIONAL DE VIAS","codigotipogasto":"A","inicial":"389835633504.00","vigente":"394080633504.00"}
+,{"codigoentidad":"24-02-00","nombreentidad":"INSTITUTO NACIONAL DE VIAS","codigotipogasto":"B","inicial":"601876014.00","vigente":"601876014.00"}
+,{"codigoentidad":"24-02-00","nombreentidad":"INSTITUTO NACIONAL DE VIAS","codigotipogasto":"C","inicial":"5236922134010.00","vigente":"5236922134010.00"}
+,{"codigoentidad":"24-12-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE LA AERONAUTICA CIVIL","codigotipogasto":"A","inicial":"1266851601398.00","vigente":"1266851601398.00"}
+,{"codigoentidad":"24-12-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE LA AERONAUTICA CIVIL","codigotipogasto":"C","inicial":"2136607794828.00","vigente":"2136607794828.00"}
+,{"codigoentidad":"24-13-00","nombreentidad":"AGENCIA NACIONAL DE INFRAESTRUCTURA","codigotipogasto":"A","inicial":"139501322130.00","vigente":"139501322130.00"}
+,{"codigoentidad":"24-13-00","nombreentidad":"AGENCIA NACIONAL DE INFRAESTRUCTURA","codigotipogasto":"B","inicial":"2723269063087.00","vigente":"2723269063087.00"}
+,{"codigoentidad":"24-13-00","nombreentidad":"AGENCIA NACIONAL DE INFRAESTRUCTURA","codigotipogasto":"C","inicial":"7733782075177.00","vigente":"7733782075177.00"}
+,{"codigoentidad":"24-14-00","nombreentidad":"UNIDAD DE PLANEACION DEL SECTOR DE INFRAESTRUCTURA DE TRANSPORTE","codigotipogasto":"A","inicial":"18936834324.00","vigente":"18936834324.00"}
+,{"codigoentidad":"24-14-00","nombreentidad":"UNIDAD DE PLANEACION DEL SECTOR DE INFRAESTRUCTURA DE TRANSPORTE","codigotipogasto":"C","inicial":"16000000000.00","vigente":"16000000000.00"}
+,{"codigoentidad":"24-15-00","nombreentidad":"COMISIÓN DE REGULACIÓN DE INFRAESTRUCTURA Y TRANSPORTE","codigotipogasto":"A","inicial":"1407199000.00","vigente":"1407199000.00"}
+,{"codigoentidad":"24-16-00","nombreentidad":"AGENCIA NACIONAL DE SEGURIDAD VIAL","codigotipogasto":"A","inicial":"31832825000.00","vigente":"31832825000.00"}
+,{"codigoentidad":"24-16-00","nombreentidad":"AGENCIA NACIONAL DE SEGURIDAD VIAL","codigotipogasto":"C","inicial":"238743316887.00","vigente":"238743316887.00"}
+,{"codigoentidad":"24-17-00","nombreentidad":"SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE","codigotipogasto":"A","inicial":"71634302477.00","vigente":"71634302477.00"}
+,{"codigoentidad":"24-17-00","nombreentidad":"SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE","codigotipogasto":"C","inicial":"40619000000.00","vigente":"40619000000.00"}
+,{"codigoentidad":"25-01-01","nombreentidad":"PROCURADURIA GENERAL DE LA NACION - GESTION GENERAL","codigotipogasto":"A","inicial":"1440148078008.00","vigente":"1440148078008.00"}
+,{"codigoentidad":"25-01-01","nombreentidad":"PROCURADURIA GENERAL DE LA NACION - GESTION GENERAL","codigotipogasto":"C","inicial":"661498000000.00","vigente":"661498000000.00"}
+,{"codigoentidad":"25-01-05","nombreentidad":"MINISTERIO PUBLICO - INSTITUTO DE ESTUDIOS DEL MINISTERIO PUBLICO","codigotipogasto":"A","inicial":"744000000.00","vigente":"744000000.00"}
+,{"codigoentidad":"25-02-00","nombreentidad":"DEFENSORIA DEL PUEBLO","codigotipogasto":"A","inicial":"1107599530926.00","vigente":"1116851530926.00"}
+,{"codigoentidad":"25-02-00","nombreentidad":"DEFENSORIA DEL PUEBLO","codigotipogasto":"C","inicial":"85610000000.00","vigente":"85610000000.00"}
+,{"codigoentidad":"26-01-01","nombreentidad":"CONTRALORIA GENERAL DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"A","inicial":"1367874000000.00","vigente":"1367874000000.00"}
+,{"codigoentidad":"26-01-01","nombreentidad":"CONTRALORIA GENERAL DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"C","inicial":"130690928818.00","vigente":"130690928818.00"}
+,{"codigoentidad":"26-02-00","nombreentidad":"FONDO DE BIENESTAR SOCIAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA","codigotipogasto":"A","inicial":"157254950824.00","vigente":"157254950824.00"}
+,{"codigoentidad":"26-02-00","nombreentidad":"FONDO DE BIENESTAR SOCIAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA","codigotipogasto":"C","inicial":"1041226669.00","vigente":"1041226669.00"}
+,{"codigoentidad":"27-01-01","nombreentidad":"RAMA JUDICIAL - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"9459483033632.00","vigente":"9459483033632.00"}
+,{"codigoentidad":"27-01-01","nombreentidad":"RAMA JUDICIAL - GESTIÓN GENERAL","codigotipogasto":"B","inicial":"17695578134.00","vigente":"17695578134.00"}
+,{"codigoentidad":"27-01-01","nombreentidad":"RAMA JUDICIAL - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"1449610576324.00","vigente":"1449610576324.00"}
+,{"codigoentidad":"27-01-02","nombreentidad":"RAMA JUDICIAL - CONSEJO SUPERIOR DE LA JUDICATURA","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"28-01-01","nombreentidad":"REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL","codigotipogasto":"A","inicial":"5370847552000.00","vigente":"5370847552000.00"}
+,{"codigoentidad":"28-01-01","nombreentidad":"REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL","codigotipogasto":"C","inicial":"215312056738.00","vigente":"215312056738.00"}
+,{"codigoentidad":"28-02-00","nombreentidad":"FONDO ROTATORIO DE LA REGISTRADURIA","codigotipogasto":"A","inicial":"72704515000.00","vigente":"72704515000.00"}
+,{"codigoentidad":"28-02-00","nombreentidad":"FONDO ROTATORIO DE LA REGISTRADURIA","codigotipogasto":"C","inicial":"173250572845.00","vigente":"173250572845.00"}
+,{"codigoentidad":"28-03-00","nombreentidad":"FONDO SOCIAL DE VIVIENDA DE LA REGISTRADURÍA NACIONAL DEL ESTADO CIVIL","codigotipogasto":"A","inicial":"15943944000.00","vigente":"15943944000.00"}
+,{"codigoentidad":"28-04-00","nombreentidad":"CONSEJO NACIONAL ELECTORAL- CNE","codigotipogasto":"A","inicial":"1103673234000.00","vigente":"1231355937616.00"}
+,{"codigoentidad":"28-04-00","nombreentidad":"CONSEJO NACIONAL ELECTORAL- CNE","codigotipogasto":"C","inicial":"8000000000.00","vigente":"8000000000.00"}
+,{"codigoentidad":"29-01-01","nombreentidad":"FISCALIA GENERAL DE LA NACION - GESTION GENERAL","codigotipogasto":"A","inicial":"6358289203845.00","vigente":"6358289203845.00"}
+,{"codigoentidad":"29-01-01","nombreentidad":"FISCALIA GENERAL DE LA NACION - GESTION GENERAL","codigotipogasto":"B","inicial":"173977914661.00","vigente":"173977914661.00"}
+,{"codigoentidad":"29-01-01","nombreentidad":"FISCALIA GENERAL DE LA NACION - GESTION GENERAL","codigotipogasto":"C","inicial":"254108133045.00","vigente":"254108133045.00"}
+,{"codigoentidad":"29-02-00","nombreentidad":"INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES","codigotipogasto":"A","inicial":"411552835847.00","vigente":"411552835847.00"}
+,{"codigoentidad":"29-02-00","nombreentidad":"INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES","codigotipogasto":"C","inicial":"136870701548.00","vigente":"136870701548.00"}
+,{"codigoentidad":"29-04-00","nombreentidad":"FONDO ESPECIAL PARA LA ADMINISTRACION DE BIENES DE LA FISCALIA GENERAL DE LA NACION","codigotipogasto":"A","inicial":"23303804000.00","vigente":"23303804000.00"}
+,{"codigoentidad":"29-04-00","nombreentidad":"FONDO ESPECIAL PARA LA ADMINISTRACION DE BIENES DE LA FISCALIA GENERAL DE LA NACION","codigotipogasto":"C","inicial":"16071707549.00","vigente":"16071707549.00"}
+,{"codigoentidad":"32-01-01","nombreentidad":"MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE - GESTION GENERAL","codigotipogasto":"A","inicial":"203525400000.00","vigente":"203525400000.00"}
+,{"codigoentidad":"32-01-01","nombreentidad":"MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE - GESTION GENERAL","codigotipogasto":"C","inicial":"770306713491.00","vigente":"742821276434.00"}
+,{"codigoentidad":"32-01-02","nombreentidad":"PARQUES NACIONALES NATURALES DE COLOMBIA","codigotipogasto":"A","inicial":"69539046000.00","vigente":"69539046000.00"}
+,{"codigoentidad":"32-01-02","nombreentidad":"PARQUES NACIONALES NATURALES DE COLOMBIA","codigotipogasto":"C","inicial":"67899155271.00","vigente":"67899155271.00"}
+,{"codigoentidad":"32-01-04","nombreentidad":"AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES ANLA","codigotipogasto":"A","inicial":"100153330000.00","vigente":"100153330000.00"}
+,{"codigoentidad":"32-01-04","nombreentidad":"AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES ANLA","codigotipogasto":"C","inicial":"28978971207.00","vigente":"28978971207.00"}
+,{"codigoentidad":"32-02-00","nombreentidad":"INSTITUTO DE HIDROLOGIA, METEOROLOGIA Y ESTUDIOS AMBIENTALES - IDEAM","codigotipogasto":"A","inicial":"64521150000.00","vigente":"64521150000.00"}
+,{"codigoentidad":"32-02-00","nombreentidad":"INSTITUTO DE HIDROLOGIA, METEOROLOGIA Y ESTUDIOS AMBIENTALES - IDEAM","codigotipogasto":"C","inicial":"57563244675.00","vigente":"57563244675.00"}
+,{"codigoentidad":"32-04-01","nombreentidad":"FONDO NACIONAL AMBIENTAL - GESTION GENERAL","codigotipogasto":"A","inicial":"101015900000.00","vigente":"101015900000.00"}
+,{"codigoentidad":"32-04-01","nombreentidad":"FONDO NACIONAL AMBIENTAL - GESTION GENERAL","codigotipogasto":"C","inicial":"189545712302.00","vigente":"189545712302.00"}
+,{"codigoentidad":"32-08-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE LOS VALLES DEL SINÚ Y SAN JORGE (CVS)","codigotipogasto":"A","inicial":"5642900000.00","vigente":"7754151986.00"}
+,{"codigoentidad":"32-08-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE LOS VALLES DEL SINÚ Y SAN JORGE (CVS)","codigotipogasto":"C","inicial":"0.00","vigente":"8704973355.00"}
+,{"codigoentidad":"32-09-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL QUINDÍO (CRQ)","codigotipogasto":"A","inicial":"6736200000.00","vigente":"6736200000.00"}
+,{"codigoentidad":"32-10-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL URABÁ (CORPOURABÁ)","codigotipogasto":"A","inicial":"5396381000.00","vigente":"5396381000.00"}
+,{"codigoentidad":"32-10-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL URABÁ (CORPOURABÁ)","codigotipogasto":"C","inicial":"0.00","vigente":"4162625653.00"}
+,{"codigoentidad":"32-11-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE CALDAS (CORPOCALDAS)","codigotipogasto":"A","inicial":"5649897000.00","vigente":"5649897000.00"}
+,{"codigoentidad":"32-12-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL PARA EL DESARROLLO SOSTENIBLE DEL CHOCO (CODECHOCO)","codigotipogasto":"A","inicial":"25647347000.00","vigente":"25647347000.00"}
+,{"codigoentidad":"32-12-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL PARA EL DESARROLLO SOSTENIBLE DEL CHOCO (CODECHOCO)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-13-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL PARA LA DEFENSA DE LA MESETA DE BUCARAMANGA (CDMB)","codigotipogasto":"A","inicial":"1702100000.00","vigente":"1702100000.00"}
+,{"codigoentidad":"32-14-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL TOLIMA (CORTOLIMA)","codigotipogasto":"A","inicial":"2919169000.00","vigente":"2919169000.00"}
+,{"codigoentidad":"32-15-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE RISARALDA (CARDER)","codigotipogasto":"A","inicial":"3750858000.00","vigente":"3750858000.00"}
+,{"codigoentidad":"32-15-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE RISARALDA (CARDER)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-16-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE NARIÑO (CORPONARIÑO)","codigotipogasto":"A","inicial":"3755968000.00","vigente":"3755968000.00"}
+,{"codigoentidad":"32-17-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE LA FRONTERA NORORIENTAL (CORPONOR)","codigotipogasto":"A","inicial":"5322600000.00","vigente":"5322600000.00"}
+,{"codigoentidad":"32-18-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE LA GUAJIRA (CORPOGUAJIRA)","codigotipogasto":"A","inicial":"5374800000.00","vigente":"5374800000.00"}
+,{"codigoentidad":"32-19-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL CESAR (CORPOCESAR)","codigotipogasto":"A","inicial":"4302600000.00","vigente":"4302600000.00"}
+,{"codigoentidad":"32-21-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL CAUCA (CRC)","codigotipogasto":"A","inicial":"8565519000.00","vigente":"8565519000.00"}
+,{"codigoentidad":"32-22-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL MAGDALENA (CORPAMAG)","codigotipogasto":"A","inicial":"7110300000.00","vigente":"7110300000.00"}
+,{"codigoentidad":"32-23-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL SUR DE LA AMAZONIA (CORPOAMAZONIA)","codigotipogasto":"A","inicial":"3223706000.00","vigente":"3223706000.00"}
+,{"codigoentidad":"32-23-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL SUR DE LA AMAZONIA (CORPOAMAZONIA)","codigotipogasto":"C","inicial":"0.00","vigente":"7370424242.00"}
+,{"codigoentidad":"32-24-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL NORTE Y ORIENTE DE LA AMAZONIA (CDA)","codigotipogasto":"A","inicial":"3476200000.00","vigente":"3476200000.00"}
+,{"codigoentidad":"32-24-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL NORTE Y ORIENTE DE LA AMAZONIA (CDA)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-26-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA (CORALINA)","codigotipogasto":"A","inicial":"3364359000.00","vigente":"3364359000.00"}
+,{"codigoentidad":"32-26-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA (CORALINA)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-27-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ÁREA DE MANEJO ESPECIAL LA MACARENA (CORMACARENA)","codigotipogasto":"A","inicial":"3673580000.00","vigente":"3673580000.00"}
+,{"codigoentidad":"32-28-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DE LA MOJANA Y EL SAN JORGE (CORPOMOJANA)","codigotipogasto":"A","inicial":"3311700000.00","vigente":"3311700000.00"}
+,{"codigoentidad":"32-28-00","nombreentidad":"CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DE LA MOJANA Y EL SAN JORGE (CORPOMOJANA)","codigotipogasto":"C","inicial":"0.00","vigente":"1825349130.00"}
+,{"codigoentidad":"32-29-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE LA ORINOQUIA (CORPORINOQUIA)","codigotipogasto":"A","inicial":"3148460000.00","vigente":"3148460000.00"}
+,{"codigoentidad":"32-30-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE SUCRE (CARSUCRE)","codigotipogasto":"A","inicial":"3670000000.00","vigente":"3670000000.00"}
+,{"codigoentidad":"32-30-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE SUCRE (CARSUCRE)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-31-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL ALTO MAGDALENA (CAM)","codigotipogasto":"A","inicial":"3262600000.00","vigente":"3262600000.00"}
+,{"codigoentidad":"32-32-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL CENTRO DE ANTIOQUIA (CORANTIOQUIA)","codigotipogasto":"A","inicial":"3459800000.00","vigente":"3459800000.00"}
+,{"codigoentidad":"32-33-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL ATLÁNTICO (CRA)","codigotipogasto":"A","inicial":"3004000000.00","vigente":"3004000000.00"}
+,{"codigoentidad":"32-34-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE SANTANDER (CAS)","codigotipogasto":"A","inicial":"3149000000.00","vigente":"3149000000.00"}
+,{"codigoentidad":"32-34-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE SANTANDER (CAS)","codigotipogasto":"C","inicial":"0.00","vigente":"5422064677.00"}
+,{"codigoentidad":"32-35-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE BOYACÁ (CORPOBOYACÁ)","codigotipogasto":"A","inicial":"3029600000.00","vigente":"3029600000.00"}
+,{"codigoentidad":"32-36-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE CHIVOR (CORPOCHIVOR)","codigotipogasto":"A","inicial":"3387400000.00","vigente":"3387400000.00"}
+,{"codigoentidad":"32-36-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DE CHIVOR (CORPOCHIVOR)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-37-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL GUAVIO (CORPOGUAVIO)","codigotipogasto":"A","inicial":"1062800000.00","vigente":"1062800000.00"}
+,{"codigoentidad":"32-37-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL GUAVIO (CORPOGUAVIO)","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"32-38-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL CANAL DEL DIQUE (CARDIQUE)","codigotipogasto":"A","inicial":"3274900000.00","vigente":"3274900000.00"}
+,{"codigoentidad":"32-39-00","nombreentidad":"CORPORACIÓN AUTÓNOMA REGIONAL DEL SUR DE BOLIVAR (CSB)","codigotipogasto":"A","inicial":"3955000000.00","vigente":"3955000000.00"}
+,{"codigoentidad":"33-01-01","nombreentidad":"MINISTERIO DE LAS CULTURAS, LAS ARTES Y LOS SABERES - GESTION GENERAL","codigotipogasto":"A","inicial":"328388065373.00","vigente":"347288065373.00"}
+,{"codigoentidad":"33-01-01","nombreentidad":"MINISTERIO DE LAS CULTURAS, LAS ARTES Y LOS SABERES - GESTION GENERAL","codigotipogasto":"C","inicial":"673000000000.00","vigente":"694181093152.00"}
+,{"codigoentidad":"33-04-00","nombreentidad":"ARCHIVO GENERAL DE LA NACION","codigotipogasto":"A","inicial":"22164626377.00","vigente":"24499079520.00"}
+,{"codigoentidad":"33-04-00","nombreentidad":"ARCHIVO GENERAL DE LA NACION","codigotipogasto":"C","inicial":"31039572619.00","vigente":"31039572619.00"}
+,{"codigoentidad":"33-05-00","nombreentidad":"INSTITUTO COLOMBIANO DE ANTROPOLOGIA E HISTORIA","codigotipogasto":"A","inicial":"28005672941.00","vigente":"28005672941.00"}
+,{"codigoentidad":"33-05-00","nombreentidad":"INSTITUTO COLOMBIANO DE ANTROPOLOGIA E HISTORIA","codigotipogasto":"C","inicial":"21840198439.00","vigente":"21840198439.00"}
+,{"codigoentidad":"33-07-00","nombreentidad":"INSTITUTO CARO Y CUERVO","codigotipogasto":"A","inicial":"17348366170.00","vigente":"17348366170.00"}
+,{"codigoentidad":"33-07-00","nombreentidad":"INSTITUTO CARO Y CUERVO","codigotipogasto":"C","inicial":"13463435000.00","vigente":"13463435000.00"}
+,{"codigoentidad":"34-01-01","nombreentidad":"AUDITORIA GENERAL DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"A","inicial":"51919673120.00","vigente":"67391799191.00"}
+,{"codigoentidad":"34-01-01","nombreentidad":"AUDITORIA GENERAL DE LA REPUBLICA - GESTION GENERAL","codigotipogasto":"C","inicial":"11188264269.00","vigente":"11188264269.00"}
+,{"codigoentidad":"35-01-01","nombreentidad":"MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL","codigotipogasto":"A","inicial":"930315170216.00","vigente":"930315170216.00"}
+,{"codigoentidad":"35-01-01","nombreentidad":"MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL","codigotipogasto":"C","inicial":"181478630061.00","vigente":"181478630061.00"}
+,{"codigoentidad":"35-01-02","nombreentidad":"MINCOMERCIO INDUSTRIA TURISMO - DIRECCION GENERAL DE COMERCIO EXTERIOR","codigotipogasto":"A","inicial":"27554407000.00","vigente":"27554407000.00"}
+,{"codigoentidad":"35-01-02","nombreentidad":"MINCOMERCIO INDUSTRIA TURISMO - DIRECCION GENERAL DE COMERCIO EXTERIOR","codigotipogasto":"C","inicial":"14307498649.00","vigente":"14307498649.00"}
+,{"codigoentidad":"35-02-00","nombreentidad":"SUPERINTENDENCIA DE SOCIEDADES","codigotipogasto":"A","inicial":"203800677000.00","vigente":"206518876722.00"}
+,{"codigoentidad":"35-02-00","nombreentidad":"SUPERINTENDENCIA DE SOCIEDADES","codigotipogasto":"C","inicial":"32373593772.00","vigente":"32373593772.00"}
+,{"codigoentidad":"35-03-00","nombreentidad":"SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO","codigotipogasto":"A","inicial":"234207310000.00","vigente":"234207310000.00"}
+,{"codigoentidad":"35-03-00","nombreentidad":"SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO","codigotipogasto":"C","inicial":"75790516321.00","vigente":"77290516321.00"}
+,{"codigoentidad":"35-04-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL CONTADORES","codigotipogasto":"A","inicial":"15632573000.00","vigente":"15632573000.00"}
+,{"codigoentidad":"35-04-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL CONTADORES","codigotipogasto":"C","inicial":"14455244744.00","vigente":"14455244744.00"}
+,{"codigoentidad":"35-05-00","nombreentidad":"INSTITUTO NACIONAL DE METROLOGIA - INM","codigotipogasto":"A","inicial":"24420070000.00","vigente":"24420070000.00"}
+,{"codigoentidad":"35-05-00","nombreentidad":"INSTITUTO NACIONAL DE METROLOGIA - INM","codigotipogasto":"C","inicial":"15263074472.00","vigente":"15263074472.00"}
+,{"codigoentidad":"36-01-01","nombreentidad":"MINISTERIO DEL TRABAJO - GESTION GENERAL","codigotipogasto":"A","inicial":"49792501096920.00","vigente":"49777044605413.00"}
+,{"codigoentidad":"36-01-01","nombreentidad":"MINISTERIO DEL TRABAJO - GESTION GENERAL","codigotipogasto":"C","inicial":"434172702382.00","vigente":"434172702382.00"}
+,{"codigoentidad":"36-01-07","nombreentidad":"MINISTERIO DEL TRABAJO - SUPERINTENDENCIA DE SUBSIDIO FAMILIAR","codigotipogasto":"A","inicial":"53206501000.00","vigente":"53206501000.00"}
+,{"codigoentidad":"36-01-07","nombreentidad":"MINISTERIO DEL TRABAJO - SUPERINTENDENCIA DE SUBSIDIO FAMILIAR","codigotipogasto":"C","inicial":"32801000000.00","vigente":"32801000000.00"}
+,{"codigoentidad":"36-02-00","nombreentidad":"SERVICIO NACIONAL DE APRENDIZAJE (SENA)","codigotipogasto":"A","inicial":"136827084000.00","vigente":"136827084000.00"}
+,{"codigoentidad":"36-02-00","nombreentidad":"SERVICIO NACIONAL DE APRENDIZAJE (SENA)","codigotipogasto":"C","inicial":"6254634141447.00","vigente":"6254634141447.00"}
+,{"codigoentidad":"36-12-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS","codigotipogasto":"A","inicial":"10729123640.00","vigente":"10729123640.00"}
+,{"codigoentidad":"36-12-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS","codigotipogasto":"C","inicial":"44458557030.00","vigente":"44458557030.00"}
+,{"codigoentidad":"36-13-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DEL SERVICIO PÚBLICO DE EMPLEO","codigotipogasto":"A","inicial":"15514995069.00","vigente":"15514995069.00"}
+,{"codigoentidad":"36-13-00","nombreentidad":"UNIDAD ADMINISTRATIVA ESPECIAL DEL SERVICIO PÚBLICO DE EMPLEO","codigotipogasto":"C","inicial":"16099690804.00","vigente":"16099690804.00"}
+,{"codigoentidad":"37-01-01","nombreentidad":"MINISTERIO DEL INTERIOR - GESTION GENERAL","codigotipogasto":"A","inicial":"1027800531939.00","vigente":"1039628864531.00"}
+,{"codigoentidad":"37-01-01","nombreentidad":"MINISTERIO DEL INTERIOR - GESTION GENERAL","codigotipogasto":"C","inicial":"312006698725.00","vigente":"312006698725.00"}
+,{"codigoentidad":"37-01-02","nombreentidad":"DIRECCIÓN DE LA AUTORIDAD NACIONAL DE CONSULTA PREVIA","codigotipogasto":"A","inicial":"87163056447.00","vigente":"87163056447.00"}
+,{"codigoentidad":"37-01-02","nombreentidad":"DIRECCIÓN DE LA AUTORIDAD NACIONAL DE CONSULTA PREVIA","codigotipogasto":"C","inicial":"2000000000.00","vigente":"2000000000.00"}
+,{"codigoentidad":"37-03-00","nombreentidad":"DIRECCION NACIONAL DEL DERECHO DE AUTOR","codigotipogasto":"A","inicial":"6326100956.00","vigente":"6326100956.00"}
+,{"codigoentidad":"37-03-00","nombreentidad":"DIRECCION NACIONAL DEL DERECHO DE AUTOR","codigotipogasto":"C","inicial":"2430671401.00","vigente":"2430671401.00"}
+,{"codigoentidad":"37-04-00","nombreentidad":"CORPORACION NACIONAL PARA LA RECONSTRUCCION DE LA CUENCA DEL RIO PAEZ Y ZONAS ALEDAÑAS NASA KI WE","codigotipogasto":"A","inicial":"4871515875.00","vigente":"4871515875.00"}
+,{"codigoentidad":"37-04-00","nombreentidad":"CORPORACION NACIONAL PARA LA RECONSTRUCCION DE LA CUENCA DEL RIO PAEZ Y ZONAS ALEDAÑAS NASA KI WE","codigotipogasto":"C","inicial":"17000000000.00","vigente":"17000000000.00"}
+,{"codigoentidad":"37-08-00","nombreentidad":"UNIDAD NACIONAL DE PROTECCIÓN - UNP","codigotipogasto":"A","inicial":"2713303201284.00","vigente":"3207705986544.00"}
+,{"codigoentidad":"37-08-00","nombreentidad":"UNIDAD NACIONAL DE PROTECCIÓN - UNP","codigotipogasto":"B","inicial":"3610711702.00","vigente":"3610711702.00"}
+,{"codigoentidad":"37-08-00","nombreentidad":"UNIDAD NACIONAL DE PROTECCIÓN - UNP","codigotipogasto":"C","inicial":"4000000000.00","vigente":"4000000000.00"}
+,{"codigoentidad":"37-09-00","nombreentidad":"DIRECCION NACIONAL DE BOMBEROS","codigotipogasto":"A","inicial":"9055436842.00","vigente":"9055436842.00"}
+,{"codigoentidad":"37-09-00","nombreentidad":"DIRECCION NACIONAL DE BOMBEROS","codigotipogasto":"C","inicial":"85605584213.00","vigente":"116405584213.00"}
+,{"codigoentidad":"38-01-00","nombreentidad":"COMISIÓN NACIONAL DEL SERVICIO CIVIL","codigotipogasto":"A","inicial":"38432674000.00","vigente":"38432674000.00"}
+,{"codigoentidad":"38-01-00","nombreentidad":"COMISIÓN NACIONAL DEL SERVICIO CIVIL","codigotipogasto":"C","inicial":"116436375000.00","vigente":"116436375000.00"}
+,{"codigoentidad":"39-01-01","nombreentidad":"MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL","codigotipogasto":"A","inicial":"31288669554.00","vigente":"31288669554.00"}
+,{"codigoentidad":"39-01-01","nombreentidad":"MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL","codigotipogasto":"C","inicial":"348567095647.00","vigente":"348567095647.00"}
+,{"codigoentidad":"40-01-01","nombreentidad":"MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO - GESTION GENERAL","codigotipogasto":"A","inicial":"4660509905748.00","vigente":"4660509905748.00"}
+,{"codigoentidad":"40-01-01","nombreentidad":"MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO - GESTION GENERAL","codigotipogasto":"C","inicial":"820459154422.00","vigente":"874338785476.00"}
+,{"codigoentidad":"40-01-02","nombreentidad":"COMISION DE REGULACION DE AGUA POTABLE Y SANEAMIENTO BASICO (CRA)","codigotipogasto":"A","inicial":"28247600000.00","vigente":"28247600000.00"}
+,{"codigoentidad":"40-01-02","nombreentidad":"COMISION DE REGULACION DE AGUA POTABLE Y SANEAMIENTO BASICO (CRA)","codigotipogasto":"C","inicial":"16249000676.00","vigente":"16249000676.00"}
+,{"codigoentidad":"40-02-00","nombreentidad":"FONDO NACIONAL DE VIVIENDA - FONVIVIENDA","codigotipogasto":"A","inicial":"9864000000.00","vigente":"9864000000.00"}
+,{"codigoentidad":"40-02-00","nombreentidad":"FONDO NACIONAL DE VIVIENDA - FONVIVIENDA","codigotipogasto":"C","inicial":"1741542808261.00","vigente":"1741542808261.00"}
+,{"codigoentidad":"41-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO PARA LA PROSPERIDAD SOCIAL - GESTION GENERAL","codigotipogasto":"A","inicial":"283562272680.00","vigente":"283562272680.00"}
+,{"codigoentidad":"41-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO PARA LA PROSPERIDAD SOCIAL - GESTION GENERAL","codigotipogasto":"C","inicial":"7969938652304.00","vigente":"8452306574858.00"}
+,{"codigoentidad":"41-04-00","nombreentidad":"UNIDAD DE ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS","codigotipogasto":"A","inicial":"1690730626878.00","vigente":"1690730626878.00"}
+,{"codigoentidad":"41-04-00","nombreentidad":"UNIDAD DE ATENCION Y REPARACION INTEGRAL A LAS VICTIMAS","codigotipogasto":"C","inicial":"2715654951175.00","vigente":"2719154789949.00"}
+,{"codigoentidad":"41-05-00","nombreentidad":"CENTRO DE MEMORIA HISTORICA","codigotipogasto":"A","inicial":"19947954098.00","vigente":"19947954098.00"}
+,{"codigoentidad":"41-05-00","nombreentidad":"CENTRO DE MEMORIA HISTORICA","codigotipogasto":"C","inicial":"65653928333.00","vigente":"67339871478.00"}
+,{"codigoentidad":"42-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO DIRECCION NACIONAL DE INTELIGENCIA - GESTION GENERAL","codigotipogasto":"A","inicial":"154503477808.00","vigente":"154503477808.00"}
+,{"codigoentidad":"42-01-01","nombreentidad":"DEPARTAMENTO ADMINISTRATIVO DIRECCION NACIONAL DE INTELIGENCIA - GESTION GENERAL","codigotipogasto":"C","inicial":"23154858491.00","vigente":"23154858491.00"}
+,{"codigoentidad":"43-01-01","nombreentidad":"MINISTERIO DEL DEPORTE - GESTION GENERAL","codigotipogasto":"A","inicial":"54194708762.00","vigente":"54194708762.00"}
+,{"codigoentidad":"43-01-01","nombreentidad":"MINISTERIO DEL DEPORTE - GESTION GENERAL","codigotipogasto":"C","inicial":"441892487504.00","vigente":"441892487504.00"}
+,{"codigoentidad":"44-01-01","nombreentidad":"JURISDICCION ESPECIAL PARA LA PAZ - GESTION GENERAL","codigotipogasto":"A","inicial":"555137602334.00","vigente":"590261779221.00"}
+,{"codigoentidad":"44-01-01","nombreentidad":"JURISDICCION ESPECIAL PARA LA PAZ - GESTION GENERAL","codigotipogasto":"C","inicial":"189521300973.00","vigente":"191208541366.00"}
+,{"codigoentidad":"44-03-00","nombreentidad":"UNIDAD DE BUSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS EN EL CONTEXTO Y EN RAZON DEL CONFLICTO ARMADO (UBPD)","codigotipogasto":"A","inicial":"120018789155.00","vigente":"120018789155.00"}
+,{"codigoentidad":"44-03-00","nombreentidad":"UNIDAD DE BUSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS EN EL CONTEXTO Y EN RAZON DEL CONFLICTO ARMADO (UBPD)","codigotipogasto":"C","inicial":"76273000000.00","vigente":"76273000000.00"}
+,{"codigoentidad":"46-01-01","nombreentidad":"MINISTERIO DE IGUALDAD Y EQUIDAD EN LIQUIDACIÓN - GESTIÓN GENERAL","codigotipogasto":"A","inicial":"323442835064.00","vigente":"323442835064.00"}
+,{"codigoentidad":"46-01-01","nombreentidad":"MINISTERIO DE IGUALDAD Y EQUIDAD EN LIQUIDACIÓN - GESTIÓN GENERAL","codigotipogasto":"C","inicial":"0.00","vigente":"0.00"}
+,{"codigoentidad":"46-02-00","nombreentidad":"INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)","codigotipogasto":"A","inicial":"1280212407000.00","vigente":"1280212407000.00"}
+,{"codigoentidad":"46-02-00","nombreentidad":"INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)","codigotipogasto":"C","inicial":"9406590615157.00","vigente":"9688243703337.00"}
+,{"codigoentidad":"46-03-00","nombreentidad":"INSTITUTO NACIONAL PARA SORDOS (INSOR)","codigotipogasto":"A","inicial":"9488736984.00","vigente":"9488736984.00"}
+,{"codigoentidad":"46-03-00","nombreentidad":"INSTITUTO NACIONAL PARA SORDOS (INSOR)","codigotipogasto":"C","inicial":"8258368605.00","vigente":"8258368605.00"}
+,{"codigoentidad":"46-04-00","nombreentidad":"INSTITUTO NACIONAL PARA CIEGOS (INCI)","codigotipogasto":"A","inicial":"8979329402.00","vigente":"8979329402.00"}
+,{"codigoentidad":"46-04-00","nombreentidad":"INSTITUTO NACIONAL PARA CIEGOS (INCI)","codigotipogasto":"C","inicial":"3158241038.00","vigente":"3158241038.00"}]

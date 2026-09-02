@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Presupuesto General de la Nación 2027 — Tiquete fiscal | Colombia</title>
+<meta name="description" content="El Presupuesto General de la Nación de Colombia 2026→2027, presentado como un recibo de datáfono: variación por ministerio y dependencia." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body class="landing">
+<div class="receipt-shell wide">
+  <div class="receipt">
+    <div class="receipt-body">
+
+      <div class="prose-col">
+        <div class="tkt-header">
+          <div class="country">★ REPÚBLICA DE COLOMBIA ★</div>
+          <div class="store">PRESUPUESTO GENERAL DE LA NACIÓN</div>
+          <div class="tagline">TIQUETE FISCAL · VIGENCIA 2027</div>
+          <div class="nit">NIT 900.000.000-1 · RÉGIMEN PRESUPUESTAL · MINHACIENDA</div>
+          <nav class="tkt-nav">
+            <a href="index.html" class="active">INICIO</a>
+            <a href="metodologia.html">TÉRMINOS Y CONDICIONES</a>
+          </nav>
+        </div>
+
+        <hr class="rule" />
+
+        <div class="tkt-meta" id="meta-rows"></div>
+
+        <div class="perforation"></div>
+
+        <h2>Resumen de caja</h2>
+        <div id="resumen-rows"></div>
+
+        <hr class="rule" />
+
+        <h2>Análisis general</h2>
+        <div class="comment-box stacked">
+          <p>
+            El Gobierno nacional radicó ante el Congreso el Proyecto de Ley del Presupuesto General de la
+            Nación (PGN) para 2027. La versión más reciente del articulado (agosto de 2026) asciende a
+            <strong id="an-total-2027" class="tabular">—</strong>, frente a
+            <strong id="an-total-2026" class="tabular">—</strong> vigentes en 2026 (corte julio, último dato
+            disponible) — una variación de <strong id="an-var" class="tabular">—</strong>. El propio Gobierno
+            había anunciado antes un total distinto ($575,7 billones) para el mismo proyecto; ver el detalle en
+            <a href="metodologia.html">metodología</a>.
+          </p>
+          <p>
+            El gasto <strong>inflexible</strong> (deuda pública, Sistema General de Participaciones, pensiones,
+            salud y nómina) representa cerca del <strong>93,7%</strong> del PGN 2026. El rubro con mayor
+            incremento en 2027 es, sin sorpresas, el servicio de la deuda pública: sube de $97,2 b a $152,4 b
+            (+56,8%), principalmente por el pago de intereses.
+          </p>
+        </div>
+      </div>
+
+      <hr class="rule" />
+
+      <h2 class="prose-col">Principales novedades</h2>
+      <div class="card-grid" id="novedades-grid"></div>
+
+      <hr class="rule" />
+
+      <h2 class="prose-col">Comparación por dependencia: 2026 vs. 2027</h2>
+      <div class="chart-panel">
+        <div class="chart-panel-head">
+          <div class="seg-control" id="chart-mode">
+            <button data-mode="top-presupuesto" class="active">Mayor presupuesto</button>
+            <button data-mode="top-aumento">Mayor aumento %</button>
+            <button data-mode="top-caida">Mayor caída %</button>
+          </div>
+          <div class="legend-row">
+            <span><span class="swatch" style="background:var(--ribbon-1)"></span>2026 vigente</span>
+            <span><span class="swatch" style="background:var(--ribbon-2)"></span>2027 proyecto</span>
+          </div>
+        </div>
+        <div class="chart-wrap tall"><canvas id="main-chart"></canvas></div>
+        <p class="chart-caption">Top 20 según el criterio elegido (mínimo $100 mil millones en 2026 para los rankings de %, para evitar que secciones muy pequeñas distorsionen el ranking). <strong>Toque el nombre o la barra</strong> de cualquier dependencia para ver su detalle.</p>
+      </div>
+
+      <hr class="rule" />
+
+      <div class="prose-col">
+        <h2>Todas las dependencias</h2>
+        <div class="tkt-search">
+          <label for="search-box">Buscar dependencia, ministerio o código</label>
+          <input type="search" id="search-box" placeholder="ej. defensa, 1501, educación…" />
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th data-key="nombre">Dependencia</th>
+              <th data-key="y2026">2026 vigente</th>
+              <th data-key="y2027">2027 proyecto</th>
+              <th data-key="var_abs">Variación</th>
+              <th data-key="var_pct" class="sorted">Variación %</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+      <p class="prose-col"><small id="row-count"></small></p>
+
+      <div class="prose-col">
+        <div class="perforation"></div>
+
+        <div class="barcode-block">
+          <div class="barcode-bars" id="barcode" style="background: linear-gradient(90deg, var(--ink) 0 2px, transparent 2px 4px);"></div>
+          <div class="barcode-number">*PGN-2027-634952040871099*</div>
+        </div>
+
+        <div class="tkt-footer">
+          <p><strong>Fuentes:</strong> Proyecto de Ley del PGN 2027 (MHCP, articulado radicado agosto 2026) ·
+          Ejecución Presupuestal PGN 2026, Datos Abiertos Colombia, corte julio 2026 · Mensaje Presidencial 2027.</p>
+          <p>Ejercicio independiente de visualización de datos públicos, sin relación con el Congreso ni el
+          Gobierno nacional. Ver <a href="metodologia.html">metodología completa</a>.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="assets/common.js"></script>
+<script src="assets/home.js"></script>
+</body>
+</html>

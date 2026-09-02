@@ -1,0 +1,6731 @@
+[
+ {
+  "code": "0101",
+  "name": "CONGRESO DE LA REPÚBLICA",
+  "funcionamiento": 1276736668563.0,
+  "deuda": 1105650762.0,
+  "inversion": 147320456000.0,
+  "aporte_nacional": 1425162775325.0,
+  "recursos_propios": 0.0,
+  "total": 1425162775325.0,
+  "programas": [
+   {
+    "codigo": "0199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CONGRESO DE LA REPÚBLICA",
+    "aporte_nacional": 147320456000.0,
+    "recursos_propios": 0.0,
+    "total": 147320456000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 147320456000.0,
+      "recursos_propios": 0.0,
+      "total": 147320456000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0201",
+  "name": "PRESIDENCIA DE LA REPÚBLICA",
+  "funcionamiento": 835302385000.0,
+  "deuda": 0.0,
+  "inversion": 68745614202.0,
+  "aporte_nacional": 904047999202.0,
+  "recursos_propios": 0.0,
+  "total": 904047999202.0,
+  "programas": [
+   {
+    "codigo": "0204",
+    "nombre": "IMPULSAR EL DESARROLLO INTEGRAL DE LAS POBLACIONES CON ENFOQUE DIFERENCIAL DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 11945241308.0,
+    "recursos_propios": 0.0,
+    "total": 11945241308.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 11945241308.0,
+      "recursos_propios": 0.0,
+      "total": 11945241308.0
+     }
+    ]
+   },
+   {
+    "codigo": "0210",
+    "nombre": "MECANISMOS DE TRANSICIÓN HACIA LA PAZ A NIVEL NACIONAL Y TERRITORIAL DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 28195200000.0,
+    "recursos_propios": 0.0,
+    "total": 28195200000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 28195200000.0,
+      "recursos_propios": 0.0,
+      "total": 28195200000.0
+     }
+    ]
+   },
+   {
+    "codigo": "0214",
+    "nombre": "FORTALECIMIENTO DE LAS CAPACIDADES DE ARTICULACIÓN ESTRATÉGICA, MODERNIZACIÓN, EFICIENCIA ADMINISTRATIVA, TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 20146840411.0,
+    "recursos_propios": 0.0,
+    "total": 20146840411.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 20146840411.0,
+      "recursos_propios": 0.0,
+      "total": 20146840411.0
+     }
+    ]
+   },
+   {
+    "codigo": "0299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR PRESIDENCIA",
+    "aporte_nacional": 8458332483.0,
+    "recursos_propios": 0.0,
+    "total": 8458332483.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 8458332483.0,
+      "recursos_propios": 0.0,
+      "total": 8458332483.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0209",
+  "name": "AGENCIA PRESIDENCIAL DE COOPERACIÓN INTERNACIONAL DE COLOMBIA, APC - COLOMBIA",
+  "funcionamiento": 52393458000.0,
+  "deuda": 0.0,
+  "inversion": 86987155873.0,
+  "aporte_nacional": 55999283790.0,
+  "recursos_propios": 83381330083.0,
+  "total": 139380613873.0,
+  "programas": [
+   {
+    "codigo": "0208",
+    "nombre": "GESTIÓN DE LA COOPERACIÓN INTERNACIONAL DEL SECTOR PRESIDENCIA",
+    "aporte_nacional": 2800000000.0,
+    "recursos_propios": 83381330083.0,
+    "total": 86181330083.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2800000000.0,
+      "recursos_propios": 83381330083.0,
+      "total": 86181330083.0
+     }
+    ]
+   },
+   {
+    "codigo": "0299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR PRESIDENCIA",
+    "aporte_nacional": 805825790.0,
+    "recursos_propios": 0.0,
+    "total": 805825790.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 805825790.0,
+      "recursos_propios": 0.0,
+      "total": 805825790.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0211",
+  "name": "UNIDAD NACIONAL PARA LA GESTIÓN DEL RIESGO DE DESASTRES",
+  "funcionamiento": 804161000000.0,
+  "deuda": 0.0,
+  "inversion": 10000000000.0,
+  "aporte_nacional": 814161000000.0,
+  "recursos_propios": 0.0,
+  "total": 814161000000.0,
+  "programas": [
+   {
+    "codigo": "0207",
+    "nombre": "PREVENCIÓN Y MITIGACIÓN DEL RIESGO DE DESASTRES DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 10000000000.0,
+    "recursos_propios": 0.0,
+    "total": 10000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 10000000000.0,
+      "recursos_propios": 0.0,
+      "total": 10000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0212",
+  "name": "AGENCIA PARA LA REINCORPORACIÓN Y LA NORMALIZACIÓN - ARN",
+  "funcionamiento": 224238000000.0,
+  "deuda": 0.0,
+  "inversion": 2000000000.0,
+  "aporte_nacional": 226238000000.0,
+  "recursos_propios": 0.0,
+  "total": 226238000000.0,
+  "programas": [
+   {
+    "codigo": "0211",
+    "nombre": "REINTEGRACIÓN DE PERSONAS Y GRUPOS ALZADOS EN ARMAS DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 2000000000.0,
+    "recursos_propios": 0.0,
+    "total": 2000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2000000000.0,
+      "recursos_propios": 0.0,
+      "total": 2000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0213",
+  "name": "AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS",
+  "funcionamiento": 14855495000.0,
+  "deuda": 0.0,
+  "inversion": 45000000000.0,
+  "aporte_nacional": 59855495000.0,
+  "recursos_propios": 0.0,
+  "total": 59855495000.0,
+  "programas": [
+   {
+    "codigo": "0209",
+    "nombre": "FORTALECIMIENTO DE LA INFRAESTRUCTURA FÍSICA DE LAS ENTIDADES DEL ESTADO DEL NIVEL NACIONAL DESDE EL SECTOR PRESIDENCIA",
+    "aporte_nacional": 45000000000.0,
+    "recursos_propios": 0.0,
+    "total": 45000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 45000000000.0,
+      "recursos_propios": 0.0,
+      "total": 45000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0214",
+  "name": "AGENCIA DE RENOVACIÓN DEL TERRITORIO - ART",
+  "funcionamiento": 81395000000.0,
+  "deuda": 0.0,
+  "inversion": 98939000000.0,
+  "aporte_nacional": 180334000000.0,
+  "recursos_propios": 0.0,
+  "total": 180334000000.0,
+  "programas": [
+   {
+    "codigo": "0212",
+    "nombre": "RENOVACIÓN TERRITORIAL PARA EL DESARROLLO INTEGRAL DE LAS ZONAS RURALES AFECTADAS POR EL CONFLICTO ARMADO",
+    "aporte_nacional": 97939000000.0,
+    "recursos_propios": 0.0,
+    "total": 97939000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 97939000000.0,
+      "recursos_propios": 0.0,
+      "total": 97939000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "0299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR PRESIDENCIA",
+    "aporte_nacional": 1000000000.0,
+    "recursos_propios": 0.0,
+    "total": 1000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 1000000000.0,
+      "recursos_propios": 0.0,
+      "total": 1000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0301",
+  "name": "DEPARTAMENTO ADMINISTRATIVO NACIONAL DE PLANEACIÓN",
+  "funcionamiento": 121374174223.0,
+  "deuda": 0.0,
+  "inversion": 419758549441.0,
+  "aporte_nacional": 541132723664.0,
+  "recursos_propios": 0.0,
+  "total": 541132723664.0,
+  "programas": [
+   {
+    "codigo": "0301",
+    "nombre": "MEJORAMIENTO DE LA PLANEACIÓN TERRITORIAL, SECTORIAL Y DE INVERSIÓN PÚBLICA",
+    "aporte_nacional": 365960093328.0,
+    "recursos_propios": 0.0,
+    "total": 365960093328.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 365960093328.0,
+      "recursos_propios": 0.0,
+      "total": 365960093328.0
+     }
+    ]
+   },
+   {
+    "codigo": "0399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR PLANEACIÓN",
+    "aporte_nacional": 53798456113.0,
+    "recursos_propios": 0.0,
+    "total": 53798456113.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 53798456113.0,
+      "recursos_propios": 0.0,
+      "total": 53798456113.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0303",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL - AGENCIA NACIONAL DE CONTRATACIÓN PÚBLICA - COLOMBIA COMPRA EFICIENTE",
+  "funcionamiento": 33418652131.0,
+  "deuda": 0.0,
+  "inversion": 85597916411.0,
+  "aporte_nacional": 119016568542.0,
+  "recursos_propios": 0.0,
+  "total": 119016568542.0,
+  "programas": [
+   {
+    "codigo": "0304",
+    "nombre": "FORTALECIMIENTO DEL SISTEMA DE COMPRA PÚBLICA",
+    "aporte_nacional": 85597916411.0,
+    "recursos_propios": 0.0,
+    "total": 85597916411.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 85597916411.0,
+      "recursos_propios": 0.0,
+      "total": 85597916411.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0324",
+  "name": "SUPERINTENDENCIA DE SERVICIOS PÚBLICOS DOMICILIARIOS",
+  "funcionamiento": 492577267947.0,
+  "deuda": 0.0,
+  "inversion": 42635000000.0,
+  "aporte_nacional": 195694845397.0,
+  "recursos_propios": 339517422550.0,
+  "total": 535212267947.0,
+  "programas": [
+   {
+    "codigo": "0303",
+    "nombre": "PROMOCIÓN DE LA PRESTACIÓN EFICIENTE DE LOS SERVICIOS PÚBLICOS DOMICILIARIOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 39635000000.0,
+    "total": 39635000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 39635000000.0,
+      "total": 39635000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "0399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR PLANEACIÓN",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 3000000000.0,
+    "total": 3000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 3000000000.0,
+      "total": 3000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0401",
+  "name": "DEPARTAMENTO ADMINISTRATIVO NACIONAL DE ESTADÍSTICA (DANE)",
+  "funcionamiento": 182405000000.0,
+  "deuda": 0.0,
+  "inversion": 95228271518.0,
+  "aporte_nacional": 277633271518.0,
+  "recursos_propios": 0.0,
+  "total": 277633271518.0,
+  "programas": [
+   {
+    "codigo": "0401",
+    "nombre": "LEVANTAMIENTO Y ACTUALIZACIÓN DE INFORMACIÓN ESTADÍSTICA DE CALIDAD",
+    "aporte_nacional": 81805771518.0,
+    "recursos_propios": 0.0,
+    "total": 81805771518.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 81805771518.0,
+      "recursos_propios": 0.0,
+      "total": 81805771518.0
+     }
+    ]
+   },
+   {
+    "codigo": "0499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INFORMACIÓN ESTADÍSTICA",
+    "aporte_nacional": 13422500000.0,
+    "recursos_propios": 0.0,
+    "total": 13422500000.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 13422500000.0,
+      "recursos_propios": 0.0,
+      "total": 13422500000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0402",
+  "name": "FONDO ROTATORIO DEL DANE",
+  "funcionamiento": 930025026.0,
+  "deuda": 0.0,
+  "inversion": 30227205570.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 31157230596.0,
+  "total": 31157230596.0,
+  "programas": [
+   {
+    "codigo": "0401",
+    "nombre": "LEVANTAMIENTO Y ACTUALIZACIÓN DE INFORMACIÓN ESTADÍSTICA DE CALIDAD",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 30227205570.0,
+    "total": 30227205570.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 30227205570.0,
+      "total": 30227205570.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0403",
+  "name": "INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI - IGAC",
+  "funcionamiento": 138605311492.0,
+  "deuda": 0.0,
+  "inversion": 139690757787.0,
+  "aporte_nacional": 255965604483.0,
+  "recursos_propios": 22330464796.0,
+  "total": 278296069279.0,
+  "programas": [
+   {
+    "codigo": "0404",
+    "nombre": "LEVANTAMIENTO, ACTUALIZACIÓN Y ADMINISTRACIÓN DE LA INFORMACIÓN CATASTRAL",
+    "aporte_nacional": 56798359420.0,
+    "recursos_propios": 0.0,
+    "total": 56798359420.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 56798359420.0,
+      "recursos_propios": 0.0,
+      "total": 56798359420.0
+     }
+    ]
+   },
+   {
+    "codigo": "0406",
+    "nombre": "GENERACIÓN DE LA INFORMACIÓN GEOGRÁFICA DEL TERRITORIO NACIONAL",
+    "aporte_nacional": 73398239385.0,
+    "recursos_propios": 5721153304.0,
+    "total": 79119392689.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 73398239385.0,
+      "recursos_propios": 5721153304.0,
+      "total": 79119392689.0
+     }
+    ]
+   },
+   {
+    "codigo": "0499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INFORMACIÓN ESTADÍSTICA",
+    "aporte_nacional": 3773005678.0,
+    "recursos_propios": 0.0,
+    "total": 3773005678.0,
+    "subprogramas": [
+     {
+      "codigo": "1003",
+      "nombre": "PLANIFICACIÓN Y ESTADÍSTICA",
+      "aporte_nacional": 3773005678.0,
+      "recursos_propios": 0.0,
+      "total": 3773005678.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0501",
+  "name": "DEPARTAMENTO ADMINISTRATIVO DE LA FUNCIÓN PÚBLICA",
+  "funcionamiento": 44987225287.0,
+  "deuda": 0.0,
+  "inversion": 9441743990.0,
+  "aporte_nacional": 54428969277.0,
+  "recursos_propios": 0.0,
+  "total": 54428969277.0,
+  "programas": [
+   {
+    "codigo": "0505",
+    "nombre": "FORTALECIMIENTO DE LA GESTIÓN PÚBLICA EN LAS ENTIDADES NACIONALES Y TERRITORIALES",
+    "aporte_nacional": 5395282280.0,
+    "recursos_propios": 0.0,
+    "total": 5395282280.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 5395282280.0,
+      "recursos_propios": 0.0,
+      "total": 5395282280.0
+     }
+    ]
+   },
+   {
+    "codigo": "0599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EMPLEO",
+    "aporte_nacional": 4046461710.0,
+    "recursos_propios": 0.0,
+    "total": 4046461710.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 4046461710.0,
+      "recursos_propios": 0.0,
+      "total": 4046461710.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "0503",
+  "name": "ESCUELA SUPERIOR DE ADMINISTRACIÓN PÚBLICA (ESAP)",
+  "funcionamiento": 175006786000.0,
+  "deuda": 0.0,
+  "inversion": 306360451000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 481367237000.0,
+  "total": 481367237000.0,
+  "programas": [
+   {
+    "codigo": "0503",
+    "nombre": "MEJORAMIENTO DE LA CALIDAD EDUCATIVA EN LA GESTIÓN PÚBLICA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 137639231000.0,
+    "total": 137639231000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 137639231000.0,
+      "total": 137639231000.0
+     }
+    ]
+   },
+   {
+    "codigo": "0505",
+    "nombre": "FORTALECIMIENTO DE LA GESTIÓN PÚBLICA EN LAS ENTIDADES NACIONALES Y TERRITORIALES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 84991500000.0,
+    "total": 84991500000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 84991500000.0,
+      "total": 84991500000.0
+     }
+    ]
+   },
+   {
+    "codigo": "0599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EMPLEO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 83729720000.0,
+    "total": 83729720000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 83729720000.0,
+      "total": 83729720000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1101",
+  "name": "MINISTERIO DE RELACIONES EXTERIORES",
+  "funcionamiento": 699681000000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 699681000000.0,
+  "recursos_propios": 0.0,
+  "total": 699681000000.0,
+  "programas": []
+ },
+ {
+  "code": "1102",
+  "name": "FONDO ROTATORIO DEL MINISTERIO DE RELACIONES EXTERIORES",
+  "funcionamiento": 825501000000.0,
+  "deuda": 0.0,
+  "inversion": 157932110095.0,
+  "aporte_nacional": 224940000000.0,
+  "recursos_propios": 758493110095.0,
+  "total": 983433110095.0,
+  "programas": [
+   {
+    "codigo": "1102",
+    "nombre": "POSICIONAMIENTO EN INSTANCIAS GLOBALES, MULTILATERALES, REGIONALES Y SUBREGIONALES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 3819240000.0,
+    "total": 3819240000.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 3819240000.0,
+      "total": 3819240000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1103",
+    "nombre": "POLÍTICA MIGRATORIA Y SERVICIO AL CIUDADANO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 51957899194.0,
+    "total": 51957899194.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 51957899194.0,
+      "total": 51957899194.0
+     }
+    ]
+   },
+   {
+    "codigo": "1104",
+    "nombre": "SOBERANÍA TERRITORIAL Y DESARROLLO FRONTERIZO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 21200000000.0,
+    "total": 21200000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 21200000000.0,
+      "total": 21200000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR RELACIONES EXTERIORES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 80954970901.0,
+    "total": 80954970901.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 80954970901.0,
+      "total": 80954970901.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1104",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL MIGRACIÓN COLOMBIA",
+  "funcionamiento": 271146000000.0,
+  "deuda": 0.0,
+  "inversion": 54556962400.0,
+  "aporte_nacional": 243432849186.0,
+  "recursos_propios": 82270113214.0,
+  "total": 325702962400.0,
+  "programas": [
+   {
+    "codigo": "1103",
+    "nombre": "POLÍTICA MIGRATORIA Y SERVICIO AL CIUDADANO",
+    "aporte_nacional": 6819850000.0,
+    "recursos_propios": 9212836313.0,
+    "total": 16032686313.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 6819850000.0,
+      "recursos_propios": 9212836313.0,
+      "total": 16032686313.0
+     }
+    ]
+   },
+   {
+    "codigo": "1199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR RELACIONES EXTERIORES",
+    "aporte_nacional": 14076999186.0,
+    "recursos_propios": 24447276901.0,
+    "total": 38524276087.0,
+    "subprogramas": [
+     {
+      "codigo": "1002",
+      "nombre": "RELACIONES EXTERIORES",
+      "aporte_nacional": 14076999186.0,
+      "recursos_propios": 24447276901.0,
+      "total": 38524276087.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1201",
+  "name": "MINISTERIO DE JUSTICIA Y DEL DERECHO",
+  "funcionamiento": 124058535000.0,
+  "deuda": 0.0,
+  "inversion": 55706836995.0,
+  "aporte_nacional": 179765371995.0,
+  "recursos_propios": 0.0,
+  "total": 179765371995.0,
+  "programas": [
+   {
+    "codigo": "1201",
+    "nombre": "FORTALECIMIENTO DEL PRINCIPIO DE SEGURIDAD JURÍDICA, DIVULGACIÓN Y DEPURACIÓN DEL ORDENAMIENTO JURÍDICO",
+    "aporte_nacional": 681501947.0,
+    "recursos_propios": 0.0,
+    "total": 681501947.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 681501947.0,
+      "recursos_propios": 0.0,
+      "total": 681501947.0
+     }
+    ]
+   },
+   {
+    "codigo": "1202",
+    "nombre": "PROMOCIÓN AL ACCESO A LA JUSTICIA",
+    "aporte_nacional": 23739642456.0,
+    "recursos_propios": 0.0,
+    "total": 23739642456.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 23739642456.0,
+      "recursos_propios": 0.0,
+      "total": 23739642456.0
+     }
+    ]
+   },
+   {
+    "codigo": "1203",
+    "nombre": "PROMOCIÓN DE LOS MÉTODOS DE RESOLUCIÓN DE CONFLICTOS",
+    "aporte_nacional": 4025824092.0,
+    "recursos_propios": 0.0,
+    "total": 4025824092.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 4025824092.0,
+      "recursos_propios": 0.0,
+      "total": 4025824092.0
+     }
+    ]
+   },
+   {
+    "codigo": "1204",
+    "nombre": "JUSTICIA TRANSICIONAL",
+    "aporte_nacional": 6289575755.0,
+    "recursos_propios": 0.0,
+    "total": 6289575755.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 6289575755.0,
+      "recursos_propios": 0.0,
+      "total": 6289575755.0
+     }
+    ]
+   },
+   {
+    "codigo": "1207",
+    "nombre": "FORTALECIMIENTO DE LA POLÍTICA CRIMINAL DEL ESTADO COLOMBIANO",
+    "aporte_nacional": 11836635548.0,
+    "recursos_propios": 0.0,
+    "total": 11836635548.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 11836635548.0,
+      "recursos_propios": 0.0,
+      "total": 11836635548.0
+     }
+    ]
+   },
+   {
+    "codigo": "1299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR JUSTICIA Y DEL DERECHO",
+    "aporte_nacional": 9133657197.0,
+    "recursos_propios": 0.0,
+    "total": 9133657197.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 9133657197.0,
+      "recursos_propios": 0.0,
+      "total": 9133657197.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1204",
+  "name": "SUPERINTENDENCIA DE NOTARIADO Y REGISTRO",
+  "funcionamiento": 759758947502.0,
+  "deuda": 0.0,
+  "inversion": 380601935432.0,
+  "aporte_nacional": 531144000.0,
+  "recursos_propios": 1139829738934.0,
+  "total": 1140360882934.0,
+  "programas": [
+   {
+    "codigo": "1204",
+    "nombre": "JUSTICIA TRANSICIONAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 16958020022.0,
+    "total": 16958020022.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 16958020022.0,
+      "total": 16958020022.0
+     }
+    ]
+   },
+   {
+    "codigo": "1209",
+    "nombre": "MODERNIZACIÓN DE LA INFORMACIÓN INMOBILIARIA",
+    "aporte_nacional": 531144000.0,
+    "recursos_propios": 189696058386.0,
+    "total": 190227202386.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 531144000.0,
+      "recursos_propios": 189696058386.0,
+      "total": 190227202386.0
+     }
+    ]
+   },
+   {
+    "codigo": "1299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR JUSTICIA Y DEL DERECHO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 173416713024.0,
+    "total": 173416713024.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 173416713024.0,
+      "total": 173416713024.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1208",
+  "name": "INSTITUTO NACIONAL PENITENCIARIO Y CARCELARIO - INPEC",
+  "funcionamiento": 2556550039484.0,
+  "deuda": 0.0,
+  "inversion": 10409944938.0,
+  "aporte_nacional": 2415788414938.0,
+  "recursos_propios": 151171569484.0,
+  "total": 2566959984422.0,
+  "programas": [
+   {
+    "codigo": "1206",
+    "nombre": "SISTEMA PENITENCIARIO Y CARCELARIO EN EL MARCO DE LOS DERECHOS HUMANOS",
+    "aporte_nacional": 5950000000.0,
+    "recursos_propios": 0.0,
+    "total": 5950000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 5950000000.0,
+      "recursos_propios": 0.0,
+      "total": 5950000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR JUSTICIA Y DEL DERECHO",
+    "aporte_nacional": 4459944938.0,
+    "recursos_propios": 0.0,
+    "total": 4459944938.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 4459944938.0,
+      "recursos_propios": 0.0,
+      "total": 4459944938.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1210",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO",
+  "funcionamiento": 241540000000.0,
+  "deuda": 0.0,
+  "inversion": 22266327000.0,
+  "aporte_nacional": 263806327000.0,
+  "recursos_propios": 0.0,
+  "total": 263806327000.0,
+  "programas": [
+   {
+    "codigo": "1205",
+    "nombre": "DEFENSA JURÍDICA DEL ESTADO",
+    "aporte_nacional": 22266327000.0,
+    "recursos_propios": 0.0,
+    "total": 22266327000.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 22266327000.0,
+      "recursos_propios": 0.0,
+      "total": 22266327000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1211",
+  "name": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+  "funcionamiento": 1626224000000.0,
+  "deuda": 0.0,
+  "inversion": 500000000000.0,
+  "aporte_nacional": 2126224000000.0,
+  "recursos_propios": 0.0,
+  "total": 2126224000000.0,
+  "programas": [
+   {
+    "codigo": "1206",
+    "nombre": "SISTEMA PENITENCIARIO Y CARCELARIO EN EL MARCO DE LOS DERECHOS HUMANOS",
+    "aporte_nacional": 500000000000.0,
+    "recursos_propios": 0.0,
+    "total": 500000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 500000000000.0,
+      "recursos_propios": 0.0,
+      "total": 500000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1301",
+  "name": "MINISTERIO DE HACIENDA Y CRÉDITO PÚBLICO",
+  "funcionamiento": 35969579418750.0,
+  "deuda": 0.0,
+  "inversion": 4780901398006.0,
+  "aporte_nacional": 40750480816756.0,
+  "recursos_propios": 0.0,
+  "total": 40750480816756.0,
+  "programas": [
+   {
+    "codigo": "1301",
+    "nombre": "POLÍTICA MACROECONÓMICA Y FISCAL",
+    "aporte_nacional": 19105049298.0,
+    "recursos_propios": 0.0,
+    "total": 19105049298.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 19105049298.0,
+      "recursos_propios": 0.0,
+      "total": 19105049298.0
+     }
+    ]
+   },
+   {
+    "codigo": "1302",
+    "nombre": "GESTIÓN DE RECURSOS PÚBLICOS",
+    "aporte_nacional": 558675506126.0,
+    "recursos_propios": 0.0,
+    "total": 558675506126.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 558675506126.0,
+      "recursos_propios": 0.0,
+      "total": 558675506126.0
+     }
+    ]
+   },
+   {
+    "codigo": "1304",
+    "nombre": "INSPECCIÓN, CONTROL Y VIGILANCIA FINANCIERA, SOLIDARIA Y DE RECURSOS PÚBLICOS",
+    "aporte_nacional": 597065482.0,
+    "recursos_propios": 0.0,
+    "total": 597065482.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 597065482.0,
+      "recursos_propios": 0.0,
+      "total": 597065482.0
+     }
+    ]
+   },
+   {
+    "codigo": "1305",
+    "nombre": "FORTALECIMIENTO DEL RECAUDO Y TRIBUTACIÓN",
+    "aporte_nacional": 208993443241.0,
+    "recursos_propios": 0.0,
+    "total": 208993443241.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 208993443241.0,
+      "recursos_propios": 0.0,
+      "total": 208993443241.0
+     }
+    ]
+   },
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 4783170305.0,
+    "recursos_propios": 0.0,
+    "total": 4783170305.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 4783170305.0,
+      "recursos_propios": 0.0,
+      "total": 4783170305.0
+     }
+    ]
+   },
+   {
+    "codigo": "2404",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FÉRREO",
+    "aporte_nacional": 653360975849.0,
+    "recursos_propios": 0.0,
+    "total": 653360975849.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 653360975849.0,
+      "recursos_propios": 0.0,
+      "total": 653360975849.0
+     }
+    ]
+   },
+   {
+    "codigo": "2408",
+    "nombre": "PRESTACIÓN DE SERVICIOS DE TRANSPORTE PÚBLICO DE PASAJEROS",
+    "aporte_nacional": 3335386187705.0,
+    "recursos_propios": 0.0,
+    "total": 3335386187705.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 3335386187705.0,
+      "recursos_propios": 0.0,
+      "total": 3335386187705.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1308",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL CONTADURÍA GENERAL DE LA NACIÓN",
+  "funcionamiento": 24979997000.0,
+  "deuda": 0.0,
+  "inversion": 3407436303.0,
+  "aporte_nacional": 28387433303.0,
+  "recursos_propios": 0.0,
+  "total": 28387433303.0,
+  "programas": [
+   {
+    "codigo": "1301",
+    "nombre": "POLÍTICA MACROECONÓMICA Y FISCAL",
+    "aporte_nacional": 2480000000.0,
+    "recursos_propios": 0.0,
+    "total": 2480000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2480000000.0,
+      "recursos_propios": 0.0,
+      "total": 2480000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 927436303.0,
+    "recursos_propios": 0.0,
+    "total": 927436303.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 927436303.0,
+      "recursos_propios": 0.0,
+      "total": 927436303.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1309",
+  "name": "SUPERINTENDENCIA DE LA ECONOMÍA SOLIDARIA",
+  "funcionamiento": 28122360596.0,
+  "deuda": 0.0,
+  "inversion": 24593033289.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 52715393885.0,
+  "total": 52715393885.0,
+  "programas": [
+   {
+    "codigo": "1304",
+    "nombre": "INSPECCIÓN, CONTROL Y VIGILANCIA FINANCIERA, SOLIDARIA Y DE RECURSOS PÚBLICOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 11714370120.0,
+    "total": 11714370120.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 11714370120.0,
+      "total": 11714370120.0
+     }
+    ]
+   },
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 12878663169.0,
+    "total": 12878663169.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 12878663169.0,
+      "total": 12878663169.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1310",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DIRECCIÓN DE IMPUESTOS Y ADUANAS NACIONALES",
+  "funcionamiento": 3787337746000.0,
+  "deuda": 0.0,
+  "inversion": 56901443173.0,
+  "aporte_nacional": 3816930799173.0,
+  "recursos_propios": 27308390000.0,
+  "total": 3844239189173.0,
+  "programas": [
+   {
+    "codigo": "1305",
+    "nombre": "FORTALECIMIENTO DEL RECAUDO Y TRIBUTACIÓN",
+    "aporte_nacional": 56901443173.0,
+    "recursos_propios": 0.0,
+    "total": 56901443173.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 56901443173.0,
+      "recursos_propios": 0.0,
+      "total": 56901443173.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1312",
+  "name": "UNIDAD DE INFORMACIÓN Y ANÁLISIS FINANCIERO",
+  "funcionamiento": 28471000000.0,
+  "deuda": 0.0,
+  "inversion": 1747384831.0,
+  "aporte_nacional": 30218384831.0,
+  "recursos_propios": 0.0,
+  "total": 30218384831.0,
+  "programas": [
+   {
+    "codigo": "1304",
+    "nombre": "INSPECCIÓN, CONTROL Y VIGILANCIA FINANCIERA, SOLIDARIA Y DE RECURSOS PÚBLICOS",
+    "aporte_nacional": 998505618.0,
+    "recursos_propios": 0.0,
+    "total": 998505618.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 998505618.0,
+      "recursos_propios": 0.0,
+      "total": 998505618.0
+     }
+    ]
+   },
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 748879213.0,
+    "recursos_propios": 0.0,
+    "total": 748879213.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 748879213.0,
+      "recursos_propios": 0.0,
+      "total": 748879213.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1313",
+  "name": "SUPERINTENDENCIA FINANCIERA DE COLOMBIA",
+  "funcionamiento": 393203444994.0,
+  "deuda": 0.0,
+  "inversion": 74918409649.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 468121854643.0,
+  "total": 468121854643.0,
+  "programas": [
+   {
+    "codigo": "1304",
+    "nombre": "INSPECCIÓN, CONTROL Y VIGILANCIA FINANCIERA, SOLIDARIA Y DE RECURSOS PÚBLICOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 1242656979.0,
+    "total": 1242656979.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 1242656979.0,
+      "total": 1242656979.0
+     }
+    ]
+   },
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 73675752670.0,
+    "total": 73675752670.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 73675752670.0,
+      "total": 73675752670.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1314",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN  PENSIONAL Y CONTRIBUCIONES PARAFISCALES DE LA PROTECCIÓN SOCIAL (UGPPP)",
+  "funcionamiento": 265603000000.0,
+  "deuda": 0.0,
+  "inversion": 2392028401.0,
+  "aporte_nacional": 267995028401.0,
+  "recursos_propios": 0.0,
+  "total": 267995028401.0,
+  "programas": [
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 2392028401.0,
+    "recursos_propios": 0.0,
+    "total": 2392028401.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2392028401.0,
+      "recursos_propios": 0.0,
+      "total": 2392028401.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1315",
+  "name": "FONDO ADAPTACIÓN",
+  "funcionamiento": 46136000000.0,
+  "deuda": 0.0,
+  "inversion": 15985083250.0,
+  "aporte_nacional": 62121083250.0,
+  "recursos_propios": 0.0,
+  "total": 62121083250.0,
+  "programas": [
+   {
+    "codigo": "1399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR HACIENDA",
+    "aporte_nacional": 15985083250.0,
+    "recursos_propios": 0.0,
+    "total": 15985083250.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 15985083250.0,
+      "recursos_propios": 0.0,
+      "total": 15985083250.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1401",
+  "name": "SERVICIO DE LA DEUDA PÚBLICA NACIONAL",
+  "funcionamiento": 0.0,
+  "deuda": 152436956952090.0,
+  "inversion": 0.0,
+  "aporte_nacional": 152436956952090.0,
+  "recursos_propios": 0.0,
+  "total": 152436956952090.0,
+  "programas": []
+ },
+ {
+  "code": "1501",
+  "name": "MINISTERIO DE DEFENSA NACIONAL",
+  "funcionamiento": 27916526000000.0,
+  "deuda": 282926448751.0,
+  "inversion": 5681104466974.0,
+  "aporte_nacional": 33880556915725.0,
+  "recursos_propios": 0.0,
+  "total": 33880556915725.0,
+  "programas": [
+   {
+    "codigo": "1502",
+    "nombre": "CAPACIDADES DE LAS FUERZAS MILITARES EN SEGURIDAD PÚBLICA Y DEFENSA EN EL TERRITORIO NACIONAL",
+    "aporte_nacional": 5438499462530.0,
+    "recursos_propios": 0.0,
+    "total": 5438499462530.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 5438499462530.0,
+      "recursos_propios": 0.0,
+      "total": 5438499462530.0
+     }
+    ]
+   },
+   {
+    "codigo": "1504",
+    "nombre": "DESARROLLO MARÍTIMO, FLUVIAL Y COSTERO DESDE EL SECTOR DEFENSA",
+    "aporte_nacional": 111150000000.0,
+    "recursos_propios": 0.0,
+    "total": 111150000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 111150000000.0,
+      "recursos_propios": 0.0,
+      "total": 111150000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1505",
+    "nombre": "GENERACIÓN DE BIENESTAR PARA LA FUERZA PÚBLICA Y SUS FAMILIAS",
+    "aporte_nacional": 96208274525.0,
+    "recursos_propios": 0.0,
+    "total": 96208274525.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 96208274525.0,
+      "recursos_propios": 0.0,
+      "total": 96208274525.0
+     }
+    ]
+   },
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 35246729919.0,
+    "recursos_propios": 0.0,
+    "total": 35246729919.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 35246729919.0,
+      "recursos_propios": 0.0,
+      "total": 35246729919.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1503",
+  "name": "CAJA DE RETIRO DE LAS FUERZAS MILITARES",
+  "funcionamiento": 9109759000000.0,
+  "deuda": 0.0,
+  "inversion": 21805000000.0,
+  "aporte_nacional": 8563318000000.0,
+  "recursos_propios": 568246000000.0,
+  "total": 9131564000000.0,
+  "programas": [
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 21805000000.0,
+    "total": 21805000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 21805000000.0,
+      "total": 21805000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1507",
+  "name": "INSTITUTO CASAS FISCALES DEL EJÉRCITO",
+  "funcionamiento": 43288000000.0,
+  "deuda": 0.0,
+  "inversion": 28294000000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 71582000000.0,
+  "total": 71582000000.0,
+  "programas": [
+   {
+    "codigo": "1505",
+    "nombre": "GENERACIÓN DE BIENESTAR PARA LA FUERZA PÚBLICA Y SUS FAMILIAS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 28294000000.0,
+    "total": 28294000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 28294000000.0,
+      "total": 28294000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1508",
+  "name": "DEFENSA CIVIL COLOMBIANA, GUILLERMO LEÓN VALENCIA",
+  "funcionamiento": 68666000000.0,
+  "deuda": 0.0,
+  "inversion": 10192145600.0,
+  "aporte_nacional": 76246145600.0,
+  "recursos_propios": 2612000000.0,
+  "total": 78858145600.0,
+  "programas": [
+   {
+    "codigo": "1506",
+    "nombre": "GESTIÓN DEL RIESGO DE DESASTRES DESDE EL SECTOR DEFENSA Y SEGURIDAD",
+    "aporte_nacional": 9692145600.0,
+    "recursos_propios": 0.0,
+    "total": 9692145600.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 9692145600.0,
+      "recursos_propios": 0.0,
+      "total": 9692145600.0
+     }
+    ]
+   },
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 500000000.0,
+    "recursos_propios": 0.0,
+    "total": 500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 500000000.0,
+      "recursos_propios": 0.0,
+      "total": 500000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1510",
+  "name": "CLUB MILITAR DE OFICIALES",
+  "funcionamiento": 81770000000.0,
+  "deuda": 0.0,
+  "inversion": 4001000000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 85771000000.0,
+  "total": 85771000000.0,
+  "programas": [
+   {
+    "codigo": "1507",
+    "nombre": "GRUPO SOCIAL Y EMPRESARIAL DE LA DEFENSA (GSED) COMPETITIVO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 4001000000.0,
+    "total": 4001000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 4001000000.0,
+      "total": 4001000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1511",
+  "name": "CAJA DE SUELDOS DE RETIRO DE LA POLICÍA NACIONAL",
+  "funcionamiento": 8405386000000.0,
+  "deuda": 0.0,
+  "inversion": 10412257000.0,
+  "aporte_nacional": 7886868000000.0,
+  "recursos_propios": 528930257000.0,
+  "total": 8415798257000.0,
+  "programas": [
+   {
+    "codigo": "1507",
+    "nombre": "GRUPO SOCIAL Y EMPRESARIAL DE LA DEFENSA (GSED) COMPETITIVO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 8932257000.0,
+    "total": 8932257000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 8932257000.0,
+      "total": 8932257000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 1480000000.0,
+    "total": 1480000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 1480000000.0,
+      "total": 1480000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1512",
+  "name": "FONDO ROTATORIO DE LA POLICÍA",
+  "funcionamiento": 340204000000.0,
+  "deuda": 0.0,
+  "inversion": 3500000000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 343704000000.0,
+  "total": 343704000000.0,
+  "programas": [
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 3500000000.0,
+    "total": 3500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 3500000000.0,
+      "total": 3500000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1516",
+  "name": "SUPERINTENDENCIA DE VIGILANCIA Y SEGURIDAD PRIVADA",
+  "funcionamiento": 43649000000.0,
+  "deuda": 0.0,
+  "inversion": 4900854375.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 48549854375.0,
+  "total": 48549854375.0,
+  "programas": [
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 4900854375.0,
+    "total": 4900854375.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 4900854375.0,
+      "total": 4900854375.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1519",
+  "name": "HOSPITAL MILITAR",
+  "funcionamiento": 670441000000.0,
+  "deuda": 0.0,
+  "inversion": 35000000000.0,
+  "aporte_nacional": 38198000000.0,
+  "recursos_propios": 667243000000.0,
+  "total": 705441000000.0,
+  "programas": [
+   {
+    "codigo": "1505",
+    "nombre": "GENERACIÓN DE BIENESTAR PARA LA FUERZA PÚBLICA Y SUS FAMILIAS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 27000000000.0,
+    "total": 27000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 27000000000.0,
+      "total": 27000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 8000000000.0,
+    "total": 8000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 8000000000.0,
+      "total": 8000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1520",
+  "name": "AGENCIA LOGÍSTICA DE LAS FUERZAS MILITARES",
+  "funcionamiento": 1042421200000.0,
+  "deuda": 0.0,
+  "inversion": 1861446000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 1044282646000.0,
+  "total": 1044282646000.0,
+  "programas": [
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 1861446000.0,
+    "total": 1861446000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 1861446000.0,
+      "total": 1861446000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1521",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE LA JUSTICIA PENAL MILITAR Y POLICIAL",
+  "funcionamiento": 175264000000.0,
+  "deuda": 0.0,
+  "inversion": 3178445219.0,
+  "aporte_nacional": 178442445219.0,
+  "recursos_propios": 0.0,
+  "total": 178442445219.0,
+  "programas": [
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 3178445219.0,
+    "recursos_propios": 0.0,
+    "total": 3178445219.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 3178445219.0,
+      "recursos_propios": 0.0,
+      "total": 3178445219.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1601",
+  "name": "POLICÍA NACIONAL",
+  "funcionamiento": 20325577000000.0,
+  "deuda": 0.0,
+  "inversion": 587725926299.0,
+  "aporte_nacional": 20913302926299.0,
+  "recursos_propios": 0.0,
+  "total": 20913302926299.0,
+  "programas": [
+   {
+    "codigo": "1501",
+    "nombre": "CAPACIDADES DE LA POLICÍA NACIONAL EN SEGURIDAD PÚBLICA, PREVENCIÓN, CONVIVENCIA Y SEGURIDAD CIUDADANA",
+    "aporte_nacional": 530066058209.0,
+    "recursos_propios": 0.0,
+    "total": 530066058209.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 530066058209.0,
+      "recursos_propios": 0.0,
+      "total": 530066058209.0
+     }
+    ]
+   },
+   {
+    "codigo": "1505",
+    "nombre": "GENERACIÓN DE BIENESTAR PARA LA FUERZA PÚBLICA Y SUS FAMILIAS",
+    "aporte_nacional": 53046860000.0,
+    "recursos_propios": 0.0,
+    "total": 53046860000.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 53046860000.0,
+      "recursos_propios": 0.0,
+      "total": 53046860000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR DEFENSA Y POLICÍA",
+    "aporte_nacional": 4613008090.0,
+    "recursos_propios": 0.0,
+    "total": 4613008090.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 4613008090.0,
+      "recursos_propios": 0.0,
+      "total": 4613008090.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1701",
+  "name": "MINISTERIO DE AGRICULTURA Y DESARROLLO RURAL",
+  "funcionamiento": 499150001041.0,
+  "deuda": 0.0,
+  "inversion": 392760768030.0,
+  "aporte_nacional": 891910769071.0,
+  "recursos_propios": 0.0,
+  "total": 891910769071.0,
+  "programas": [
+   {
+    "codigo": "1701",
+    "nombre": "MEJORAMIENTO DE LA HABITABILIDAD RURAL",
+    "aporte_nacional": 53110000000.0,
+    "recursos_propios": 0.0,
+    "total": 53110000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 53110000000.0,
+      "recursos_propios": 0.0,
+      "total": 53110000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1702",
+    "nombre": "INCLUSIÓN PRODUCTIVA DE PEQUEÑOS PRODUCTORES RURALES",
+    "aporte_nacional": 26692215922.0,
+    "recursos_propios": 0.0,
+    "total": 26692215922.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 26692215922.0,
+      "recursos_propios": 0.0,
+      "total": 26692215922.0
+     }
+    ]
+   },
+   {
+    "codigo": "1703",
+    "nombre": "SERVICIOS FINANCIEROS Y GESTIÓN DEL RIESGO PARA LAS ACTIVIDADES AGROPECUARIAS Y RURALES",
+    "aporte_nacional": 156166954086.0,
+    "recursos_propios": 0.0,
+    "total": 156166954086.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 156166954086.0,
+      "recursos_propios": 0.0,
+      "total": 156166954086.0
+     }
+    ]
+   },
+   {
+    "codigo": "1704",
+    "nombre": "ORDENAMIENTO SOCIAL Y USO PRODUCTIVO DEL TERRITORIO RURAL",
+    "aporte_nacional": 37445073634.0,
+    "recursos_propios": 0.0,
+    "total": 37445073634.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 37445073634.0,
+      "recursos_propios": 0.0,
+      "total": 37445073634.0
+     }
+    ]
+   },
+   {
+    "codigo": "1708",
+    "nombre": "CIENCIA, TECNOLOGÍA E INNOVACIÓN AGROPECUARIA",
+    "aporte_nacional": 54004919625.0,
+    "recursos_propios": 0.0,
+    "total": 54004919625.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 54004919625.0,
+      "recursos_propios": 0.0,
+      "total": 54004919625.0
+     }
+    ]
+   },
+   {
+    "codigo": "1709",
+    "nombre": "INFRAESTRUCTURA PRODUCTIVA Y COMERCIALIZACIÓN",
+    "aporte_nacional": 22308074514.0,
+    "recursos_propios": 0.0,
+    "total": 22308074514.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 22308074514.0,
+      "recursos_propios": 0.0,
+      "total": 22308074514.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 43033530249.0,
+    "recursos_propios": 0.0,
+    "total": 43033530249.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 43033530249.0,
+      "recursos_propios": 0.0,
+      "total": 43033530249.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1702",
+  "name": "INSTITUTO COLOMBIANO AGROPECUARIO (ICA)",
+  "funcionamiento": 251308592636.0,
+  "deuda": 0.0,
+  "inversion": 171787696901.0,
+  "aporte_nacional": 315827320909.0,
+  "recursos_propios": 107268968628.0,
+  "total": 423096289537.0,
+  "programas": [
+   {
+    "codigo": "1707",
+    "nombre": "SANIDAD AGROPECUARIA E INOCUIDAD AGROALIMENTARIA",
+    "aporte_nacional": 74112619350.0,
+    "recursos_propios": 75175077551.0,
+    "total": 149287696901.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 74112619350.0,
+      "recursos_propios": 75175077551.0,
+      "total": 149287696901.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 22500000000.0,
+    "recursos_propios": 0.0,
+    "total": 22500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 22500000000.0,
+      "recursos_propios": 0.0,
+      "total": 22500000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1715",
+  "name": "AUTORIDAD NACIONAL DE ACUICULTURA Y PESCA - AUNAP",
+  "funcionamiento": 25645144214.0,
+  "deuda": 0.0,
+  "inversion": 65028954927.0,
+  "aporte_nacional": 82747436038.0,
+  "recursos_propios": 7926663103.0,
+  "total": 90674099141.0,
+  "programas": [
+   {
+    "codigo": "1707",
+    "nombre": "SANIDAD AGROPECUARIA E INOCUIDAD AGROALIMENTARIA",
+    "aporte_nacional": 41840843268.0,
+    "recursos_propios": 7146559159.0,
+    "total": 48987402427.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 41840843268.0,
+      "recursos_propios": 7146559159.0,
+      "total": 48987402427.0
+     }
+    ]
+   },
+   {
+    "codigo": "1708",
+    "nombre": "CIENCIA, TECNOLOGÍA E INNOVACIÓN AGROPECUARIA",
+    "aporte_nacional": 14000000000.0,
+    "recursos_propios": 0.0,
+    "total": 14000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 14000000000.0,
+      "recursos_propios": 0.0,
+      "total": 14000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 2041552500.0,
+    "recursos_propios": 0.0,
+    "total": 2041552500.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 2041552500.0,
+      "recursos_propios": 0.0,
+      "total": 2041552500.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1716",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE GESTIÓN DE RESTITUCIÓN DE TIERRAS DESPOJADAS",
+  "funcionamiento": 86675818881.0,
+  "deuda": 0.0,
+  "inversion": 427795565369.0,
+  "aporte_nacional": 514471384250.0,
+  "recursos_propios": 0.0,
+  "total": 514471384250.0,
+  "programas": [
+   {
+    "codigo": "1705",
+    "nombre": "RESTITUCIÓN DE TIERRAS A VÍCTIMAS DEL CONFLICTO ARMADO",
+    "aporte_nacional": 382023072765.0,
+    "recursos_propios": 0.0,
+    "total": 382023072765.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 382023072765.0,
+      "recursos_propios": 0.0,
+      "total": 382023072765.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 45772492604.0,
+    "recursos_propios": 0.0,
+    "total": 45772492604.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 45772492604.0,
+      "recursos_propios": 0.0,
+      "total": 45772492604.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1717",
+  "name": "AGENCIA NACIONAL DE TIERRAS - ANT",
+  "funcionamiento": 78514422047.0,
+  "deuda": 0.0,
+  "inversion": 478252971768.0,
+  "aporte_nacional": 553567393815.0,
+  "recursos_propios": 3200000000.0,
+  "total": 556767393815.0,
+  "programas": [
+   {
+    "codigo": "1702",
+    "nombre": "INCLUSIÓN PRODUCTIVA DE PEQUEÑOS PRODUCTORES RURALES",
+    "aporte_nacional": 20264378961.0,
+    "recursos_propios": 0.0,
+    "total": 20264378961.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 20264378961.0,
+      "recursos_propios": 0.0,
+      "total": 20264378961.0
+     }
+    ]
+   },
+   {
+    "codigo": "1704",
+    "nombre": "ORDENAMIENTO SOCIAL Y USO PRODUCTIVO DEL TERRITORIO RURAL",
+    "aporte_nacional": 430808232601.0,
+    "recursos_propios": 3200000000.0,
+    "total": 434008232601.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 430808232601.0,
+      "recursos_propios": 3200000000.0,
+      "total": 434008232601.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 23980360206.0,
+    "recursos_propios": 0.0,
+    "total": 23980360206.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 23980360206.0,
+      "recursos_propios": 0.0,
+      "total": 23980360206.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1718",
+  "name": "AGENCIA DE DESARROLLO RURAL - ADR",
+  "funcionamiento": 53605818228.0,
+  "deuda": 0.0,
+  "inversion": 267489814517.0,
+  "aporte_nacional": 311173634566.0,
+  "recursos_propios": 9921998179.0,
+  "total": 321095632745.0,
+  "programas": [
+   {
+    "codigo": "1702",
+    "nombre": "INCLUSIÓN PRODUCTIVA DE PEQUEÑOS PRODUCTORES RURALES",
+    "aporte_nacional": 174905187159.0,
+    "recursos_propios": 0.0,
+    "total": 174905187159.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 174905187159.0,
+      "recursos_propios": 0.0,
+      "total": 174905187159.0
+     }
+    ]
+   },
+   {
+    "codigo": "1708",
+    "nombre": "CIENCIA, TECNOLOGÍA E INNOVACIÓN AGROPECUARIA",
+    "aporte_nacional": 33336326967.0,
+    "recursos_propios": 0.0,
+    "total": 33336326967.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 33336326967.0,
+      "recursos_propios": 0.0,
+      "total": 33336326967.0
+     }
+    ]
+   },
+   {
+    "codigo": "1709",
+    "nombre": "INFRAESTRUCTURA PRODUCTIVA Y COMERCIALIZACIÓN",
+    "aporte_nacional": 40901900199.0,
+    "recursos_propios": 9921998179.0,
+    "total": 50823898378.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 40901900199.0,
+      "recursos_propios": 9921998179.0,
+      "total": 50823898378.0
+     }
+    ]
+   },
+   {
+    "codigo": "1799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AGRICULTURA Y DESARROLLO RURAL",
+    "aporte_nacional": 8424402013.0,
+    "recursos_propios": 0.0,
+    "total": 8424402013.0,
+    "subprogramas": [
+     {
+      "codigo": "1100",
+      "nombre": "INTERSUBSECTORIAL AGROPECUARIO",
+      "aporte_nacional": 8424402013.0,
+      "recursos_propios": 0.0,
+      "total": 8424402013.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1901",
+  "name": "MINISTERIO DE SALUD Y PROTECCIÓN SOCIAL",
+  "funcionamiento": 75413063967744.0,
+  "deuda": 0.0,
+  "inversion": 1644216077384.0,
+  "aporte_nacional": 77057280045128.0,
+  "recursos_propios": 0.0,
+  "total": 77057280045128.0,
+  "programas": [
+   {
+    "codigo": "1905",
+    "nombre": "SALUD PÚBLICA",
+    "aporte_nacional": 685872595914.0,
+    "recursos_propios": 0.0,
+    "total": 685872595914.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 685872595914.0,
+      "recursos_propios": 0.0,
+      "total": 685872595914.0
+     }
+    ]
+   },
+   {
+    "codigo": "1906",
+    "nombre": "ASEGURAMIENTO Y PRESTACIÓN INTEGRAL DE SERVICIOS DE SALUD",
+    "aporte_nacional": 904580115349.0,
+    "recursos_propios": 0.0,
+    "total": 904580115349.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 904580115349.0,
+      "recursos_propios": 0.0,
+      "total": 904580115349.0
+     }
+    ]
+   },
+   {
+    "codigo": "1999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR SALUD",
+    "aporte_nacional": 53763366121.0,
+    "recursos_propios": 0.0,
+    "total": 53763366121.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 53763366121.0,
+      "recursos_propios": 0.0,
+      "total": 53763366121.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1903",
+  "name": "INSTITUTO NACIONAL DE SALUD (INS)",
+  "funcionamiento": 64376000000.0,
+  "deuda": 0.0,
+  "inversion": 63199614403.0,
+  "aporte_nacional": 86810000000.0,
+  "recursos_propios": 40765614403.0,
+  "total": 127575614403.0,
+  "programas": [
+   {
+    "codigo": "1901",
+    "nombre": "SALUD PÚBLICA Y PRESTACIÓN DE SERVICIOS",
+    "aporte_nacional": 23968194000.0,
+    "recursos_propios": 27299614403.0,
+    "total": 51267808403.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 23968194000.0,
+      "recursos_propios": 27299614403.0,
+      "total": 51267808403.0
+     }
+    ]
+   },
+   {
+    "codigo": "1905",
+    "nombre": "SALUD PÚBLICA",
+    "aporte_nacional": 91806000.0,
+    "recursos_propios": 0.0,
+    "total": 91806000.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 91806000.0,
+      "recursos_propios": 0.0,
+      "total": 91806000.0
+     }
+    ]
+   },
+   {
+    "codigo": "1999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR SALUD",
+    "aporte_nacional": 3720000000.0,
+    "recursos_propios": 8120000000.0,
+    "total": 11840000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 3720000000.0,
+      "recursos_propios": 8120000000.0,
+      "total": 11840000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1910",
+  "name": "SUPERINTENDENCIA NACIONAL DE SALUD",
+  "funcionamiento": 296784000000.0,
+  "deuda": 0.0,
+  "inversion": 217223931659.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 514007931659.0,
+  "total": 514007931659.0,
+  "programas": [
+   {
+    "codigo": "1903",
+    "nombre": "INSPECCIÓN, VIGILANCIA Y CONTROL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 100980761120.0,
+    "total": 100980761120.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 100980761120.0,
+      "total": 100980761120.0
+     }
+    ]
+   },
+   {
+    "codigo": "1906",
+    "nombre": "ASEGURAMIENTO Y PRESTACIÓN INTEGRAL DE SERVICIOS DE SALUD",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 2177589231.0,
+    "total": 2177589231.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 2177589231.0,
+      "total": 2177589231.0
+     }
+    ]
+   },
+   {
+    "codigo": "1999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR SALUD",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 114065581308.0,
+    "total": 114065581308.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 114065581308.0,
+      "total": 114065581308.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1912",
+  "name": "INSTITUTO NACIONAL DE VIGILANCIA DE MEDICAMENTOS Y ALIMENTOS - INVIMA",
+  "funcionamiento": 224525000000.0,
+  "deuda": 0.0,
+  "inversion": 162655457473.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 387180457473.0,
+  "total": 387180457473.0,
+  "programas": [
+   {
+    "codigo": "1903",
+    "nombre": "INSPECCIÓN, VIGILANCIA Y CONTROL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 90359443650.0,
+    "total": 90359443650.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 90359443650.0,
+      "total": 90359443650.0
+     }
+    ]
+   },
+   {
+    "codigo": "1999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR SALUD",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 72296013823.0,
+    "total": 72296013823.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 72296013823.0,
+      "total": 72296013823.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "1913",
+  "name": "FONDO DE PREVISIÓN SOCIAL DEL CONGRESO",
+  "funcionamiento": 500254000000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 404772000000.0,
+  "recursos_propios": 95482000000.0,
+  "total": 500254000000.0,
+  "programas": []
+ },
+ {
+  "code": "1914",
+  "name": "FONDO PASIVO SOCIAL DE FERROCARRILES NACIONALES DE COLOMBIA",
+  "funcionamiento": 968707000000.0,
+  "deuda": 0.0,
+  "inversion": 1000000000.0,
+  "aporte_nacional": 759994000000.0,
+  "recursos_propios": 209713000000.0,
+  "total": 969707000000.0,
+  "programas": [
+   {
+    "codigo": "1999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR SALUD",
+    "aporte_nacional": 1000000000.0,
+    "recursos_propios": 0.0,
+    "total": 1000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0300",
+      "nombre": "INTERSUBSECTORIAL SALUD",
+      "aporte_nacional": 1000000000.0,
+      "recursos_propios": 0.0,
+      "total": 1000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2101",
+  "name": "MINISTERIO DE MINAS Y ENERGÍA",
+  "funcionamiento": 389672012894.0,
+  "deuda": 3459702562.0,
+  "inversion": 5261183020762.0,
+  "aporte_nacional": 5654314736218.0,
+  "recursos_propios": 0.0,
+  "total": 5654314736218.0,
+  "programas": [
+   {
+    "codigo": "2101",
+    "nombre": "ACCESO AL SERVICIO PÚBLICO DOMICILIARIO DE GAS COMBUSTIBLE",
+    "aporte_nacional": 1293258354004.0,
+    "recursos_propios": 0.0,
+    "total": 1293258354004.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 1293258354004.0,
+      "recursos_propios": 0.0,
+      "total": 1293258354004.0
+     }
+    ]
+   },
+   {
+    "codigo": "2102",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR DE ENERGÍA ELÉCTRICA",
+    "aporte_nacional": 3747164577127.0,
+    "recursos_propios": 0.0,
+    "total": 3747164577127.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 3747164577127.0,
+      "recursos_propios": 0.0,
+      "total": 3747164577127.0
+     }
+    ]
+   },
+   {
+    "codigo": "2103",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR HIDROCARBUROS",
+    "aporte_nacional": 66622752721.0,
+    "recursos_propios": 0.0,
+    "total": 66622752721.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 66622752721.0,
+      "recursos_propios": 0.0,
+      "total": 66622752721.0
+     }
+    ]
+   },
+   {
+    "codigo": "2104",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR MINERO",
+    "aporte_nacional": 65328306561.0,
+    "recursos_propios": 0.0,
+    "total": 65328306561.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 65328306561.0,
+      "recursos_propios": 0.0,
+      "total": 65328306561.0
+     }
+    ]
+   },
+   {
+    "codigo": "2105",
+    "nombre": "DESARROLLO AMBIENTAL SOSTENIBLE DEL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 15661072099.0,
+    "recursos_propios": 0.0,
+    "total": 15661072099.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 15661072099.0,
+      "recursos_propios": 0.0,
+      "total": 15661072099.0
+     }
+    ]
+   },
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 43684287987.0,
+    "recursos_propios": 0.0,
+    "total": 43684287987.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 43684287987.0,
+      "recursos_propios": 0.0,
+      "total": 43684287987.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 29463670263.0,
+    "recursos_propios": 0.0,
+    "total": 29463670263.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 29463670263.0,
+      "recursos_propios": 0.0,
+      "total": 29463670263.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2103",
+  "name": "SERVICIO GEOLÓGICO COLOMBIANO",
+  "funcionamiento": 80096028202.0,
+  "deuda": 0.0,
+  "inversion": 52300685407.0,
+  "aporte_nacional": 119871965682.0,
+  "recursos_propios": 12524747927.0,
+  "total": 132396713609.0,
+  "programas": [
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 42086120476.0,
+    "recursos_propios": 1232876040.0,
+    "total": 43318996516.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 42086120476.0,
+      "recursos_propios": 1232876040.0,
+      "total": 43318996516.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 7748812851.0,
+    "recursos_propios": 1232876040.0,
+    "total": 8981688891.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 7748812851.0,
+      "recursos_propios": 1232876040.0,
+      "total": 8981688891.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2109",
+  "name": "UNIDAD DE PLANEACIÓN MINERO ENERGÉTICA - UPME",
+  "funcionamiento": 52179522750.0,
+  "deuda": 0.0,
+  "inversion": 41049177229.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 93228699979.0,
+  "total": 93228699979.0,
+  "programas": [
+   {
+    "codigo": "2102",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR DE ENERGÍA ELÉCTRICA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 11616958000.0,
+    "total": 11616958000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 11616958000.0,
+      "total": 11616958000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2103",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR HIDROCARBUROS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 4561557000.0,
+    "total": 4561557000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 4561557000.0,
+      "total": 4561557000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 15731526229.0,
+    "total": 15731526229.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 15731526229.0,
+      "total": 15731526229.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 9139136000.0,
+    "total": 9139136000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 9139136000.0,
+      "total": 9139136000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2110",
+  "name": "INSTITUTO DE PLANIFICACIÓN Y PROMOCIÓN DE SOLUCIONES ENERGÉTICAS PARA LAS ZONAS NO INTERCONECTADAS - IPSE",
+  "funcionamiento": 24721099917.0,
+  "deuda": 0.0,
+  "inversion": 50628286748.0,
+  "aporte_nacional": 68965212709.0,
+  "recursos_propios": 6384173956.0,
+  "total": 75349386665.0,
+  "programas": [
+   {
+    "codigo": "2102",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR DE ENERGÍA ELÉCTRICA",
+    "aporte_nacional": 45862876122.0,
+    "recursos_propios": 0.0,
+    "total": 45862876122.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 45862876122.0,
+      "recursos_propios": 0.0,
+      "total": 45862876122.0
+     }
+    ]
+   },
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 1393697374.0,
+    "recursos_propios": 0.0,
+    "total": 1393697374.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 1393697374.0,
+      "recursos_propios": 0.0,
+      "total": 1393697374.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 1371713252.0,
+    "recursos_propios": 2000000000.0,
+    "total": 3371713252.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 1371713252.0,
+      "recursos_propios": 2000000000.0,
+      "total": 3371713252.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2111",
+  "name": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+  "funcionamiento": 885910255689.0,
+  "deuda": 0.0,
+  "inversion": 423150687113.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 1309060942802.0,
+  "total": 1309060942802.0,
+  "programas": [
+   {
+    "codigo": "2102",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR DE ENERGÍA ELÉCTRICA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 125660000000.0,
+    "total": 125660000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 125660000000.0,
+      "total": 125660000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2103",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR HIDROCARBUROS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 59912149381.0,
+    "total": 59912149381.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 59912149381.0,
+      "total": 59912149381.0
+     }
+    ]
+   },
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 211840000000.0,
+    "total": 211840000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 211840000000.0,
+      "total": 211840000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 25738537732.0,
+    "total": 25738537732.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 25738537732.0,
+      "total": 25738537732.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2112",
+  "name": "AGENCIA NACIONAL DE MINERÍA - ANM",
+  "funcionamiento": 163306967079.0,
+  "deuda": 0.0,
+  "inversion": 87741830850.0,
+  "aporte_nacional": 69376123314.0,
+  "recursos_propios": 181672674615.0,
+  "total": 251048797929.0,
+  "programas": [
+   {
+    "codigo": "2104",
+    "nombre": "CONSOLIDACIÓN PRODUCTIVA DEL SECTOR MINERO",
+    "aporte_nacional": 19765126188.0,
+    "recursos_propios": 20902712015.0,
+    "total": 40667838203.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 19765126188.0,
+      "recursos_propios": 20902712015.0,
+      "total": 40667838203.0
+     }
+    ]
+   },
+   {
+    "codigo": "2105",
+    "nombre": "DESARROLLO AMBIENTAL SOSTENIBLE DEL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 3728212441.0,
+    "recursos_propios": 3942790460.0,
+    "total": 7671002901.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 3728212441.0,
+      "recursos_propios": 3942790460.0,
+      "total": 7671002901.0
+     }
+    ]
+   },
+   {
+    "codigo": "2106",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN EN EL SECTOR MINERO ENERGÉTICO",
+    "aporte_nacional": 5346150612.0,
+    "recursos_propios": 5653849388.0,
+    "total": 11000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 5346150612.0,
+      "recursos_propios": 5653849388.0,
+      "total": 11000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR MINAS Y ENERGÍA",
+    "aporte_nacional": 11312357531.0,
+    "recursos_propios": 17090632215.0,
+    "total": 28402989746.0,
+    "subprogramas": [
+     {
+      "codigo": "1900",
+      "nombre": "INTERSUBSECTORIAL MINAS Y ENERGÍA",
+      "aporte_nacional": 11312357531.0,
+      "recursos_propios": 17090632215.0,
+      "total": 28402989746.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2201",
+  "name": "MINISTERIO DE EDUCACIÓN NACIONAL",
+  "funcionamiento": 75836006174318.0,
+  "deuda": 0.0,
+  "inversion": 2935424364669.0,
+  "aporte_nacional": 78771430538987.0,
+  "recursos_propios": 0.0,
+  "total": 78771430538987.0,
+  "programas": [
+   {
+    "codigo": "2201",
+    "nombre": "CALIDAD, COBERTURA Y FORTALECIMIENTO DE LA EDUCACIÓN INICIAL, PRESCOLAR, BÁSICA Y MEDIA",
+    "aporte_nacional": 804158298561.0,
+    "recursos_propios": 0.0,
+    "total": 804158298561.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 804158298561.0,
+      "recursos_propios": 0.0,
+      "total": 804158298561.0
+     }
+    ]
+   },
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 2111266066108.0,
+    "recursos_propios": 0.0,
+    "total": 2111266066108.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 2111266066108.0,
+      "recursos_propios": 0.0,
+      "total": 2111266066108.0
+     }
+    ]
+   },
+   {
+    "codigo": "2299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EDUCACIÓN",
+    "aporte_nacional": 20000000000.0,
+    "recursos_propios": 0.0,
+    "total": 20000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 20000000000.0,
+      "recursos_propios": 0.0,
+      "total": 20000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2209",
+  "name": "INSTITUTO NACIONAL PARA SORDOS (INSOR)",
+  "funcionamiento": 10205644000.0,
+  "deuda": 0.0,
+  "inversion": 8456512070.0,
+  "aporte_nacional": 18336926417.0,
+  "recursos_propios": 325229653.0,
+  "total": 18662156070.0,
+  "programas": [
+   {
+    "codigo": "2203",
+    "nombre": "CIERRE DE BRECHAS PARA EL GOCE EFECTIVO DE DERECHOS FUNDAMENTALES DE LA POBLACIÓN EN CONDICIÓN DE DISCAPACIDAD",
+    "aporte_nacional": 5989382596.0,
+    "recursos_propios": 325229653.0,
+    "total": 6314612249.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 5989382596.0,
+      "recursos_propios": 325229653.0,
+      "total": 6314612249.0
+     }
+    ]
+   },
+   {
+    "codigo": "2299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EDUCACIÓN",
+    "aporte_nacional": 2141899821.0,
+    "recursos_propios": 0.0,
+    "total": 2141899821.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 2141899821.0,
+      "recursos_propios": 0.0,
+      "total": 2141899821.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2210",
+  "name": "INSTITUTO NACIONAL PARA CIEGOS (INCI)",
+  "funcionamiento": 10063842000.0,
+  "deuda": 0.0,
+  "inversion": 3147395661.0,
+  "aporte_nacional": 12599631905.0,
+  "recursos_propios": 611605756.0,
+  "total": 13211237661.0,
+  "programas": [
+   {
+    "codigo": "2203",
+    "nombre": "CIERRE DE BRECHAS PARA EL GOCE EFECTIVO DE DERECHOS FUNDAMENTALES DE LA POBLACIÓN EN CONDICIÓN DE DISCAPACIDAD",
+    "aporte_nacional": 1760225000.0,
+    "recursos_propios": 365000000.0,
+    "total": 2125225000.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 1760225000.0,
+      "recursos_propios": 365000000.0,
+      "total": 2125225000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EDUCACIÓN",
+    "aporte_nacional": 775564905.0,
+    "recursos_propios": 246605756.0,
+    "total": 1022170661.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 775564905.0,
+      "recursos_propios": 246605756.0,
+      "total": 1022170661.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2234",
+  "name": "ESCUELA TECNOLÓGICA INSTITUTO TÉCNICO CENTRAL",
+  "funcionamiento": 54711356953.0,
+  "deuda": 0.0,
+  "inversion": 21638738558.0,
+  "aporte_nacional": 45702172155.0,
+  "recursos_propios": 30647923356.0,
+  "total": 76350095511.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 7887944202.0,
+    "recursos_propios": 13750794356.0,
+    "total": 21638738558.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 7887944202.0,
+      "recursos_propios": 13750794356.0,
+      "total": 21638738558.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2238",
+  "name": "INSTITUCIÓN UNIVERSITARIA DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA - IUSAI",
+  "funcionamiento": 9590777144.0,
+  "deuda": 0.0,
+  "inversion": 7393642070.0,
+  "aporte_nacional": 16245701750.0,
+  "recursos_propios": 738717464.0,
+  "total": 16984419214.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 7196936606.0,
+    "recursos_propios": 196705464.0,
+    "total": 7393642070.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 7196936606.0,
+      "recursos_propios": 196705464.0,
+      "total": 7393642070.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2239",
+  "name": "INSTITUTO NACIONAL DE FORMACIÓN TÉCNICA PROFESIONAL DE SAN JUAN DEL CESAR",
+  "funcionamiento": 11923107683.0,
+  "deuda": 0.0,
+  "inversion": 17530267447.0,
+  "aporte_nacional": 24969650587.0,
+  "recursos_propios": 4483724543.0,
+  "total": 29453375130.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 15000000000.0,
+    "recursos_propios": 2530267447.0,
+    "total": 17530267447.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 15000000000.0,
+      "recursos_propios": 2530267447.0,
+      "total": 17530267447.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2241",
+  "name": "INSTITUCIÓN UNIVERSITARIA DE EL ESPINAL - UNIESPINAL",
+  "funcionamiento": 27696415000.0,
+  "deuda": 0.0,
+  "inversion": 10503220324.0,
+  "aporte_nacional": 32273635324.0,
+  "recursos_propios": 5926000000.0,
+  "total": 38199635324.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 10503220324.0,
+    "recursos_propios": 0.0,
+    "total": 10503220324.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 10503220324.0,
+      "recursos_propios": 0.0,
+      "total": 10503220324.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2242",
+  "name": "INSTITUTO TÉCNICO NACIONAL DE COMERCIO \"SIMÓN RODRÍGUEZ\" DE CALI",
+  "funcionamiento": 16235205642.0,
+  "deuda": 0.0,
+  "inversion": 12152395223.0,
+  "aporte_nacional": 22582219865.0,
+  "recursos_propios": 5805381000.0,
+  "total": 28387600865.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 12152395223.0,
+    "recursos_propios": 0.0,
+    "total": 12152395223.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 12152395223.0,
+      "recursos_propios": 0.0,
+      "total": 12152395223.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2246",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE ALIMENTACIÓN ESCOLAR",
+  "funcionamiento": 17473433078.0,
+  "deuda": 0.0,
+  "inversion": 3174521829231.0,
+  "aporte_nacional": 3191995262309.0,
+  "recursos_propios": 0.0,
+  "total": 3191995262309.0,
+  "programas": [
+   {
+    "codigo": "2201",
+    "nombre": "CALIDAD, COBERTURA Y FORTALECIMIENTO DE LA EDUCACIÓN INICIAL, PRESCOLAR, BÁSICA Y MEDIA",
+    "aporte_nacional": 3174521829231.0,
+    "recursos_propios": 0.0,
+    "total": 3174521829231.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 3174521829231.0,
+      "recursos_propios": 0.0,
+      "total": 3174521829231.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2257",
+  "name": "ENTES AUTÓNOMOS UNIVERSITARIOS ESTATALES - UNIVERSIDADES PÚBLICAS",
+  "funcionamiento": 10562199638028.0,
+  "deuda": 0.0,
+  "inversion": 212257616364.0,
+  "aporte_nacional": 10774457254392.0,
+  "recursos_propios": 0.0,
+  "total": 10774457254392.0,
+  "programas": [
+   {
+    "codigo": "2202",
+    "nombre": "CALIDAD Y FOMENTO DE LA EDUCACIÓN SUPERIOR",
+    "aporte_nacional": 212257616364.0,
+    "recursos_propios": 0.0,
+    "total": 212257616364.0,
+    "subprogramas": [
+     {
+      "codigo": "0700",
+      "nombre": "INTERSUBSECTORIAL EDUCACIÓN",
+      "aporte_nacional": 212257616364.0,
+      "recursos_propios": 0.0,
+      "total": 212257616364.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2301",
+  "name": "MINISTERIO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+  "funcionamiento": 153182122000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 153182122000.0,
+  "recursos_propios": 0.0,
+  "total": 153182122000.0,
+  "programas": []
+ },
+ {
+  "code": "2306",
+  "name": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+  "funcionamiento": 549460499000.0,
+  "deuda": 0.0,
+  "inversion": 1781387296785.0,
+  "aporte_nacional": 310873263785.0,
+  "recursos_propios": 2019974532000.0,
+  "total": 2330847795785.0,
+  "programas": [
+   {
+    "codigo": "2301",
+    "nombre": "FACILITAR EL ACCESO Y USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES (TIC) EN TODO EL TERRITORIO NACIONAL",
+    "aporte_nacional": 310873263785.0,
+    "recursos_propios": 942655987188.0,
+    "total": 1253529250973.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 310873263785.0,
+      "recursos_propios": 942655987188.0,
+      "total": 1253529250973.0
+     }
+    ]
+   },
+   {
+    "codigo": "2302",
+    "nombre": "FOMENTO DEL DESARROLLO DE APLICACIONES, SOFTWARE Y CONTENIDOS PARA IMPULSAR LA APROPIACIÓN DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 348399104020.0,
+    "total": 348399104020.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 348399104020.0,
+      "total": 348399104020.0
+     }
+    ]
+   },
+   {
+    "codigo": "2399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 179458941792.0,
+    "total": 179458941792.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 179458941792.0,
+      "total": 179458941792.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2308",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL COMISIÓN DE REGULACIÓN DE COMUNICACIONES",
+  "funcionamiento": 43060540735.0,
+  "deuda": 0.0,
+  "inversion": 18470208000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 61530748735.0,
+  "total": 61530748735.0,
+  "programas": [
+   {
+    "codigo": "2301",
+    "nombre": "FACILITAR EL ACCESO Y USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES (TIC) EN TODO EL TERRITORIO NACIONAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 11537502000.0,
+    "total": 11537502000.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 11537502000.0,
+      "total": 11537502000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 6932706000.0,
+    "total": 6932706000.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 6932706000.0,
+      "total": 6932706000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2309",
+  "name": "AGENCIA NACIONAL DEL ESPECTRO - ANE",
+  "funcionamiento": 26271489986.0,
+  "deuda": 0.0,
+  "inversion": 23452336014.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 49723826000.0,
+  "total": 49723826000.0,
+  "programas": [
+   {
+    "codigo": "2301",
+    "nombre": "FACILITAR EL ACCESO Y USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES (TIC) EN TODO EL TERRITORIO NACIONAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 12020497611.0,
+    "total": 12020497611.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 12020497611.0,
+      "total": 12020497611.0
+     }
+    ]
+   },
+   {
+    "codigo": "2399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 11431838403.0,
+    "total": 11431838403.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 11431838403.0,
+      "total": 11431838403.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2311",
+  "name": "COMPUTADORES PARA EDUCAR (CPE)",
+  "funcionamiento": 32988361000.0,
+  "deuda": 0.0,
+  "inversion": 33001616000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 65989977000.0,
+  "total": 65989977000.0,
+  "programas": [
+   {
+    "codigo": "2301",
+    "nombre": "FACILITAR EL ACCESO Y USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES (TIC) EN TODO EL TERRITORIO NACIONAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 33001616000.0,
+    "total": 33001616000.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 33001616000.0,
+      "total": 33001616000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2312",
+  "name": "CORPORACIÓN AGENCIA NACIONAL DE GOBIERNO DIGITAL - AND",
+  "funcionamiento": 6551927183.0,
+  "deuda": 0.0,
+  "inversion": 151177403465.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 157729330648.0,
+  "total": 157729330648.0,
+  "programas": [
+   {
+    "codigo": "2302",
+    "nombre": "FOMENTO DEL DESARROLLO DE APLICACIONES, SOFTWARE Y CONTENIDOS PARA IMPULSAR LA APROPIACIÓN DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 151177403465.0,
+    "total": 151177403465.0,
+    "subprogramas": [
+     {
+      "codigo": "0400",
+      "nombre": "INTERSUBSECTORIAL COMUNICACIONES",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 151177403465.0,
+      "total": 151177403465.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2401",
+  "name": "MINISTERIO DE TRANSPORTE",
+  "funcionamiento": 253179969036.0,
+  "deuda": 6797215826.0,
+  "inversion": 138759597920.0,
+  "aporte_nacional": 398736782782.0,
+  "recursos_propios": 0.0,
+  "total": 398736782782.0,
+  "programas": [
+   {
+    "codigo": "2402",
+    "nombre": "INFRAESTRUCTURA RED VIAL REGIONAL",
+    "aporte_nacional": 60090395358.0,
+    "recursos_propios": 0.0,
+    "total": 60090395358.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 60090395358.0,
+      "recursos_propios": 0.0,
+      "total": 60090395358.0
+     }
+    ]
+   },
+   {
+    "codigo": "2406",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FLUVIAL",
+    "aporte_nacional": 800000000.0,
+    "recursos_propios": 0.0,
+    "total": 800000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 800000000.0,
+      "recursos_propios": 0.0,
+      "total": 800000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2407",
+    "nombre": "INFRAESTRUCTURA Y SERVICIOS DE LOGÍSTICA DE TRANSPORTE",
+    "aporte_nacional": 4000000000.0,
+    "recursos_propios": 0.0,
+    "total": 4000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 4000000000.0,
+      "recursos_propios": 0.0,
+      "total": 4000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2408",
+    "nombre": "PRESTACIÓN DE SERVICIOS DE TRANSPORTE PÚBLICO DE PASAJEROS",
+    "aporte_nacional": 1800000000.0,
+    "recursos_propios": 0.0,
+    "total": 1800000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 1800000000.0,
+      "recursos_propios": 0.0,
+      "total": 1800000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2410",
+    "nombre": "REGULACIÓN Y SUPERVISIÓN DE INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE",
+    "aporte_nacional": 57969202562.0,
+    "recursos_propios": 0.0,
+    "total": 57969202562.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 57969202562.0,
+      "recursos_propios": 0.0,
+      "total": 57969202562.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 14100000000.0,
+    "recursos_propios": 0.0,
+    "total": 14100000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 14100000000.0,
+      "recursos_propios": 0.0,
+      "total": 14100000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2402",
+  "name": "INSTITUTO NACIONAL DE VÍAS",
+  "funcionamiento": 535846476000.0,
+  "deuda": 601876014.0,
+  "inversion": 5356236850339.0,
+  "aporte_nacional": 3098201573353.0,
+  "recursos_propios": 2794483629000.0,
+  "total": 5892685202353.0,
+  "programas": [
+   {
+    "codigo": "2401",
+    "nombre": "INFRAESTRUCTURA RED VIAL PRIMARIA",
+    "aporte_nacional": 1867104900557.0,
+    "recursos_propios": 2115580796175.0,
+    "total": 3982685696732.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 1867104900557.0,
+      "recursos_propios": 2115580796175.0,
+      "total": 3982685696732.0
+     }
+    ]
+   },
+   {
+    "codigo": "2402",
+    "nombre": "INFRAESTRUCTURA RED VIAL REGIONAL",
+    "aporte_nacional": 871372955912.0,
+    "recursos_propios": 0.0,
+    "total": 871372955912.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 871372955912.0,
+      "recursos_propios": 0.0,
+      "total": 871372955912.0
+     }
+    ]
+   },
+   {
+    "codigo": "2404",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FÉRREO",
+    "aporte_nacional": 40000000000.0,
+    "recursos_propios": 0.0,
+    "total": 40000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 40000000000.0,
+      "recursos_propios": 0.0,
+      "total": 40000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2405",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE MARÍTIMO",
+    "aporte_nacional": 2700000000.0,
+    "recursos_propios": 103370212604.0,
+    "total": 106070212604.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 2700000000.0,
+      "recursos_propios": 103370212604.0,
+      "total": 106070212604.0
+     }
+    ]
+   },
+   {
+    "codigo": "2406",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FLUVIAL",
+    "aporte_nacional": 34000000000.0,
+    "recursos_propios": 0.0,
+    "total": 34000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 34000000000.0,
+      "recursos_propios": 0.0,
+      "total": 34000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2407",
+    "nombre": "INFRAESTRUCTURA Y SERVICIOS DE LOGÍSTICA DE TRANSPORTE",
+    "aporte_nacional": 500000000.0,
+    "recursos_propios": 0.0,
+    "total": 500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 500000000.0,
+      "recursos_propios": 0.0,
+      "total": 500000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2409",
+    "nombre": "SEGURIDAD DE TRANSPORTE",
+    "aporte_nacional": 40300000000.0,
+    "recursos_propios": 202830372203.0,
+    "total": 243130372203.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 40300000000.0,
+      "recursos_propios": 202830372203.0,
+      "total": 243130372203.0
+     }
+    ]
+   },
+   {
+    "codigo": "2410",
+    "nombre": "REGULACIÓN Y SUPERVISIÓN DE INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE",
+    "aporte_nacional": 8000000000.0,
+    "recursos_propios": 0.0,
+    "total": 8000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 8000000000.0,
+      "recursos_propios": 0.0,
+      "total": 8000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 38877561870.0,
+    "recursos_propios": 31600051018.0,
+    "total": 70477612888.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 38877561870.0,
+      "recursos_propios": 31600051018.0,
+      "total": 70477612888.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2412",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE LA AERONÁUTICA CIVIL",
+  "funcionamiento": 1171031913735.0,
+  "deuda": 14550000000.0,
+  "inversion": 2861239156611.0,
+  "aporte_nacional": 179765463401.0,
+  "recursos_propios": 3867055606945.0,
+  "total": 4046821070346.0,
+  "programas": [
+   {
+    "codigo": "2403",
+    "nombre": "INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE AÉREO",
+    "aporte_nacional": 179765463401.0,
+    "recursos_propios": 2504642903102.0,
+    "total": 2684408366503.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 179765463401.0,
+      "recursos_propios": 2504642903102.0,
+      "total": 2684408366503.0
+     }
+    ]
+   },
+   {
+    "codigo": "2409",
+    "nombre": "SEGURIDAD DE TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 37135984829.0,
+    "total": 37135984829.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 37135984829.0,
+      "total": 37135984829.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 139694805279.0,
+    "total": 139694805279.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 139694805279.0,
+      "total": 139694805279.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2413",
+  "name": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+  "funcionamiento": 147152070063.0,
+  "deuda": 2490771107743.0,
+  "inversion": 8121477690933.0,
+  "aporte_nacional": 10446244353495.0,
+  "recursos_propios": 313156515244.0,
+  "total": 10759400868739.0,
+  "programas": [
+   {
+    "codigo": "2401",
+    "nombre": "INFRAESTRUCTURA RED VIAL PRIMARIA",
+    "aporte_nacional": 6250249254207.0,
+    "recursos_propios": 0.0,
+    "total": 6250249254207.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 6250249254207.0,
+      "recursos_propios": 0.0,
+      "total": 6250249254207.0
+     }
+    ]
+   },
+   {
+    "codigo": "2403",
+    "nombre": "INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE AÉREO",
+    "aporte_nacional": 4613318456.0,
+    "recursos_propios": 0.0,
+    "total": 4613318456.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 4613318456.0,
+      "recursos_propios": 0.0,
+      "total": 4613318456.0
+     }
+    ]
+   },
+   {
+    "codigo": "2404",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FÉRREO",
+    "aporte_nacional": 1001503655857.0,
+    "recursos_propios": 99650188726.0,
+    "total": 1101153844583.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 1001503655857.0,
+      "recursos_propios": 99650188726.0,
+      "total": 1101153844583.0
+     }
+    ]
+   },
+   {
+    "codigo": "2405",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE MARÍTIMO",
+    "aporte_nacional": 4308226310.0,
+    "recursos_propios": 0.0,
+    "total": 4308226310.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 4308226310.0,
+      "recursos_propios": 0.0,
+      "total": 4308226310.0
+     }
+    ]
+   },
+   {
+    "codigo": "2406",
+    "nombre": "INFRAESTRUCTURA DE TRANSPORTE FLUVIAL",
+    "aporte_nacional": 684251449922.0,
+    "recursos_propios": 0.0,
+    "total": 684251449922.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 684251449922.0,
+      "recursos_propios": 0.0,
+      "total": 684251449922.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 4900085000.0,
+    "recursos_propios": 72001512455.0,
+    "total": 76901597455.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 4900085000.0,
+      "recursos_propios": 72001512455.0,
+      "total": 76901597455.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2414",
+  "name": "UNIDAD DE PLANEACIÓN DEL SECTOR DE INFRAESTRUCTURA DE TRANSPORTE",
+  "funcionamiento": 20437848000.0,
+  "deuda": 0.0,
+  "inversion": 13500000000.0,
+  "aporte_nacional": 33937848000.0,
+  "recursos_propios": 0.0,
+  "total": 33937848000.0,
+  "programas": [
+   {
+    "codigo": "2410",
+    "nombre": "REGULACIÓN Y SUPERVISIÓN DE INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE",
+    "aporte_nacional": 11000000000.0,
+    "recursos_propios": 0.0,
+    "total": 11000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 11000000000.0,
+      "recursos_propios": 0.0,
+      "total": 11000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 2500000000.0,
+    "recursos_propios": 0.0,
+    "total": 2500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 2500000000.0,
+      "recursos_propios": 0.0,
+      "total": 2500000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2416",
+  "name": "AGENCIA NACIONAL DE SEGURIDAD VIAL",
+  "funcionamiento": 36996146000.0,
+  "deuda": 0.0,
+  "inversion": 241160206000.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 278156352000.0,
+  "total": 278156352000.0,
+  "programas": [
+   {
+    "codigo": "2409",
+    "nombre": "SEGURIDAD DE TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 183260138363.0,
+    "total": 183260138363.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 183260138363.0,
+      "total": 183260138363.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 57900067637.0,
+    "total": 57900067637.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 57900067637.0,
+      "total": 57900067637.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2417",
+  "name": "SUPERINTENDENCIA DE PUERTOS Y TRANSPORTE",
+  "funcionamiento": 114024616077.0,
+  "deuda": 0.0,
+  "inversion": 166270004899.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 280294620976.0,
+  "total": 280294620976.0,
+  "programas": [
+   {
+    "codigo": "2410",
+    "nombre": "REGULACIÓN Y SUPERVISIÓN DE INFRAESTRUCTURA Y SERVICIOS DE TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 135587894449.0,
+    "total": 135587894449.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 135587894449.0,
+      "total": 135587894449.0
+     }
+    ]
+   },
+   {
+    "codigo": "2499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRANSPORTE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 30682110450.0,
+    "total": 30682110450.0,
+    "subprogramas": [
+     {
+      "codigo": "0600",
+      "nombre": "INTERSUBSECTORIAL TRANSPORTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 30682110450.0,
+      "total": 30682110450.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2501",
+  "name": "PROCURADURÍA GENERAL DE LA NACIÓN",
+  "funcionamiento": 1736457440000.0,
+  "deuda": 0.0,
+  "inversion": 134744000000.0,
+  "aporte_nacional": 1871201440000.0,
+  "recursos_propios": 0.0,
+  "total": 1871201440000.0,
+  "programas": [
+   {
+    "codigo": "2599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR ORGANISMOS DE CONTROL",
+    "aporte_nacional": 134744000000.0,
+    "recursos_propios": 0.0,
+    "total": 134744000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 134744000000.0,
+      "recursos_propios": 0.0,
+      "total": 134744000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2502",
+  "name": "DEFENSORÍA DEL PUEBLO",
+  "funcionamiento": 1214700282287.0,
+  "deuda": 0.0,
+  "inversion": 114200000000.0,
+  "aporte_nacional": 1328900282287.0,
+  "recursos_propios": 0.0,
+  "total": 1328900282287.0,
+  "programas": [
+   {
+    "codigo": "2502",
+    "nombre": "PROMOCIÓN, PROTECCIÓN Y DEFENSA DE LOS DERECHOS HUMANOS Y EL DERECHO INTERNACIONAL HUMANITARIO",
+    "aporte_nacional": 91400000000.0,
+    "recursos_propios": 0.0,
+    "total": 91400000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 91400000000.0,
+      "recursos_propios": 0.0,
+      "total": 91400000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR ORGANISMOS DE CONTROL",
+    "aporte_nacional": 22800000000.0,
+    "recursos_propios": 0.0,
+    "total": 22800000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 22800000000.0,
+      "recursos_propios": 0.0,
+      "total": 22800000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2601",
+  "name": "CONTRALORÍA GENERAL DE LA REPÚBLICA",
+  "funcionamiento": 1486946459000.0,
+  "deuda": 0.0,
+  "inversion": 82344500000.0,
+  "aporte_nacional": 1569290959000.0,
+  "recursos_propios": 0.0,
+  "total": 1569290959000.0,
+  "programas": [
+   {
+    "codigo": "2501",
+    "nombre": "FORTALECIMIENTO DEL CONTROL Y LA VIGILANCIA DE LA GESTIÓN FISCAL Y RESARCIMIENTO AL DAÑO DEL PATRIMONIO PÚBLICO",
+    "aporte_nacional": 13670000000.0,
+    "recursos_propios": 0.0,
+    "total": 13670000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 13670000000.0,
+      "recursos_propios": 0.0,
+      "total": 13670000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR ORGANISMOS DE CONTROL",
+    "aporte_nacional": 68674500000.0,
+    "recursos_propios": 0.0,
+    "total": 68674500000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 68674500000.0,
+      "recursos_propios": 0.0,
+      "total": 68674500000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2602",
+  "name": "FONDO DE BIENESTAR SOCIAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA",
+  "funcionamiento": 173747738145.0,
+  "deuda": 0.0,
+  "inversion": 775497000.0,
+  "aporte_nacional": 139484784906.0,
+  "recursos_propios": 35038450239.0,
+  "total": 174523235145.0,
+  "programas": [
+   {
+    "codigo": "2599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR ORGANISMOS DE CONTROL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 775497000.0,
+    "total": 775497000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 775497000.0,
+      "total": 775497000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2701",
+  "name": "RAMA JUDICIAL",
+  "funcionamiento": 9912541800000.0,
+  "deuda": 17695578134.0,
+  "inversion": 1500000000000.0,
+  "aporte_nacional": 11430237378134.0,
+  "recursos_propios": 0.0,
+  "total": 11430237378134.0,
+  "programas": [
+   {
+    "codigo": "2701",
+    "nombre": "MEJORAMIENTO DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN DE LA JUSTICIA",
+    "aporte_nacional": 1500000000000.0,
+    "recursos_propios": 0.0,
+    "total": 1500000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 1500000000000.0,
+      "recursos_propios": 0.0,
+      "total": 1500000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2801",
+  "name": "REGISTRADURÍA NACIONAL DEL ESTADO CIVIL",
+  "funcionamiento": 5542267460000.0,
+  "deuda": 0.0,
+  "inversion": 185000000000.0,
+  "aporte_nacional": 5727267460000.0,
+  "recursos_propios": 0.0,
+  "total": 5727267460000.0,
+  "programas": [
+   {
+    "codigo": "2801",
+    "nombre": "PROCESOS DEMOCRÁTICOS Y ASUNTOS ELECTORALES",
+    "aporte_nacional": 2000000000.0,
+    "recursos_propios": 0.0,
+    "total": 2000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2000000000.0,
+      "recursos_propios": 0.0,
+      "total": 2000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2802",
+    "nombre": "IDENTIFICACIÓN Y REGISTRO DEL ESTADO CIVIL DE LA POBLACIÓN",
+    "aporte_nacional": 180000000000.0,
+    "recursos_propios": 0.0,
+    "total": 180000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 180000000000.0,
+      "recursos_propios": 0.0,
+      "total": 180000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2899",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR REGISTRADURÍA",
+    "aporte_nacional": 3000000000.0,
+    "recursos_propios": 0.0,
+    "total": 3000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 3000000000.0,
+      "recursos_propios": 0.0,
+      "total": 3000000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2802",
+  "name": "FONDO ROTATORIO DE LA REGISTRADURÍA",
+  "funcionamiento": 95903515000.0,
+  "deuda": 0.0,
+  "inversion": 146047248109.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 241950763109.0,
+  "total": 241950763109.0,
+  "programas": [
+   {
+    "codigo": "2801",
+    "nombre": "PROCESOS DEMOCRÁTICOS Y ASUNTOS ELECTORALES",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 2500000000.0,
+    "total": 2500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 2500000000.0,
+      "total": 2500000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2802",
+    "nombre": "IDENTIFICACIÓN Y REGISTRO DEL ESTADO CIVIL DE LA POBLACIÓN",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 8511497852.0,
+    "total": 8511497852.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 8511497852.0,
+      "total": 8511497852.0
+     }
+    ]
+   },
+   {
+    "codigo": "2899",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR REGISTRADURÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 135035750257.0,
+    "total": 135035750257.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 135035750257.0,
+      "total": 135035750257.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2803",
+  "name": "FONDO SOCIAL DE VIVIENDA DE LA REGISTRADURÍA NACIONAL DEL ESTADO CIVIL",
+  "funcionamiento": 17832634836.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 17832634836.0,
+  "total": 17832634836.0,
+  "programas": []
+ },
+ {
+  "code": "2901",
+  "name": "FISCALÍA GENERAL DE LA NACIÓN",
+  "funcionamiento": 6618841000000.0,
+  "deuda": 173977914661.0,
+  "inversion": 267727944392.0,
+  "aporte_nacional": 7060546859053.0,
+  "recursos_propios": 0.0,
+  "total": 7060546859053.0,
+  "programas": [
+   {
+    "codigo": "2901",
+    "nombre": "EFECTIVIDAD DE LA INVESTIGACIÓN PENAL Y TÉCNICO CIENTÍFICA",
+    "aporte_nacional": 60000000000.0,
+    "recursos_propios": 0.0,
+    "total": 60000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 60000000000.0,
+      "recursos_propios": 0.0,
+      "total": 60000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR FISCALÍA",
+    "aporte_nacional": 207727944392.0,
+    "recursos_propios": 0.0,
+    "total": 207727944392.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 207727944392.0,
+      "recursos_propios": 0.0,
+      "total": 207727944392.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2902",
+  "name": "INSTITUTO NACIONAL DE MEDICINA LEGAL Y CIENCIAS FORENSES",
+  "funcionamiento": 450616000000.0,
+  "deuda": 0.0,
+  "inversion": 121284479791.0,
+  "aporte_nacional": 564475479791.0,
+  "recursos_propios": 7425000000.0,
+  "total": 571900479791.0,
+  "programas": [
+   {
+    "codigo": "2901",
+    "nombre": "EFECTIVIDAD DE LA INVESTIGACIÓN PENAL Y TÉCNICO CIENTÍFICA",
+    "aporte_nacional": 66480265970.0,
+    "recursos_propios": 0.0,
+    "total": 66480265970.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 66480265970.0,
+      "recursos_propios": 0.0,
+      "total": 66480265970.0
+     }
+    ]
+   },
+   {
+    "codigo": "2999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR FISCALÍA",
+    "aporte_nacional": 54804213821.0,
+    "recursos_propios": 0.0,
+    "total": 54804213821.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 54804213821.0,
+      "recursos_propios": 0.0,
+      "total": 54804213821.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "2904",
+  "name": "FONDO ESPECIAL PARA LA ADMINISTRACIÓN DE BIENES DE LA FISCALÍA GENERAL DE LA NACIÓN",
+  "funcionamiento": 24127000000.0,
+  "deuda": 0.0,
+  "inversion": 76247674951.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 100374674951.0,
+  "total": 100374674951.0,
+  "programas": [
+   {
+    "codigo": "2999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR FISCALÍA",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 76247674951.0,
+    "total": 76247674951.0,
+    "subprogramas": [
+     {
+      "codigo": "0800",
+      "nombre": "INTERSUBSECTORIAL JUSTICIA",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 76247674951.0,
+      "total": 76247674951.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3201",
+  "name": "MINISTERIO DE AMBIENTE Y DESARROLLO SOSTENIBLE",
+  "funcionamiento": 383428563347.0,
+  "deuda": 0.0,
+  "inversion": 406832523212.0,
+  "aporte_nacional": 790261086559.0,
+  "recursos_propios": 0.0,
+  "total": 790261086559.0,
+  "programas": [
+   {
+    "codigo": "3201",
+    "nombre": "FORTALECIMIENTO DEL DESEMPEÑO AMBIENTAL DE LOS SECTORES PRODUCTIVOS",
+    "aporte_nacional": 210219395411.0,
+    "recursos_propios": 0.0,
+    "total": 210219395411.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 210219395411.0,
+      "recursos_propios": 0.0,
+      "total": 210219395411.0
+     }
+    ]
+   },
+   {
+    "codigo": "3202",
+    "nombre": "CONSERVACIÓN DE LA BIODIVERSIDAD Y SUS SERVICIOS ECOSISTÉMICOS",
+    "aporte_nacional": 106612968107.0,
+    "recursos_propios": 0.0,
+    "total": 106612968107.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 106612968107.0,
+      "recursos_propios": 0.0,
+      "total": 106612968107.0
+     }
+    ]
+   },
+   {
+    "codigo": "3204",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN Y EL CONOCIMIENTO AMBIENTAL",
+    "aporte_nacional": 27630000000.0,
+    "recursos_propios": 0.0,
+    "total": 27630000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 27630000000.0,
+      "recursos_propios": 0.0,
+      "total": 27630000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3205",
+    "nombre": "ORDENAMIENTO AMBIENTAL TERRITORIAL",
+    "aporte_nacional": 13331000000.0,
+    "recursos_propios": 0.0,
+    "total": 13331000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 13331000000.0,
+      "recursos_propios": 0.0,
+      "total": 13331000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3206",
+    "nombre": "GESTIÓN DEL CAMBIO CLIMÁTICO PARA UN DESARROLLO BAJO EN CARBONO Y RESILIENTE AL CLIMA",
+    "aporte_nacional": 5317000000.0,
+    "recursos_propios": 0.0,
+    "total": 5317000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 5317000000.0,
+      "recursos_propios": 0.0,
+      "total": 5317000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3208",
+    "nombre": "EDUCACION AMBIENTAL",
+    "aporte_nacional": 4990000000.0,
+    "recursos_propios": 0.0,
+    "total": 4990000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 4990000000.0,
+      "recursos_propios": 0.0,
+      "total": 4990000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AMBIENTE Y DESARROLLO SOSTENIBLE",
+    "aporte_nacional": 38732159694.0,
+    "recursos_propios": 0.0,
+    "total": 38732159694.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 38732159694.0,
+      "recursos_propios": 0.0,
+      "total": 38732159694.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3202",
+  "name": "INSTITUTO DE HIDROLOGÍA, METEOROLOGÍA Y ESTUDIOS AMBIENTALES - IDEAM",
+  "funcionamiento": 69291947956.0,
+  "deuda": 0.0,
+  "inversion": 53760480150.0,
+  "aporte_nacional": 111829581713.0,
+  "recursos_propios": 11222846393.0,
+  "total": 123052428106.0,
+  "programas": [
+   {
+    "codigo": "3204",
+    "nombre": "GESTIÓN DE LA INFORMACIÓN Y EL CONOCIMIENTO AMBIENTAL",
+    "aporte_nacional": 37560277518.0,
+    "recursos_propios": 8635148737.0,
+    "total": 46195426255.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 37560277518.0,
+      "recursos_propios": 8635148737.0,
+      "total": 46195426255.0
+     }
+    ]
+   },
+   {
+    "codigo": "3299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AMBIENTE Y DESARROLLO SOSTENIBLE",
+    "aporte_nacional": 6665053895.0,
+    "recursos_propios": 900000000.0,
+    "total": 7565053895.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 6665053895.0,
+      "recursos_propios": 900000000.0,
+      "total": 7565053895.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3204",
+  "name": "FONDO NACIONAL AMBIENTAL",
+  "funcionamiento": 107088212869.0,
+  "deuda": 0.0,
+  "inversion": 227619670302.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 334707883171.0,
+  "total": 334707883171.0,
+  "programas": [
+   {
+    "codigo": "3201",
+    "nombre": "FORTALECIMIENTO DEL DESEMPEÑO AMBIENTAL DE LOS SECTORES PRODUCTIVOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 98122223634.0,
+    "total": 98122223634.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 98122223634.0,
+      "total": 98122223634.0
+     }
+    ]
+   },
+   {
+    "codigo": "3202",
+    "nombre": "CONSERVACIÓN DE LA BIODIVERSIDAD Y SUS SERVICIOS ECOSISTÉMICOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 84588508490.0,
+    "total": 84588508490.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 84588508490.0,
+      "total": 84588508490.0
+     }
+    ]
+   },
+   {
+    "codigo": "3299",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR AMBIENTE Y DESARROLLO SOSTENIBLE",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 44908938178.0,
+    "total": 44908938178.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 44908938178.0,
+      "total": 44908938178.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3208",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE LOS VALLES DEL SINÚ Y SAN JORGE (CVS)",
+  "funcionamiento": 7680365691.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 7680365691.0,
+  "recursos_propios": 0.0,
+  "total": 7680365691.0,
+  "programas": []
+ },
+ {
+  "code": "3209",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL QUINDÍO (CRQ)",
+  "funcionamiento": 7174868500.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 7174868500.0,
+  "recursos_propios": 0.0,
+  "total": 7174868500.0,
+  "programas": []
+ },
+ {
+  "code": "3210",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL URABÁ (CORPOURABÁ)",
+  "funcionamiento": 5788515211.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 5788515211.0,
+  "recursos_propios": 0.0,
+  "total": 5788515211.0,
+  "programas": []
+ },
+ {
+  "code": "3211",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE CALDAS (CORPOCALDAS)",
+  "funcionamiento": 5649897000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 5649897000.0,
+  "recursos_propios": 0.0,
+  "total": 5649897000.0,
+  "programas": []
+ },
+ {
+  "code": "3212",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL PARA EL DESARROLLO SOSTENIBLE DEL CHOCO (CODECHOCO)",
+  "funcionamiento": 3467123679.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3467123679.0,
+  "recursos_propios": 0.0,
+  "total": 3467123679.0,
+  "programas": []
+ },
+ {
+  "code": "3213",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL PARA LA DEFENSA DE LA MESETA DE BUCARAMANGA (CDMB)",
+  "funcionamiento": 1721888785.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 1721888785.0,
+  "recursos_propios": 0.0,
+  "total": 1721888785.0,
+  "programas": []
+ },
+ {
+  "code": "3214",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL TOLIMA (CORTOLIMA)",
+  "funcionamiento": 3059439654.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3059439654.0,
+  "recursos_propios": 0.0,
+  "total": 3059439654.0,
+  "programas": []
+ },
+ {
+  "code": "3215",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE RISARALDA (CARDER)",
+  "funcionamiento": 3750858000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3750858000.0,
+  "recursos_propios": 0.0,
+  "total": 3750858000.0,
+  "programas": []
+ },
+ {
+  "code": "3216",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE NARIÑO (CORPONARIÑO)",
+  "funcionamiento": 4043391136.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 4043391136.0,
+  "recursos_propios": 0.0,
+  "total": 4043391136.0,
+  "programas": []
+ },
+ {
+  "code": "3217",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE LA FRONTERA NORORIENTAL (CORPONOR)",
+  "funcionamiento": 5731223600.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 5731223600.0,
+  "recursos_propios": 0.0,
+  "total": 5731223600.0,
+  "programas": []
+ },
+ {
+  "code": "3218",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE LA GUAJIRA (CORPOGUAJIRA)",
+  "funcionamiento": 5757212800.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 5757212800.0,
+  "recursos_propios": 0.0,
+  "total": 5757212800.0,
+  "programas": []
+ },
+ {
+  "code": "3219",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL CESAR (CORPOCESAR)",
+  "funcionamiento": 4629080000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 4629080000.0,
+  "recursos_propios": 0.0,
+  "total": 4629080000.0,
+  "programas": []
+ },
+ {
+  "code": "3221",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL CAUCA (CRC)",
+  "funcionamiento": 9222683200.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 9222683200.0,
+  "recursos_propios": 0.0,
+  "total": 9222683200.0,
+  "programas": []
+ },
+ {
+  "code": "3222",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL MAGDALENA (CORPAMAG)",
+  "funcionamiento": 7647056770.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 7647056770.0,
+  "recursos_propios": 0.0,
+  "total": 7647056770.0,
+  "programas": []
+ },
+ {
+  "code": "3223",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL SUR DE LA AMAZONIA (CORPOAMAZONIA)",
+  "funcionamiento": 3433862100.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3433862100.0,
+  "recursos_propios": 0.0,
+  "total": 3433862100.0,
+  "programas": []
+ },
+ {
+  "code": "3224",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL NORTE Y ORIENTE DE LA AMAZONIA (CDA)",
+  "funcionamiento": 3741110800.0,
+  "deuda": 0.0,
+  "inversion": 4173492932.0,
+  "aporte_nacional": 7914603732.0,
+  "recursos_propios": 0.0,
+  "total": 7914603732.0,
+  "programas": [
+   {
+    "codigo": "3202",
+    "nombre": "CONSERVACIÓN DE LA BIODIVERSIDAD Y SUS SERVICIOS ECOSISTÉMICOS",
+    "aporte_nacional": 4173492932.0,
+    "recursos_propios": 0.0,
+    "total": 4173492932.0,
+    "subprogramas": [
+     {
+      "codigo": "0900",
+      "nombre": "INTERSUBSECTORIAL AMBIENTE",
+      "aporte_nacional": 4173492932.0,
+      "recursos_propios": 0.0,
+      "total": 4173492932.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3226",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA (CORALINA)",
+  "funcionamiento": 3605369000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3605369000.0,
+  "recursos_propios": 0.0,
+  "total": 3605369000.0,
+  "programas": []
+ },
+ {
+  "code": "3227",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DEL ÁREA DE MANEJO ESPECIAL LA MACARENA (CORMACARENA)",
+  "funcionamiento": 3944255867.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3944255867.0,
+  "recursos_propios": 0.0,
+  "total": 3944255867.0,
+  "programas": []
+ },
+ {
+  "code": "3228",
+  "name": "CORPORACIÓN PARA EL DESARROLLO SOSTENIBLE DE LA MOJANA Y EL SAN JORGE (CORPOMOJANA)",
+  "funcionamiento": 3551624300.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3551624300.0,
+  "recursos_propios": 0.0,
+  "total": 3551624300.0,
+  "programas": []
+ },
+ {
+  "code": "3229",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE LA ORINOQUIA (CORPORINOQUIA)",
+  "funcionamiento": 3384364900.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3384364900.0,
+  "recursos_propios": 0.0,
+  "total": 3384364900.0,
+  "programas": []
+ },
+ {
+  "code": "3230",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE SUCRE (CARSUCRE)",
+  "funcionamiento": 3938475900.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3938475900.0,
+  "recursos_propios": 0.0,
+  "total": 3938475900.0,
+  "programas": []
+ },
+ {
+  "code": "3231",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL ALTO MAGDALENA (CAM)",
+  "funcionamiento": 3510447600.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3510447600.0,
+  "recursos_propios": 0.0,
+  "total": 3510447600.0,
+  "programas": []
+ },
+ {
+  "code": "3232",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL CENTRO DE ANTIOQUIA (CORANTIOQUIA)",
+  "funcionamiento": 3724502990.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3724502990.0,
+  "recursos_propios": 0.0,
+  "total": 3724502990.0,
+  "programas": []
+ },
+ {
+  "code": "3233",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL ATLÁNTICO (CRA)",
+  "funcionamiento": 3234337800.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3234337800.0,
+  "recursos_propios": 0.0,
+  "total": 3234337800.0,
+  "programas": []
+ },
+ {
+  "code": "3234",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE SANTANDER (CAS)",
+  "funcionamiento": 3381340700.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3381340700.0,
+  "recursos_propios": 0.0,
+  "total": 3381340700.0,
+  "programas": []
+ },
+ {
+  "code": "3235",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE BOYACÁ (CORPOBOYACÁ)",
+  "funcionamiento": 3029600000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3029600000.0,
+  "recursos_propios": 0.0,
+  "total": 3029600000.0,
+  "programas": []
+ },
+ {
+  "code": "3236",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DE CHIVOR (CORPOCHIVOR)",
+  "funcionamiento": 3624983500.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3624983500.0,
+  "recursos_propios": 0.0,
+  "total": 3624983500.0,
+  "programas": []
+ },
+ {
+  "code": "3237",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL GUAVIO (CORPOGUAVIO)",
+  "funcionamiento": 1119025800.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 1119025800.0,
+  "recursos_propios": 0.0,
+  "total": 1119025800.0,
+  "programas": []
+ },
+ {
+  "code": "3238",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL CANAL DEL DIQUE (CARDIQUE)",
+  "funcionamiento": 3520391400.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 3520391400.0,
+  "recursos_propios": 0.0,
+  "total": 3520391400.0,
+  "programas": []
+ },
+ {
+  "code": "3239",
+  "name": "CORPORACIÓN AUTÓNOMA REGIONAL DEL SUR DE BOLIVAR (CSB)",
+  "funcionamiento": 4253944800.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 4253944800.0,
+  "recursos_propios": 0.0,
+  "total": 4253944800.0,
+  "programas": []
+ },
+ {
+  "code": "3301",
+  "name": "MINISTERIO DE LAS CULTURAS, LAS ARTES Y LOS SABERES",
+  "funcionamiento": 351780303156.0,
+  "deuda": 0.0,
+  "inversion": 354415844636.0,
+  "aporte_nacional": 706196147792.0,
+  "recursos_propios": 0.0,
+  "total": 706196147792.0,
+  "programas": [
+   {
+    "codigo": "3301",
+    "nombre": "PROMOCIÓN Y ACCESO EFECTIVO A PROCESOS CULTURALES Y ARTÍSTICOS",
+    "aporte_nacional": 265585182306.0,
+    "recursos_propios": 0.0,
+    "total": 265585182306.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 265585182306.0,
+      "recursos_propios": 0.0,
+      "total": 265585182306.0
+     }
+    ]
+   },
+   {
+    "codigo": "3302",
+    "nombre": "GESTIÓN, PROTECCIÓN Y SALVAGUARDIA DEL PATRIMONIO CULTURAL COLOMBIANO",
+    "aporte_nacional": 83367210995.0,
+    "recursos_propios": 0.0,
+    "total": 83367210995.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 83367210995.0,
+      "recursos_propios": 0.0,
+      "total": 83367210995.0
+     }
+    ]
+   },
+   {
+    "codigo": "3399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CULTURA",
+    "aporte_nacional": 5463451335.0,
+    "recursos_propios": 0.0,
+    "total": 5463451335.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 5463451335.0,
+      "recursos_propios": 0.0,
+      "total": 5463451335.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3304",
+  "name": "ARCHIVO GENERAL DE LA NACIÓN",
+  "funcionamiento": 23773352248.0,
+  "deuda": 0.0,
+  "inversion": 20262216809.0,
+  "aporte_nacional": 34535518057.0,
+  "recursos_propios": 9500051000.0,
+  "total": 44035569057.0,
+  "programas": [
+   {
+    "codigo": "3302",
+    "nombre": "GESTIÓN, PROTECCIÓN Y SALVAGUARDIA DEL PATRIMONIO CULTURAL COLOMBIANO",
+    "aporte_nacional": 5548129000.0,
+    "recursos_propios": 4956969000.0,
+    "total": 10505098000.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 5548129000.0,
+      "recursos_propios": 4956969000.0,
+      "total": 10505098000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CULTURA",
+    "aporte_nacional": 5756234809.0,
+    "recursos_propios": 4000884000.0,
+    "total": 9757118809.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 5756234809.0,
+      "recursos_propios": 4000884000.0,
+      "total": 9757118809.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3305",
+  "name": "INSTITUTO COLOMBIANO DE ANTROPOLOGÍA E HISTORIA",
+  "funcionamiento": 29264432220.0,
+  "deuda": 0.0,
+  "inversion": 18895585142.0,
+  "aporte_nacional": 43337206862.0,
+  "recursos_propios": 4822810500.0,
+  "total": 48160017362.0,
+  "programas": [
+   {
+    "codigo": "3302",
+    "nombre": "GESTIÓN, PROTECCIÓN Y SALVAGUARDIA DEL PATRIMONIO CULTURAL COLOMBIANO",
+    "aporte_nacional": 14020695845.0,
+    "recursos_propios": 2026716500.0,
+    "total": 16047412345.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 14020695845.0,
+      "recursos_propios": 2026716500.0,
+      "total": 16047412345.0
+     }
+    ]
+   },
+   {
+    "codigo": "3399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CULTURA",
+    "aporte_nacional": 2848172797.0,
+    "recursos_propios": 0.0,
+    "total": 2848172797.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 2848172797.0,
+      "recursos_propios": 0.0,
+      "total": 2848172797.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3307",
+  "name": "INSTITUTO CARO Y CUERVO",
+  "funcionamiento": 18307295750.0,
+  "deuda": 0.0,
+  "inversion": 12652214000.0,
+  "aporte_nacional": 26071111750.0,
+  "recursos_propios": 4888398000.0,
+  "total": 30959509750.0,
+  "programas": [
+   {
+    "codigo": "3302",
+    "nombre": "GESTIÓN, PROTECCIÓN Y SALVAGUARDIA DEL PATRIMONIO CULTURAL COLOMBIANO",
+    "aporte_nacional": 7500000000.0,
+    "recursos_propios": 1560885600.0,
+    "total": 9060885600.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 7500000000.0,
+      "recursos_propios": 1560885600.0,
+      "total": 9060885600.0
+     }
+    ]
+   },
+   {
+    "codigo": "3399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CULTURA",
+    "aporte_nacional": 1250000000.0,
+    "recursos_propios": 2341328400.0,
+    "total": 3591328400.0,
+    "subprogramas": [
+     {
+      "codigo": "1603",
+      "nombre": "ARTE Y CULTURA",
+      "aporte_nacional": 1250000000.0,
+      "recursos_propios": 2341328400.0,
+      "total": 3591328400.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3401",
+  "name": "AUDITORÍA GENERAL DE LA REPÚBLICA",
+  "funcionamiento": 70887000000.0,
+  "deuda": 0.0,
+  "inversion": 9750000000.0,
+  "aporte_nacional": 80637000000.0,
+  "recursos_propios": 0.0,
+  "total": 80637000000.0,
+  "programas": [
+   {
+    "codigo": "2501",
+    "nombre": "FORTALECIMIENTO DEL CONTROL Y LA VIGILANCIA DE LA GESTIÓN FISCAL Y RESARCIMIENTO AL DAÑO DEL PATRIMONIO PÚBLICO",
+    "aporte_nacional": 6500000000.0,
+    "recursos_propios": 0.0,
+    "total": 6500000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 6500000000.0,
+      "recursos_propios": 0.0,
+      "total": 6500000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "2599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR ORGANISMOS DE CONTROL",
+    "aporte_nacional": 3250000000.0,
+    "recursos_propios": 0.0,
+    "total": 3250000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 3250000000.0,
+      "recursos_propios": 0.0,
+      "total": 3250000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3501",
+  "name": "MINISTERIO DE COMERCIO, INDUSTRIA Y TURISMO",
+  "funcionamiento": 1139102190259.0,
+  "deuda": 0.0,
+  "inversion": 132631799169.0,
+  "aporte_nacional": 1271733989428.0,
+  "recursos_propios": 0.0,
+  "total": 1271733989428.0,
+  "programas": [
+   {
+    "codigo": "3501",
+    "nombre": "INTERNACIONALIZACIÓN DE LA ECONOMÍA",
+    "aporte_nacional": 21800000000.0,
+    "recursos_propios": 0.0,
+    "total": 21800000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 21800000000.0,
+      "recursos_propios": 0.0,
+      "total": 21800000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3502",
+    "nombre": "PRODUCTIVIDAD Y COMPETITIVIDAD DE LAS EMPRESAS COLOMBIANAS",
+    "aporte_nacional": 101900000000.0,
+    "recursos_propios": 0.0,
+    "total": 101900000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 101900000000.0,
+      "recursos_propios": 0.0,
+      "total": 101900000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3503",
+    "nombre": "AMBIENTE REGULATORIO Y ECONÓMICO PARA LA COMPETENCIA Y LA ACTIVIDAD EMPRESARIAL",
+    "aporte_nacional": 360000000.0,
+    "recursos_propios": 0.0,
+    "total": 360000000.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 360000000.0,
+      "recursos_propios": 0.0,
+      "total": 360000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR COMERCIO, INDUSTRIA Y TURISMO",
+    "aporte_nacional": 8571799169.0,
+    "recursos_propios": 0.0,
+    "total": 8571799169.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 8571799169.0,
+      "recursos_propios": 0.0,
+      "total": 8571799169.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3502",
+  "name": "SUPERINTENDENCIA DE SOCIEDADES",
+  "funcionamiento": 217517057159.0,
+  "deuda": 0.0,
+  "inversion": 34550000000.0,
+  "aporte_nacional": 3000000000.0,
+  "recursos_propios": 249067057159.0,
+  "total": 252067057159.0,
+  "programas": [
+   {
+    "codigo": "3502",
+    "nombre": "PRODUCTIVIDAD Y COMPETITIVIDAD DE LAS EMPRESAS COLOMBIANAS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 7657745569.0,
+    "total": 7657745569.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 7657745569.0,
+      "total": 7657745569.0
+     }
+    ]
+   },
+   {
+    "codigo": "3599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR COMERCIO, INDUSTRIA Y TURISMO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 26892254431.0,
+    "total": 26892254431.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 26892254431.0,
+      "total": 26892254431.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3503",
+  "name": "SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO",
+  "funcionamiento": 232680161575.0,
+  "deuda": 0.0,
+  "inversion": 125318180368.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 357998341943.0,
+  "total": 357998341943.0,
+  "programas": [
+   {
+    "codigo": "3503",
+    "nombre": "AMBIENTE REGULATORIO Y ECONÓMICO PARA LA COMPETENCIA Y LA ACTIVIDAD EMPRESARIAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 67440771199.0,
+    "total": 67440771199.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 67440771199.0,
+      "total": 67440771199.0
+     }
+    ]
+   },
+   {
+    "codigo": "3599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR COMERCIO, INDUSTRIA Y TURISMO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 57877409169.0,
+    "total": 57877409169.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 57877409169.0,
+      "total": 57877409169.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3504",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL JUNTA CENTRAL CONTADORES",
+  "funcionamiento": 17036291000.0,
+  "deuda": 0.0,
+  "inversion": 14888902025.0,
+  "aporte_nacional": 0.0,
+  "recursos_propios": 31925193025.0,
+  "total": 31925193025.0,
+  "programas": [
+   {
+    "codigo": "3503",
+    "nombre": "AMBIENTE REGULATORIO Y ECONÓMICO PARA LA COMPETENCIA Y LA ACTIVIDAD EMPRESARIAL",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 7261942128.0,
+    "total": 7261942128.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 7261942128.0,
+      "total": 7261942128.0
+     }
+    ]
+   },
+   {
+    "codigo": "3599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR COMERCIO, INDUSTRIA Y TURISMO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 7626959897.0,
+    "total": 7626959897.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 7626959897.0,
+      "total": 7626959897.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3505",
+  "name": "INSTITUTO NACIONAL DE METROLOGÍA - INM",
+  "funcionamiento": 24694657992.0,
+  "deuda": 0.0,
+  "inversion": 12388875821.0,
+  "aporte_nacional": 35253399183.0,
+  "recursos_propios": 1830134630.0,
+  "total": 37083533813.0,
+  "programas": [
+   {
+    "codigo": "3502",
+    "nombre": "PRODUCTIVIDAD Y COMPETITIVIDAD DE LAS EMPRESAS COLOMBIANAS",
+    "aporte_nacional": 8320601901.0,
+    "recursos_propios": 1105986965.0,
+    "total": 9426588866.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 8320601901.0,
+      "recursos_propios": 1105986965.0,
+      "total": 9426588866.0
+     }
+    ]
+   },
+   {
+    "codigo": "3599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR COMERCIO, INDUSTRIA Y TURISMO",
+    "aporte_nacional": 2340169285.0,
+    "recursos_propios": 622117670.0,
+    "total": 2962286955.0,
+    "subprogramas": [
+     {
+      "codigo": "0200",
+      "nombre": "INTERSUBSECTORIAL INDUSTRIA Y COMERCIO",
+      "aporte_nacional": 2340169285.0,
+      "recursos_propios": 622117670.0,
+      "total": 2962286955.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3601",
+  "name": "MINISTERIO DEL TRABAJO",
+  "funcionamiento": 58207886000000.0,
+  "deuda": 0.0,
+  "inversion": 615989475948.0,
+  "aporte_nacional": 58823875475948.0,
+  "recursos_propios": 0.0,
+  "total": 58823875475948.0,
+  "programas": [
+   {
+    "codigo": "3601",
+    "nombre": "PROTECCIÓN SOCIAL",
+    "aporte_nacional": 483463115540.0,
+    "recursos_propios": 0.0,
+    "total": 483463115540.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 483463115540.0,
+      "recursos_propios": 0.0,
+      "total": 483463115540.0
+     }
+    ]
+   },
+   {
+    "codigo": "3602",
+    "nombre": "GENERACIÓN Y FORMALIZACIÓN DEL EMPLEO",
+    "aporte_nacional": 65529051959.0,
+    "recursos_propios": 0.0,
+    "total": 65529051959.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 65529051959.0,
+      "recursos_propios": 0.0,
+      "total": 65529051959.0
+     }
+    ]
+   },
+   {
+    "codigo": "3603",
+    "nombre": "FORMACIÓN PARA EL TRABAJO",
+    "aporte_nacional": 2656961561.0,
+    "recursos_propios": 0.0,
+    "total": 2656961561.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 2656961561.0,
+      "recursos_propios": 0.0,
+      "total": 2656961561.0
+     }
+    ]
+   },
+   {
+    "codigo": "3604",
+    "nombre": "DERECHOS FUNDAMENTALES DEL TRABAJO Y FORTALECIMIENTO DEL DIÁLOGO SOCIAL",
+    "aporte_nacional": 33485846563.0,
+    "recursos_propios": 0.0,
+    "total": 33485846563.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 33485846563.0,
+      "recursos_propios": 0.0,
+      "total": 33485846563.0
+     }
+    ]
+   },
+   {
+    "codigo": "3605",
+    "nombre": "FOMENTO DE LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL SECTOR TRABAJO",
+    "aporte_nacional": 1209269469.0,
+    "recursos_propios": 0.0,
+    "total": 1209269469.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 1209269469.0,
+      "recursos_propios": 0.0,
+      "total": 1209269469.0
+     }
+    ]
+   },
+   {
+    "codigo": "3699",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRABAJO",
+    "aporte_nacional": 29645230856.0,
+    "recursos_propios": 0.0,
+    "total": 29645230856.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 29645230856.0,
+      "recursos_propios": 0.0,
+      "total": 29645230856.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3602",
+  "name": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+  "funcionamiento": 152402000000.0,
+  "deuda": 0.0,
+  "inversion": 7861097587411.0,
+  "aporte_nacional": 3920821926291.0,
+  "recursos_propios": 4092677661120.0,
+  "total": 8013499587411.0,
+  "programas": [
+   {
+    "codigo": "3602",
+    "nombre": "GENERACIÓN Y FORMALIZACIÓN DEL EMPLEO",
+    "aporte_nacional": 164038254168.0,
+    "recursos_propios": 348185025441.0,
+    "total": 512223279609.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 164038254168.0,
+      "recursos_propios": 348185025441.0,
+      "total": 512223279609.0
+     }
+    ]
+   },
+   {
+    "codigo": "3603",
+    "nombre": "FORMACIÓN PARA EL TRABAJO",
+    "aporte_nacional": 3460683415368.0,
+    "recursos_propios": 2875060171828.0,
+    "total": 6335743587196.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 3460683415368.0,
+      "recursos_propios": 2875060171828.0,
+      "total": 6335743587196.0
+     }
+    ]
+   },
+   {
+    "codigo": "3605",
+    "nombre": "FOMENTO DE LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL SECTOR TRABAJO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 531555409294.0,
+    "total": 531555409294.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 531555409294.0,
+      "total": 531555409294.0
+     }
+    ]
+   },
+   {
+    "codigo": "3699",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRABAJO",
+    "aporte_nacional": 296100256755.0,
+    "recursos_propios": 185475054557.0,
+    "total": 481575311312.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 296100256755.0,
+      "recursos_propios": 185475054557.0,
+      "total": 481575311312.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3612",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DE ORGANIZACIONES SOLIDARIAS",
+  "funcionamiento": 11675000000.0,
+  "deuda": 0.0,
+  "inversion": 42758557030.0,
+  "aporte_nacional": 54433557030.0,
+  "recursos_propios": 0.0,
+  "total": 54433557030.0,
+  "programas": [
+   {
+    "codigo": "3602",
+    "nombre": "GENERACIÓN Y FORMALIZACIÓN DEL EMPLEO",
+    "aporte_nacional": 41058557030.0,
+    "recursos_propios": 0.0,
+    "total": 41058557030.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 41058557030.0,
+      "recursos_propios": 0.0,
+      "total": 41058557030.0
+     }
+    ]
+   },
+   {
+    "codigo": "3699",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRABAJO",
+    "aporte_nacional": 1700000000.0,
+    "recursos_propios": 0.0,
+    "total": 1700000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 1700000000.0,
+      "recursos_propios": 0.0,
+      "total": 1700000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3613",
+  "name": "UNIDAD ADMINISTRATIVA ESPECIAL DEL SERVICIO PÚBLICO DE EMPLEO",
+  "funcionamiento": 17331000000.0,
+  "deuda": 0.0,
+  "inversion": 12862008210.0,
+  "aporte_nacional": 30193008210.0,
+  "recursos_propios": 0.0,
+  "total": 30193008210.0,
+  "programas": [
+   {
+    "codigo": "3602",
+    "nombre": "GENERACIÓN Y FORMALIZACIÓN DEL EMPLEO",
+    "aporte_nacional": 9624325617.0,
+    "recursos_propios": 0.0,
+    "total": 9624325617.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 9624325617.0,
+      "recursos_propios": 0.0,
+      "total": 9624325617.0
+     }
+    ]
+   },
+   {
+    "codigo": "3699",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR TRABAJO",
+    "aporte_nacional": 3237682593.0,
+    "recursos_propios": 0.0,
+    "total": 3237682593.0,
+    "subprogramas": [
+     {
+      "codigo": "1300",
+      "nombre": "INTERSUBSECTORIAL TRABAJO Y BIENESTAR SOCIAL",
+      "aporte_nacional": 3237682593.0,
+      "recursos_propios": 0.0,
+      "total": 3237682593.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3701",
+  "name": "MINISTERIO DEL INTERIOR",
+  "funcionamiento": 1075496000000.0,
+  "deuda": 0.0,
+  "inversion": 206782241559.0,
+  "aporte_nacional": 1282278241559.0,
+  "recursos_propios": 0.0,
+  "total": 1282278241559.0,
+  "programas": [
+   {
+    "codigo": "3701",
+    "nombre": "FORTALECIMIENTO INSTITUCIONAL A LOS PROCESOS ORGANIZATIVOS DE CONCERTACIÓN; GARANTÍA, PREVENCIÓN Y RESPETO DE LOS DERECHOS HUMANOS COMO FUNDAMENTOS PARA LA PAZ",
+    "aporte_nacional": 38154297884.0,
+    "recursos_propios": 0.0,
+    "total": 38154297884.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 38154297884.0,
+      "recursos_propios": 0.0,
+      "total": 38154297884.0
+     }
+    ]
+   },
+   {
+    "codigo": "3702",
+    "nombre": "FORTALECIMIENTO A LA GOBERNABILIDAD TERRITORIAL PARA LA SEGURIDAD, CONVIVENCIA CIUDADANA, PAZ Y POST-CONFLICTO",
+    "aporte_nacional": 160774331864.0,
+    "recursos_propios": 0.0,
+    "total": 160774331864.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 160774331864.0,
+      "recursos_propios": 0.0,
+      "total": 160774331864.0
+     }
+    ]
+   },
+   {
+    "codigo": "3703",
+    "nombre": "POLÍTICA PÚBLICA DE VÍCTIMAS DEL CONFLICTO ARMADO Y POSTCONFLICTO",
+    "aporte_nacional": 3520033794.0,
+    "recursos_propios": 0.0,
+    "total": 3520033794.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 3520033794.0,
+      "recursos_propios": 0.0,
+      "total": 3520033794.0
+     }
+    ]
+   },
+   {
+    "codigo": "3704",
+    "nombre": "PARTICIPACIÓN CIUDADANA, POLÍTICA Y DIVERSIDAD DE CREENCIAS",
+    "aporte_nacional": 1538574471.0,
+    "recursos_propios": 0.0,
+    "total": 1538574471.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 1538574471.0,
+      "recursos_propios": 0.0,
+      "total": 1538574471.0
+     }
+    ]
+   },
+   {
+    "codigo": "3799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INTERIOR",
+    "aporte_nacional": 2795003546.0,
+    "recursos_propios": 0.0,
+    "total": 2795003546.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2795003546.0,
+      "recursos_propios": 0.0,
+      "total": 2795003546.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3703",
+  "name": "DIRECCIÓN NACIONAL DEL DERECHO DE AUTOR",
+  "funcionamiento": 6732000000.0,
+  "deuda": 0.0,
+  "inversion": 2430671401.0,
+  "aporte_nacional": 9162671401.0,
+  "recursos_propios": 0.0,
+  "total": 9162671401.0,
+  "programas": [
+   {
+    "codigo": "3706",
+    "nombre": "PROTECCIÓN, PROMOCIÓN Y DIFUSIÓN DEL DERECHO DE AUTOR Y LOS DERECHOS CONEXOS",
+    "aporte_nacional": 2430671401.0,
+    "recursos_propios": 0.0,
+    "total": 2430671401.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2430671401.0,
+      "recursos_propios": 0.0,
+      "total": 2430671401.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3704",
+  "name": "CORPORACIÓN NACIONAL PARA LA RECONSTRUCCIÓN DE LA CUENCA DEL RÍO PÁEZ Y ZONAS ALEDAÑAS NASA KI WE",
+  "funcionamiento": 5029000000.0,
+  "deuda": 0.0,
+  "inversion": 16600000000.0,
+  "aporte_nacional": 21629000000.0,
+  "recursos_propios": 0.0,
+  "total": 21629000000.0,
+  "programas": [
+   {
+    "codigo": "3707",
+    "nombre": "GESTIÓN DEL RIESGO DE DESASTRES NATURALES Y ANTRÓPICOS EN LA ZONA DE INFLUENCIA DEL VOLCÁN NEVADO DEL HUILA",
+    "aporte_nacional": 1000000000.0,
+    "recursos_propios": 0.0,
+    "total": 1000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 1000000000.0,
+      "recursos_propios": 0.0,
+      "total": 1000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3709",
+    "nombre": "MEJORAMIENTO DE LA COBERTURA DE LAS NECESIDADES BÁSICAS DE LA POBLACIÓN PARA PROMOVER LA RESILIENCIA SOCIO ECOLÓGICA EN LOS MUNICIPIOS DE LA JURISDICCIÓN DE LA CORPORACIÓN NASA KIWE",
+    "aporte_nacional": 15200000000.0,
+    "recursos_propios": 0.0,
+    "total": 15200000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 15200000000.0,
+      "recursos_propios": 0.0,
+      "total": 15200000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INTERIOR",
+    "aporte_nacional": 400000000.0,
+    "recursos_propios": 0.0,
+    "total": 400000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 400000000.0,
+      "recursos_propios": 0.0,
+      "total": 400000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3708",
+  "name": "UNIDAD NACIONAL DE PROTECCIÓN - UNP",
+  "funcionamiento": 2959847000000.0,
+  "deuda": 3610711702.0,
+  "inversion": 3858536052.0,
+  "aporte_nacional": 2742222247754.0,
+  "recursos_propios": 225094000000.0,
+  "total": 2967316247754.0,
+  "programas": [
+   {
+    "codigo": "3702",
+    "nombre": "FORTALECIMIENTO A LA GOBERNABILIDAD TERRITORIAL PARA LA SEGURIDAD, CONVIVENCIA CIUDADANA, PAZ Y POST-CONFLICTO",
+    "aporte_nacional": 2998104774.0,
+    "recursos_propios": 0.0,
+    "total": 2998104774.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 2998104774.0,
+      "recursos_propios": 0.0,
+      "total": 2998104774.0
+     }
+    ]
+   },
+   {
+    "codigo": "3705",
+    "nombre": "PROTECCIÓN DE PERSONAS, GRUPOS Y COMUNIDADES EN RIESGO EXTRAORDINARIO Y EXTREMO UNIDAD NACIONAL DE PROTECCIÓN (UNP)",
+    "aporte_nacional": 718967331.0,
+    "recursos_propios": 0.0,
+    "total": 718967331.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 718967331.0,
+      "recursos_propios": 0.0,
+      "total": 718967331.0
+     }
+    ]
+   },
+   {
+    "codigo": "3799",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INTERIOR",
+    "aporte_nacional": 141463947.0,
+    "recursos_propios": 0.0,
+    "total": 141463947.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 141463947.0,
+      "recursos_propios": 0.0,
+      "total": 141463947.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3709",
+  "name": "DIRECCIÓN NACIONAL DE BOMBEROS",
+  "funcionamiento": 9444000000.0,
+  "deuda": 0.0,
+  "inversion": 168972581970.0,
+  "aporte_nacional": 178416581970.0,
+  "recursos_propios": 0.0,
+  "total": 178416581970.0,
+  "programas": [
+   {
+    "codigo": "3708",
+    "nombre": "FORTALECIMIENTO INSTITUCIONAL Y OPERATIVO DE LOS BOMBEROS DE COLOMBIA",
+    "aporte_nacional": 168972581970.0,
+    "recursos_propios": 0.0,
+    "total": 168972581970.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 168972581970.0,
+      "recursos_propios": 0.0,
+      "total": 168972581970.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3801",
+  "name": "COMISIÓN NACIONAL DEL SERVICIO CIVIL",
+  "funcionamiento": 40849580000.0,
+  "deuda": 0.0,
+  "inversion": 138619492766.0,
+  "aporte_nacional": 7372848000.0,
+  "recursos_propios": 172096224766.0,
+  "total": 179469072766.0,
+  "programas": [
+   {
+    "codigo": "0504",
+    "nombre": "ADMINISTRACIÓN Y VIGILANCIA DE LAS CARRERAS ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 125687723766.0,
+    "total": 125687723766.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 125687723766.0,
+      "total": 125687723766.0
+     }
+    ]
+   },
+   {
+    "codigo": "0599",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR EMPLEO",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 12931769000.0,
+    "total": 12931769000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 12931769000.0,
+      "total": 12931769000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "3901",
+  "name": "MINISTERIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+  "funcionamiento": 31774506000.0,
+  "deuda": 0.0,
+  "inversion": 310608315766.0,
+  "aporte_nacional": 342382821766.0,
+  "recursos_propios": 0.0,
+  "total": 342382821766.0,
+  "programas": [
+   {
+    "codigo": "3905",
+    "nombre": "FORTALECIMIENTO DE LA GOBERNANZA E INSTITUCIONALIDAD MULTINIVEL DEL SECTOR DE CTEI",
+    "aporte_nacional": 8000000000.0,
+    "recursos_propios": 0.0,
+    "total": 8000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 8000000000.0,
+      "recursos_propios": 0.0,
+      "total": 8000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "3906",
+    "nombre": "FOMENTO A VOCACIONES Y FORMACIÓN, GENERACIÓN, USO Y APROPIACIÓN SOCIAL DEL CONOCIMIENTO DE LA CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+    "aporte_nacional": 286568315766.0,
+    "recursos_propios": 0.0,
+    "total": 286568315766.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 286568315766.0,
+      "recursos_propios": 0.0,
+      "total": 286568315766.0
+     }
+    ]
+   },
+   {
+    "codigo": "3999",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR CIENCIA, TECNOLOGÍA E INNOVACIÓN",
+    "aporte_nacional": 16040000000.0,
+    "recursos_propios": 0.0,
+    "total": 16040000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 16040000000.0,
+      "recursos_propios": 0.0,
+      "total": 16040000000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4001",
+  "name": "MINISTERIO DE VIVIENDA, CIUDAD Y TERRITORIO",
+  "funcionamiento": 5106959762594.0,
+  "deuda": 0.0,
+  "inversion": 1543494640361.0,
+  "aporte_nacional": 6650454402955.0,
+  "recursos_propios": 0.0,
+  "total": 6650454402955.0,
+  "programas": [
+   {
+    "codigo": "4001",
+    "nombre": "ACCESO A SOLUCIONES DE VIVIENDA",
+    "aporte_nacional": 21497156823.0,
+    "recursos_propios": 0.0,
+    "total": 21497156823.0,
+    "subprogramas": [
+     {
+      "codigo": "1400",
+      "nombre": "INTERSUBSECTORIAL VIVIENDA Y DESARROLLO TERRITORIAL",
+      "aporte_nacional": 21497156823.0,
+      "recursos_propios": 0.0,
+      "total": 21497156823.0
+     }
+    ]
+   },
+   {
+    "codigo": "4002",
+    "nombre": "ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO",
+    "aporte_nacional": 10000000000.0,
+    "recursos_propios": 0.0,
+    "total": 10000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1400",
+      "nombre": "INTERSUBSECTORIAL VIVIENDA Y DESARROLLO TERRITORIAL",
+      "aporte_nacional": 10000000000.0,
+      "recursos_propios": 0.0,
+      "total": 10000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "4003",
+    "nombre": "ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+    "aporte_nacional": 1496407517857.0,
+    "recursos_propios": 0.0,
+    "total": 1496407517857.0,
+    "subprogramas": [
+     {
+      "codigo": "1400",
+      "nombre": "INTERSUBSECTORIAL VIVIENDA Y DESARROLLO TERRITORIAL",
+      "aporte_nacional": 1496407517857.0,
+      "recursos_propios": 0.0,
+      "total": 1496407517857.0
+     }
+    ]
+   },
+   {
+    "codigo": "4099",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR VIVIENDA, CIUDAD Y TERRITORIO",
+    "aporte_nacional": 15589965681.0,
+    "recursos_propios": 0.0,
+    "total": 15589965681.0,
+    "subprogramas": [
+     {
+      "codigo": "1400",
+      "nombre": "INTERSUBSECTORIAL VIVIENDA Y DESARROLLO TERRITORIAL",
+      "aporte_nacional": 15589965681.0,
+      "recursos_propios": 0.0,
+      "total": 15589965681.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4002",
+  "name": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+  "funcionamiento": 4610000000.0,
+  "deuda": 0.0,
+  "inversion": 704796888012.0,
+  "aporte_nacional": 709406888012.0,
+  "recursos_propios": 0.0,
+  "total": 709406888012.0,
+  "programas": [
+   {
+    "codigo": "4001",
+    "nombre": "ACCESO A SOLUCIONES DE VIVIENDA",
+    "aporte_nacional": 704796888012.0,
+    "recursos_propios": 0.0,
+    "total": 704796888012.0,
+    "subprogramas": [
+     {
+      "codigo": "1400",
+      "nombre": "INTERSUBSECTORIAL VIVIENDA Y DESARROLLO TERRITORIAL",
+      "aporte_nacional": 704796888012.0,
+      "recursos_propios": 0.0,
+      "total": 704796888012.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4101",
+  "name": "DEPARTAMENTO ADMINISTRATIVO PARA LA PROSPERIDAD SOCIAL",
+  "funcionamiento": 300184000000.0,
+  "deuda": 0.0,
+  "inversion": 7990931321237.0,
+  "aporte_nacional": 8291115321237.0,
+  "recursos_propios": 0.0,
+  "total": 8291115321237.0,
+  "programas": [
+   {
+    "codigo": "4103",
+    "nombre": "INCLUSIÓN SOCIAL Y PRODUCTIVA PARA LA POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD",
+    "aporte_nacional": 7979561912737.0,
+    "recursos_propios": 0.0,
+    "total": 7979561912737.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 7979561912737.0,
+      "recursos_propios": 0.0,
+      "total": 7979561912737.0
+     }
+    ]
+   },
+   {
+    "codigo": "4199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INCLUSIÓN SOCIAL Y RECONCILIACIÓN",
+    "aporte_nacional": 11369408500.0,
+    "recursos_propios": 0.0,
+    "total": 11369408500.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 11369408500.0,
+      "recursos_propios": 0.0,
+      "total": 11369408500.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4104",
+  "name": "UNIDAD DE ATENCIÓN Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS",
+  "funcionamiento": 1846676100000.0,
+  "deuda": 0.0,
+  "inversion": 2982614695496.0,
+  "aporte_nacional": 4761652795496.0,
+  "recursos_propios": 67638000000.0,
+  "total": 4829290795496.0,
+  "programas": [
+   {
+    "codigo": "4101",
+    "nombre": "ATENCIÓN, ASISTENCIA  Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS",
+    "aporte_nacional": 2905777339277.0,
+    "recursos_propios": 0.0,
+    "total": 2905777339277.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 2905777339277.0,
+      "recursos_propios": 0.0,
+      "total": 2905777339277.0
+     }
+    ]
+   },
+   {
+    "codigo": "4199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INCLUSIÓN SOCIAL Y RECONCILIACIÓN",
+    "aporte_nacional": 76837356219.0,
+    "recursos_propios": 0.0,
+    "total": 76837356219.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 76837356219.0,
+      "recursos_propios": 0.0,
+      "total": 76837356219.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4105",
+  "name": "CENTRO DE MEMORIA HISTÓRICA",
+  "funcionamiento": 23951000000.0,
+  "deuda": 0.0,
+  "inversion": 72033674420.0,
+  "aporte_nacional": 95984674420.0,
+  "recursos_propios": 0.0,
+  "total": 95984674420.0,
+  "programas": [
+   {
+    "codigo": "4101",
+    "nombre": "ATENCIÓN, ASISTENCIA  Y REPARACIÓN INTEGRAL A LAS VÍCTIMAS",
+    "aporte_nacional": 67189656173.0,
+    "recursos_propios": 0.0,
+    "total": 67189656173.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 67189656173.0,
+      "recursos_propios": 0.0,
+      "total": 67189656173.0
+     }
+    ]
+   },
+   {
+    "codigo": "4199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INCLUSIÓN SOCIAL Y RECONCILIACIÓN",
+    "aporte_nacional": 4844018247.0,
+    "recursos_propios": 0.0,
+    "total": 4844018247.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 4844018247.0,
+      "recursos_propios": 0.0,
+      "total": 4844018247.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4106",
+  "name": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+  "funcionamiento": 1481811657000.0,
+  "deuda": 0.0,
+  "inversion": 10492239206109.0,
+  "aporte_nacional": 7309317072462.0,
+  "recursos_propios": 4664733790647.0,
+  "total": 11974050863109.0,
+  "programas": [
+   {
+    "codigo": "4102",
+    "nombre": "DESARROLLO INTEGRAL DE LA PRIMERA INFANCIA A LA JUVENTUD, Y FORTALECIMIENTO DE LAS CAPACIDADES DE LAS FAMILIAS DE NIÑAS, NIÑOS Y ADOLESCENTES",
+    "aporte_nacional": 7309317072462.0,
+    "recursos_propios": 2649414153647.0,
+    "total": 9958731226109.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 7309317072462.0,
+      "recursos_propios": 2649414153647.0,
+      "total": 9958731226109.0
+     }
+    ]
+   },
+   {
+    "codigo": "4199",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR INCLUSIÓN SOCIAL Y RECONCILIACIÓN",
+    "aporte_nacional": 0.0,
+    "recursos_propios": 533507980000.0,
+    "total": 533507980000.0,
+    "subprogramas": [
+     {
+      "codigo": "1500",
+      "nombre": "INTERSUBSECTORIAL DESARROLLO SOCIAL",
+      "aporte_nacional": 0.0,
+      "recursos_propios": 533507980000.0,
+      "total": 533507980000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4201",
+  "name": "DEPARTAMENTO ADMINISTRATIVO DIRECCIÓN NACIONAL DE INTELIGENCIA",
+  "funcionamiento": 169713000000.0,
+  "deuda": 0.0,
+  "inversion": 23154858491.0,
+  "aporte_nacional": 192867858491.0,
+  "recursos_propios": 0.0,
+  "total": 192867858491.0,
+  "programas": [
+   {
+    "codigo": "4201",
+    "nombre": "DESARROLLO DE INTELIGENCIA ESTRATÉGICA Y CONTRAINTELIGENCIA DE ESTADO",
+    "aporte_nacional": 23154858491.0,
+    "recursos_propios": 0.0,
+    "total": 23154858491.0,
+    "subprogramas": [
+     {
+      "codigo": "0100",
+      "nombre": "INTERSUBSECTORIAL DEFENSA Y SEGURIDAD",
+      "aporte_nacional": 23154858491.0,
+      "recursos_propios": 0.0,
+      "total": 23154858491.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4301",
+  "name": "MINISTERIO DEL DEPORTE",
+  "funcionamiento": 56844837388.0,
+  "deuda": 0.0,
+  "inversion": 240860594457.0,
+  "aporte_nacional": 297705431845.0,
+  "recursos_propios": 0.0,
+  "total": 297705431845.0,
+  "programas": [
+   {
+    "codigo": "4301",
+    "nombre": "FOMENTO A LA RECREACIÓN, LA ACTIVIDAD FÍSICA Y EL DEPORTE PARA DESARROLLAR ENTORNOS DE CONVIVENCIA Y PAZ",
+    "aporte_nacional": 51600000000.0,
+    "recursos_propios": 0.0,
+    "total": 51600000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1604",
+      "nombre": "RECREACIÓN Y DEPORTE",
+      "aporte_nacional": 51600000000.0,
+      "recursos_propios": 0.0,
+      "total": 51600000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "4302",
+    "nombre": "FORMACIÓN Y PREPARACIÓN DE DEPORTISTAS",
+    "aporte_nacional": 183900000000.0,
+    "recursos_propios": 0.0,
+    "total": 183900000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1604",
+      "nombre": "RECREACIÓN Y DEPORTE",
+      "aporte_nacional": 183900000000.0,
+      "recursos_propios": 0.0,
+      "total": 183900000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "4399",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR RECREACIÓN Y DEPORTE",
+    "aporte_nacional": 5360594457.0,
+    "recursos_propios": 0.0,
+    "total": 5360594457.0,
+    "subprogramas": [
+     {
+      "codigo": "1604",
+      "nombre": "RECREACIÓN Y DEPORTE",
+      "aporte_nacional": 5360594457.0,
+      "recursos_propios": 0.0,
+      "total": 5360594457.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4401",
+  "name": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+  "funcionamiento": 647684000000.0,
+  "deuda": 0.0,
+  "inversion": 174119028963.0,
+  "aporte_nacional": 821803028963.0,
+  "recursos_propios": 0.0,
+  "total": 821803028963.0,
+  "programas": [
+   {
+    "codigo": "4401",
+    "nombre": "JURISDICCIÓN ESPECIAL PARA LA PAZ",
+    "aporte_nacional": 158716756954.0,
+    "recursos_propios": 0.0,
+    "total": 158716756954.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 158716756954.0,
+      "recursos_propios": 0.0,
+      "total": 158716756954.0
+     }
+    ]
+   },
+   {
+    "codigo": "4499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR JUSTICIA ESPECIAL PARA LA PAZ",
+    "aporte_nacional": 15402272009.0,
+    "recursos_propios": 0.0,
+    "total": 15402272009.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 15402272009.0,
+      "recursos_propios": 0.0,
+      "total": 15402272009.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4403",
+  "name": "UNIDAD DE BÚSQUEDA DE PERSONAS DADAS POR DESAPARECIDAS EN EL CONTEXTO Y EN RAZÓN DEL CONFLICTO ARMADO (UBPD)",
+  "funcionamiento": 131574000000.0,
+  "deuda": 0.0,
+  "inversion": 59636500000.0,
+  "aporte_nacional": 191210500000.0,
+  "recursos_propios": 0.0,
+  "total": 191210500000.0,
+  "programas": [
+   {
+    "codigo": "4403",
+    "nombre": "BÚSQUEDA HUMANITARIA DE PERSONAS DADAS POR DESAPARECIDAS EN EL CONTEXTO Y EN RAZÓN DEL CONFLICTO ARMADO EN COLOMBIA.",
+    "aporte_nacional": 43000000000.0,
+    "recursos_propios": 0.0,
+    "total": 43000000000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 43000000000.0,
+      "recursos_propios": 0.0,
+      "total": 43000000000.0
+     }
+    ]
+   },
+   {
+    "codigo": "4499",
+    "nombre": "FORTALECIMIENTO Y APOYO A LA GESTIÓN INSTITUCIONAL DEL SECTOR JUSTICIA ESPECIAL PARA LA PAZ",
+    "aporte_nacional": 16636500000.0,
+    "recursos_propios": 0.0,
+    "total": 16636500000.0,
+    "subprogramas": [
+     {
+      "codigo": "1000",
+      "nombre": "INTERSUBSECTORIAL GOBIERNO",
+      "aporte_nacional": 16636500000.0,
+      "recursos_propios": 0.0,
+      "total": 16636500000.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "4601",
+  "name": "MINISTERIO DE IGUALDAD Y EQUIDAD EN LIQUIDACIÓN",
+  "funcionamiento": 128120981000.0,
+  "deuda": 0.0,
+  "inversion": 0.0,
+  "aporte_nacional": 128120981000.0,
+  "recursos_propios": 0.0,
+  "total": 128120981000.0,
+  "programas": []
+ }
+]

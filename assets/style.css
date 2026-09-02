@@ -1,0 +1,299 @@
+/* ============================================================
+   Presupuesto General de la Nación 2027 — "recibo de datáfono"
+   Un solo rollo de papel monoespaciado, humor de caja registradora,
+   tamaños y espaciados en escala fija para maxima consistencia.
+   ============================================================ */
+
+:root {
+  color-scheme: light;
+
+  /* Escala de espaciado (grid de 4px) */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px;
+
+  /* Escala tipográfica (todo monoespaciado, todo derivado de aquí) */
+  --fs-xs: 11px; --fs-sm: 12.5px; --fs-base: 14px;
+  --fs-md: 16px; --fs-lg: 20px; --fs-xl: 26px; --fs-xxl: 34px;
+
+  /* Papel */
+  --paper: #f8f4e6;
+  --paper-shade: #efe8d2;
+  --ink: #211d13;
+  --ink-faded: #8c8368;
+  --rule: #cfc6a4;
+
+  /* "Cinta" de dos colores (datafono/matriz de puntos) */
+  --ribbon-1: var(--ink);
+  --ribbon-2: #c33d3d;
+  --ribbon-2-bg: #f7e4e0;
+  --ribbon-1-bg: #eae6d8;
+
+  /* Mostrador detras del recibo */
+  --counter: #2c2410;
+  --counter-2: #1c170a;
+
+  --font-mono: "Space Mono", "Courier New", ui-monospace, monospace;
+  --radius: 3px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-mono);
+  font-size: var(--fs-base);
+  color: var(--ink);
+  line-height: 1.55;
+  background: var(--counter);
+  background-image:
+    radial-gradient(ellipse at 50% -10%, rgba(255,255,255,0.05), transparent 60%),
+    repeating-linear-gradient(45deg, rgba(255,255,255,0.015) 0 2px, transparent 2px 6px);
+  min-height: 100vh;
+  padding: var(--sp-6) var(--sp-3) var(--sp-7);
+}
+
+h1, h2, h3, h4 { font-family: var(--font-mono); font-weight: 700; line-height: 1.3; margin: 0 0 var(--sp-2); letter-spacing: 0.01em; }
+h1 { font-size: var(--fs-xl); }
+h2 { font-size: var(--fs-md); text-transform: uppercase; letter-spacing: 0.06em; }
+h3 { font-size: var(--fs-base); text-transform: uppercase; letter-spacing: 0.04em; }
+p { margin: 0 0 var(--sp-3); }
+a { color: var(--ribbon-2); text-decoration: underline; text-underline-offset: 2px; }
+a:hover { color: var(--ink); }
+small { color: var(--ink-faded); font-size: var(--fs-xs); }
+code { background: var(--paper-shade); padding: 1px 4px; border-radius: 2px; }
+ul { padding-left: 1.2em; margin: 0 0 var(--sp-3); }
+li { margin-bottom: var(--sp-2); }
+
+.tabular { font-variant-numeric: tabular-nums; }
+.center { text-align: center; }
+.upper { text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* ---------- El recibo ---------- */
+.receipt-shell { max-width: 640px; margin: 0 auto; }
+
+.receipt {
+  background: var(--paper);
+  background-image: repeating-linear-gradient(rgba(0,0,0,0.015) 0 1px, transparent 1px 3px);
+  color: var(--ink);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.45), 0 2px 0 rgba(255,255,255,0.4) inset;
+  transform: rotate(-0.35deg);
+  position: relative;
+}
+.receipt + .receipt { margin-top: var(--sp-6); transform: rotate(0.3deg); }
+
+.receipt::before, .receipt::after {
+  content: "";
+  display: block;
+  height: 12px;
+  background-image:
+    linear-gradient(-45deg, var(--counter) 6px, transparent 0),
+    linear-gradient(45deg, var(--counter) 6px, transparent 0);
+  background-size: 12px 12px;
+  background-repeat: repeat-x;
+}
+.receipt::before { background-position: left top; margin-bottom: -1px; }
+.receipt::after { background-position: left bottom; margin-top: -1px; }
+
+.receipt-body { padding: var(--sp-5) var(--sp-5) var(--sp-6); }
+
+.rule { border: none; border-top: 1px dashed var(--rule); margin: var(--sp-4) 0; }
+.rule.thick { border-top: 3px double var(--ink); }
+
+.perforation {
+  height: 8px; margin: var(--sp-3) 0;
+  background-image: radial-gradient(circle, var(--counter) 2.4px, transparent 2.6px);
+  background-size: 14px 8px;
+  background-position: center;
+  opacity: 0.9;
+}
+
+/* ---------- Encabezado tipo tienda ---------- */
+.tkt-header { text-align: center; margin-bottom: var(--sp-4); }
+.tkt-header .country { font-size: var(--fs-xs); letter-spacing: 0.18em; color: var(--ink-faded); }
+.tkt-header .store { font-size: var(--fs-xl); font-weight: 700; letter-spacing: 0.03em; margin: var(--sp-1) 0; }
+.tkt-header .tagline { font-size: var(--fs-xs); color: var(--ink-faded); }
+.tkt-header .nit { font-size: var(--fs-xs); color: var(--ink-faded); margin-top: var(--sp-2); }
+
+.tkt-meta { font-size: var(--fs-sm); color: var(--ink-faded); }
+.tkt-meta .dotted-row .value { color: var(--ink); }
+
+nav.tkt-nav { display: flex; justify-content: center; gap: var(--sp-4); margin-top: var(--sp-3); font-size: var(--fs-sm); }
+nav.tkt-nav a { text-decoration: none; border: 1px dashed var(--ink-faded); padding: 3px 10px; border-radius: var(--radius); }
+nav.tkt-nav a:hover { background: var(--paper-shade); }
+nav.tkt-nav a.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+/* ---------- Filas con lider de puntos ---------- */
+.dotted-row { display: flex; align-items: baseline; gap: 6px; margin-bottom: var(--sp-2); font-size: var(--fs-base); }
+.dotted-row .label { white-space: nowrap; }
+.dotted-row .leader { flex: 1 1 auto; border-bottom: 1px dotted var(--ink-faded); min-width: 12px; transform: translateY(-3px); }
+.dotted-row .value { white-space: nowrap; font-weight: 700; }
+.dotted-row.strong { font-size: var(--fs-md); }
+.dotted-row.muted .value { font-weight: 400; color: var(--ink-faded); }
+
+/* ---------- Caja resumen / total ---------- */
+.total-box { margin: var(--sp-4) 0; }
+.total-row {
+  display: flex; justify-content: space-between; align-items: baseline;
+  border-top: 3px double var(--ink); border-bottom: 3px double var(--ink);
+  padding: var(--sp-2) 0; margin: var(--sp-3) 0;
+  font-size: var(--fs-lg); font-weight: 700;
+}
+.total-row { text-align: right; }
+.total-row .sub { display: block; white-space: normal; font-size: var(--fs-xs); font-weight: 400; color: var(--ink-faded); text-transform: none; letter-spacing: 0; margin-top: 2px; }
+
+/* ---------- Etiquetas de recargo/descuento ---------- */
+.tkt-tag {
+  display: inline-block; font-size: var(--fs-xs); font-weight: 700; letter-spacing: 0.03em;
+  padding: 2px 7px; border: 1px solid currentColor; border-radius: var(--radius); white-space: nowrap;
+}
+.tkt-tag.up { color: var(--ribbon-2); background: var(--ribbon-2-bg); }
+.tkt-tag.down { color: #2c6b2f; background: #e7f2e3; }
+.tkt-tag.flat { color: var(--ink-faded); background: var(--paper-shade); }
+
+/* ---------- Tarjetas (novedades) ---------- */
+.card-grid { display: grid; gap: var(--sp-4); margin-bottom: var(--sp-4); }
+.info-card {
+  border: 1px solid var(--rule);
+  padding: var(--sp-3) var(--sp-4);
+  background: var(--paper-shade);
+}
+.info-card h3 { margin-top: var(--sp-2); font-size: var(--fs-sm); }
+.info-card p { font-size: var(--fs-sm); margin-bottom: 0; }
+.info-card .tkt-tag { margin-bottom: var(--sp-2); }
+.info-card a.link-title { color: var(--ink); text-decoration: none; }
+.info-card a.link-title:hover { text-decoration: underline; }
+
+/* ---------- Grafico ---------- */
+.chart-panel {
+  margin: var(--sp-4) 0; border: 1px solid var(--rule); background: var(--paper-shade);
+  padding: var(--sp-4); position: relative;
+}
+.chart-panel-head { display: flex; flex-direction: column; gap: var(--sp-2); margin-bottom: var(--sp-2); }
+.chart-wrap { position: relative; }
+.chart-wrap.tall { height: 620px; }
+.chart-wrap.short { height: 260px; }
+.chart-caption { font-size: var(--fs-xs); color: var(--ink-faded); text-align: center; margin-top: var(--sp-3); }
+
+.seg-control { display: flex; border: 1px solid var(--ink); border-radius: var(--radius); overflow: hidden; background: var(--paper); }
+.seg-control button {
+  flex: 1; border: none; background: var(--paper); padding: 7px 6px; font-size: var(--fs-xs); font-weight: 700;
+  color: var(--ink); cursor: pointer; font-family: var(--font-mono); text-transform: uppercase; letter-spacing: 0.03em;
+}
+.seg-control button + button { border-left: 1px solid var(--ink); }
+.seg-control button.active { background: var(--ink); color: var(--paper); }
+
+.legend-row { display: flex; justify-content: center; gap: var(--sp-4); font-size: var(--fs-xs); }
+.legend-row .swatch { display: inline-block; width: 10px; height: 10px; margin-right: 5px; vertical-align: -1px; }
+
+/* ---------- Buscador estilo formulario de recibo ---------- */
+.tkt-search { margin-bottom: var(--sp-3); }
+.tkt-search label { display: block; font-size: var(--fs-xs); color: var(--ink-faded); margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.05em; }
+.tkt-search input {
+  width: 100%; border: none; border-bottom: 1px dashed var(--ink);
+  background: transparent; font-family: var(--font-mono); font-size: var(--fs-base); color: var(--ink);
+  padding: 4px 2px;
+}
+.tkt-search input:focus { outline: none; border-bottom: 1px solid var(--ink); }
+
+.badge-mini { font-size: 9px; font-weight: 700; padding: 1px 5px; border-radius: 2px; margin-left: 6px; letter-spacing: 0.02em; }
+.badge-mini.new { background: var(--ink); color: var(--paper); }
+.badge-mini.gone { background: var(--ink-faded); color: var(--paper); }
+
+/* ---------- Tabla de dependencias ---------- */
+.table-scroll { max-height: 680px; overflow-y: auto; border: 1px solid var(--rule); }
+table.data-table { width: 100%; border-collapse: collapse; font-size: var(--fs-sm); }
+table.data-table th, table.data-table td { padding: var(--sp-2) var(--sp-3); text-align: right; border-bottom: 1px dashed var(--rule); }
+table.data-table th:first-child, table.data-table td:first-child { text-align: left; }
+table.data-table th {
+  color: var(--ink-faded); font-size: var(--fs-xs); text-transform: uppercase; letter-spacing: 0.04em;
+  cursor: pointer; user-select: none; white-space: nowrap; position: sticky; top: 0; background: var(--paper);
+  border-bottom: 1px solid var(--ink);
+}
+table.data-table th.sorted { color: var(--ink); }
+table.data-table th.sorted::after { content: " \25BE"; }
+table.data-table tbody tr:hover { background: var(--paper-shade); }
+table.data-table td.name { max-width: 320px; }
+table.data-table td.name a { color: var(--ink); font-weight: 700; text-decoration: none; }
+table.data-table td.name a:hover { text-decoration: underline; }
+table.data-table td.name .code { display: block; color: var(--ink-faded); font-weight: 400; font-size: var(--fs-xs); }
+
+/* ---------- Codigo de barras ---------- */
+.barcode-block { text-align: center; margin: var(--sp-5) 0 var(--sp-3); }
+.barcode-bars { height: 54px; margin: 0 auto var(--sp-1); max-width: 320px; }
+.barcode-number { font-size: var(--fs-xs); letter-spacing: 0.28em; color: var(--ink); }
+
+/* ---------- Pie de recibo / letra pequeña ---------- */
+.tkt-footer { text-align: center; font-size: var(--fs-xs); color: var(--ink-faded); margin-top: var(--sp-4); }
+.tkt-footer p { font-size: var(--fs-xs); margin-bottom: var(--sp-1); }
+.tkt-footer a { color: var(--ink-faded); }
+
+/* ---------- Pagina de detalle ---------- */
+.back-link { display: inline-block; margin-bottom: var(--sp-3); font-size: var(--fs-sm); }
+.code-pill {
+  display: inline-block; border: 1px solid var(--ink); font-size: var(--fs-xs); font-weight: 700;
+  padding: 2px 8px; border-radius: var(--radius); margin-bottom: var(--sp-2); letter-spacing: 0.04em;
+}
+.comment-box { border-left: 3px solid var(--ribbon-2); padding: var(--sp-2) var(--sp-3); background: var(--paper-shade); font-size: var(--fs-sm); }
+.comment-box p:last-child { margin-bottom: 0; }
+.comment-box.stacked p { margin-bottom: var(--sp-3); }
+
+/* ---------- Tabla de programas (detalle) ---------- */
+.prog-list .prog-row { padding: var(--sp-2) 0; border-bottom: 1px dashed var(--rule); font-size: var(--fs-sm); }
+.prog-list .prog-name { font-weight: 700; }
+.prog-list .prog-code { color: var(--ink-faded); font-size: var(--fs-xs); }
+
+/* ---------- Metodologia ---------- */
+.methodology dt { font-weight: 700; margin-top: var(--sp-4); font-size: var(--fs-sm); text-transform: uppercase; letter-spacing: 0.03em; }
+.methodology dd { margin: var(--sp-1) 0 0; font-size: var(--fs-sm); }
+
+.notfound { text-align: center; padding: var(--sp-7) 0; }
+
+@media (max-width: 520px) {
+  body { padding: var(--sp-4) var(--sp-2) var(--sp-6); }
+  .receipt-body { padding: var(--sp-4) var(--sp-3) var(--sp-5); }
+  .chart-wrap.tall { height: 900px; }
+  nav.tkt-nav { flex-wrap: wrap; }
+}
+
+/* ============================================================
+   Landing (index.html): pantalla completa, colores claros para
+   lectura rapida. Los recibos individuales y la letra pequeña
+   se quedan con el look angosto de papel sobre mostrador oscuro;
+   esto solo aplica cuando <body class="landing">.
+   ============================================================ */
+body.landing {
+  --page-bg: #f3f2ee;
+  background: var(--page-bg);
+  background-image: none;
+  padding: var(--sp-5) var(--sp-4) var(--sp-7);
+}
+
+body.landing .receipt-shell.wide { max-width: 1240px; }
+
+body.landing .receipt {
+  background: #fffefc;
+  background-image: none;
+  box-shadow: 0 1px 2px rgba(33,29,20,0.06), 0 10px 30px rgba(33,29,20,0.06);
+  transform: none;
+}
+body.landing .receipt::before,
+body.landing .receipt::after {
+  background-image:
+    linear-gradient(-45deg, var(--page-bg) 6px, transparent 0),
+    linear-gradient(45deg, var(--page-bg) 6px, transparent 0);
+}
+body.landing .receipt-body { padding: var(--sp-6) var(--sp-6) var(--sp-7); }
+
+/* Columna de lectura: el encabezado, el resumen, las notas y el pie se
+   quedan en un ancho comodo para leer aunque el recibo sea ancho. */
+body.landing .prose-col { max-width: 760px; margin-left: auto; margin-right: auto; }
+body.landing h2.prose-col { margin-bottom: var(--sp-3); }
+
+/* Las novedades y el grafico si aprovechan todo el ancho; la tabla tambien
+   queda a ancho completo de forma natural (un <table> normal). */
+body.landing .card-grid { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+body.landing .chart-wrap.tall { height: 680px; }
+
+@media (max-width: 900px) {
+  body.landing .receipt-body { padding: var(--sp-5) var(--sp-4) var(--sp-6); }
+}
