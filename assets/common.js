@@ -7,6 +7,18 @@ const PALETTE = {
   grid: "#d8d0b8",
 };
 
+// Paleta categorica (8 slots validados para daltonismo, misma que se uso
+// en la v1 del sitio) -- se usa para las 7 regiones de la regionalizacion.
+const REGION_COLORS = {
+  "Andina": "#2a78d6",
+  "Caribe": "#eb6834",
+  "Pacífico": "#1baf7a",
+  "Bogotá D.C.": "#eda100",
+  "Amazonía": "#e87ba4",
+  "Orinoquía": "#008300",
+  "Insular": "#4a3aa7",
+};
+
 function fmtCOP(value, { compact = true } = {}) {
   if (value === null || value === undefined || isNaN(value)) return "—";
   const billones = value / 1e12;

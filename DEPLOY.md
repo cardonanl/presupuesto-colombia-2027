@@ -11,23 +11,22 @@ que no necesita Node ni la terminal para nada después del primer push.
 
 ## Paso 1 — Subir el proyecto a GitHub
 
-### Opción A (recomendada): GitHub Desktop, sin usar la terminal
-1. Instala [GitHub Desktop](https://desktop.github.com/) e inicia sesión con
-   tu cuenta de GitHub (créala gratis en github.com si no tienes).
-2. `File → Add local repository...` y selecciona esta carpeta:
-   `C:\Users\NicolasCardona\Documents\nicolas\prespuestocolombia2027`
-3. Te va a decir que no es un repositorio git todavía → click en
-   **"create a repository"**.
-4. Escribe un mensaje de commit (ej. "Primera versión") y click
-   **"Commit to main"**.
-5. Click **"Publish repository"** arriba. Puedes dejarlo público o privado
-   (ambos funcionan igual con Vercel). Nombre sugerido: `presupuesto-2027`.
+Se decidió subirlo **manualmente por arrastrar-y-soltar** en la web de
+GitHub (sin git ni GitHub Desktop), porque este equipo tiene credenciales de
+Git guardadas que no son la cuenta personal (`cardonanl`) — una es de otra
+cuenta (`cardonanl96`) y otra es la cuenta de trabajo de Beast Industries.
+Para no arriesgar mezclar cuentas:
 
-### Opción B: por terminal (si prefieres, o si quieres que yo lo prepare)
-Dímelo y te dejo el repo listo con `git init` + primer commit localmente;
-solo te faltaría crear el repositorio vacío en github.com y darme la URL
-para hacer `git remote add` + `git push`. El push probablemente te pida
-iniciar sesión en una ventana del navegador la primera vez (normal).
+1. En [github.com](https://github.com) (con la cuenta `cardonanl`), **New
+   repository** → nombre sugerido `presupuesto-2027` → vacío, sin README.
+2. En la página del repo recién creado, click en el enlace **"uploading an
+   existing file"**.
+3. En el Explorador de Windows, abre
+   `C:\Users\NicolasCardona\Documents\nicolas\prespuestocolombia2027`,
+   selecciona todo el contenido (Ctrl+A) — incluye `assets/`, `data/`,
+   `scripts/`, `docs/` y todos los `.html`/`.md` — y arrástralo a la zona de
+   GitHub.
+4. **Commit changes**.
 
 ## Paso 2 — Importar el proyecto en Vercel
 
@@ -60,18 +59,27 @@ Vercel vuelve a desplegar automáticamente. No tienes que repetir estos pasos.
    (Si por algún motivo Vercel pide un registro tipo `A` en vez de `CNAME`,
    usa exactamente el valor que te muestre en pantalla — puede variar.)
 
-4. Ve al panel DNS de donde tengas administrado el dominio
-   `nicolascardona.com` (el sitio donde lo compraste/gestionas: puede ser
-   GoDaddy, Namecheap, Cloudflare, Google Domains, etc. — dime cuál usas si
-   quieres que te dé los clics exactos para ese proveedor).
-5. Agrega un registro **CNAME** nuevo:
-   - **Host / Nombre:** `presupuesto2027`
-   - **Valor / Apunta a:** `cname.vercel-dns.com`
-   - **TTL:** el que venga por defecto está bien.
-6. Guarda. La propagación DNS suele tardar entre 5 minutos y un par de
-   horas. Vercel marca el dominio como "Valid" automáticamente en cuanto lo
-   detecta (no hace falta que hagas nada más ahí) y emite el certificado
-   HTTPS solo.
+4. El dominio está en **Namecheap**, así que:
+   - Entra a [namecheap.com](https://namecheap.com) → **Domain List** →
+     click **Manage** junto a `nicolascardona.com`.
+   - Pestaña **Advanced DNS**.
+   - En **Host Records**, click **Add New Record**.
+   - Tipo: **CNAME Record**
+   - Host: `presupuesto2027`
+   - Value: `cname.vercel-dns.com` (sin `https://`, y si Namecheap te pide
+     un punto final `.` al final del valor, agrégalo: `cname.vercel-dns.com.`)
+   - TTL: `Automatic`
+   - Click en el ✓ verde para guardar la fila.
+5. Vuelve a Vercel (Settings → Domains) — en unos minutos debería marcar el
+   dominio como **Valid** solo (no hay que hacer nada más ahí). La
+   propagación DNS real puede tardar de 5 minutos a un par de horas; Vercel
+   emite el certificado HTTPS automáticamente en cuanto detecta el DNS.
+
+   ⚠️ Si `nicolascardona.com` usa nameservers de otro proveedor (por
+   ejemplo Cloudflare) en vez de los de Namecheap, hay que agregar el mismo
+   registro CNAME allá en su lugar — se puede confirmar mirando si en
+   Namecheap, en la pestaña **Domain**, dice "Namecheap BasicDNS" (ahí sí
+   aplica lo de arriba) o algo distinto.
 
 ## Verificación final
 

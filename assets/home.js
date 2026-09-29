@@ -42,6 +42,9 @@
   const byAbsDesc = [...continuing].sort((a, b) => b.variacion_abs - a.variacion_abs);
 
   const novedades = [];
+  novedades.push({ tag: "flat", tagLabel: "Vista nueva", title: "¿En qué departamento se invierte el PGN 2027?",
+    body: `Nueva sección con la regionalización de la inversión 2027 por departamento: población, % NBI, inversión per cápita y sectores principales de cada uno, según el DNP.`,
+    href: "regionalizacion.html" });
   if (byAbsDesc[0]) {
     const s = byAbsDesc[0];
     novedades.push({ tag: "up", tagLabel: "Mayor incremento en pesos", title: s.nombre,
@@ -71,6 +74,9 @@
     href: "metodologia.html" });
   novedades.push({ tag: "info", tagLabel: "Dos cifras oficiales para 2027", title: "El total del proyecto varió durante el trámite",
     body: `El Mensaje Presidencial de julio de 2026 citó $575,7 billones para el PGN 2027. El articulado finalmente radicado en agosto de 2026 —usado en este análisis— asciende a $634,95 billones. Ver metodología para el detalle de esta diferencia.`,
+    href: "metodologia.html" });
+  novedades.push({ tag: "info", tagLabel: "Actualización pendiente", title: "El proyecto ya superó el primer debate (24 sep. 2026)",
+    body: `Las comisiones económicas del Congreso aprobaron el PGN 2027 en primer debate manteniendo el techo total de $634,9 billones, pero con reasignaciones entre sectores (recorte a la JEP, más recursos para Salud, SENA y Deporte, entre otros). Quedan 521 proposiciones pendientes para las plenarias, con plazo hasta el 20 de octubre de 2026. Este sitio todavía refleja el articulado radicado en agosto, antes de esos ajustes — ver metodología para el detalle.`,
     href: "metodologia.html" });
 
   document.getElementById("novedades-grid").innerHTML = novedades.map(n => `

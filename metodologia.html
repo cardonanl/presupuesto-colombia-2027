@@ -19,6 +19,7 @@
         <div class="tagline">LA LETRA PEQUEÑA DEL TIQUETE 2026 → 2027</div>
         <nav class="tkt-nav">
           <a href="index.html">INICIO</a>
+          <a href="regionalizacion.html">REGIONALIZACIÓN</a>
           <a href="metodologia.html" class="active">TÉRMINOS Y CONDICIONES</a>
         </nav>
       </div>
@@ -67,7 +68,37 @@
             documentos consultados y debe tratarse con cautela al citar variaciones exactas.
           </dd>
 
-          <dt>Artículo 4 — Cómo se emparejaron los artículos entre años</dt>
+          <dt>Artículo 4 — Estado del trámite legislativo (actualizado al 28 de septiembre de 2026)</dt>
+          <dd>
+            El 24 de septiembre de 2026, las Comisiones Económicas conjuntas del Senado y la Cámara aprobaron
+            en <strong>primer debate</strong> el proyecto del PGN 2027, manteniendo el techo total de
+            <strong>$634,9 billones</strong> (56 votos a favor, entre 11 y 19 en contra según la comisión).
+            Durante el debate se aprobaron reasignaciones puntuales entre sectores, entre ellas:
+            <ul>
+              <li>Jurisdicción Especial para la Paz (JEP): <strong>−$170.000 millones</strong>, redirigidos
+              principalmente al fortalecimiento de la justicia ordinaria (Rama Judicial).</li>
+              <li>Salud y Protección Social: <strong>+$2 billones</strong> (recursos trasladados desde
+              Hacienda).</li>
+              <li>SENA: <strong>+$500.000 millones</strong>.</li>
+              <li>Deporte y Recreación: <strong>+$99.100 millones</strong>.</li>
+              <li>Planeación (DNP): <strong>−$13.500 millones</strong>; Transporte: <strong>−$15.600
+              millones</strong>.</li>
+              <li>Recursos adicionales para organismos de control (Procuraduría, Fiscalía, Contraloría,
+              Registraduría, Consejo Nacional Electoral) y para el propio Congreso.</li>
+            </ul>
+            El trámite <strong>no ha terminado</strong>: quedan <strong>521 proposiciones</strong> (por más de
+            $111 billones en modificaciones solicitadas) pendientes de resolver en las plenarias del Senado y
+            la Cámara, con plazo constitucional hasta el <strong>20 de octubre de 2026</strong>. Este sitio
+            todavía refleja el articulado radicado en agosto de 2026 (antes del primer debate), porque no hay
+            todavía una versión oficial desagregada por sección que incorpore estos ajustes — solo cifras
+            agregadas de prensa. Cuando se sancione el texto definitivo, se debe repetir la extracción de
+            datos con <code>scripts/1_extract_2027_xlsx.py</code> apuntando al anexo de gastos actualizado.
+            <br /><br />
+            <small>Fuentes: El Tiempo, El Heraldo, Infobae, La República e Infobae (24-25 de septiembre de
+            2026); Cámara de Representantes, comunicados de prensa.</small>
+          </dd>
+
+          <dt>Artículo 5 — Cómo se emparejaron los artículos entre años</dt>
           <dd>
             Cada sección presupuestal tiene un código de 4 dígitos (p. ej. <code>1501</code> = Ministerio de
             Defensa Nacional). El dataset de 2026 usa códigos de entidad más granulares (p. ej.
@@ -78,7 +109,7 @@
             adscripción.
           </dd>
 
-          <dt>Artículo 5 — Garantía limitada (limitaciones conocidas)</dt>
+          <dt>Artículo 6 — Garantía limitada (limitaciones conocidas)</dt>
           <dd>
             <ul>
               <li>El desglose por programa presupuestal (en cada recibo individual) solo está disponible
@@ -93,8 +124,21 @@
             </ul>
           </dd>
 
-          <dt>Artículo 6 — Política de devoluciones</dt>
+          <dt>Artículo 7 — Política de devoluciones</dt>
           <dd>No se aceptan devoluciones de presupuesto. Todas las ventas de deuda pública son finales.</dd>
+
+          <dt>Artículo 8 — Fuente de la <a href="regionalizacion.html">regionalización</a></dt>
+          <dd>
+            La vista de <a href="regionalizacion.html">regionalización por departamento</a> usa un documento
+            distinto: "Regionalización inicial PGN Inversión 2027 (Preliminar e indicativa)", del Departamento
+            Nacional de Planeación (DNP), fechado 16 de septiembre de 2026. A diferencia del resto del sitio,
+            esta vista: (1) cubre <strong>solo el componente de inversión</strong> del PGN 2027 ($86,96
+            billones de los $634,95 billones totales — funcionamiento y servicio de la deuda no se
+            regionalizan), y (2) <strong>no tiene comparación con 2026</strong>, porque no existe un libro de
+            regionalización equivalente para esa vigencia. Los datos de población y % de Necesidades Básicas
+            Insatisfechas (NBI) que se muestran junto a cada departamento son del DANE, tal como los cita el
+            propio libro del DNP.
+          </dd>
         </dl>
 
         <p style="margin-top:var(--sp-4);"><a href="index.html">← Volver al tiquete principal</a></p>

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Regionalización de la inversión 2027 — Presupuesto General de la Nación</title>
+<meta name="description" content="Cómo se distribuye por departamento el componente de inversión del Presupuesto General de la Nación 2027 de Colombia (DNP, regionalización inicial)." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body class="landing">
+<div class="receipt-shell wide">
+  <div class="receipt">
+    <div class="receipt-body">
+
+      <div class="prose-col">
+        <div class="tkt-header">
+          <div class="country">★ REPÚBLICA DE COLOMBIA ★</div>
+          <div class="store">REGIONALIZACIÓN DE LA INVERSIÓN 2027</div>
+          <div class="tagline">DISTRIBUCIÓN DEL PGN INVERSIÓN POR DEPARTAMENTO</div>
+          <div class="nit">DNP · REGIONALIZACIÓN INICIAL, PRELIMINAR E INDICATIVA · 16 SEP 2026</div>
+          <nav class="tkt-nav">
+            <a href="index.html">INICIO</a>
+            <a href="regionalizacion.html" class="active">REGIONALIZACIÓN</a>
+            <a href="metodologia.html">TÉRMINOS Y CONDICIONES</a>
+          </nav>
+        </div>
+
+        <hr class="rule" />
+
+        <p>
+          El Departamento Nacional de Planeación (DNP) presentó al Congreso la regionalización preliminar e
+          indicativa del componente de <strong>inversión</strong> del PGN 2027 — es decir, en qué departamento
+          se ejecutarán los recursos de inversión, más allá de qué ministerio los administra. Esta vista es
+          <strong>solo de inversión</strong> ($86,96 billones de los $634,95 billones totales del PGN 2027) y
+          <strong>solo de 2027</strong>: no existe un libro de regionalización equivalente para 2026 con el que
+          comparar. El resto del sitio (<a href="index.html">análisis por dependencia</a>) sí compara 2026 vs.
+          2027, pero por ministerio, no por departamento.
+        </p>
+
+        <h2>Resumen</h2>
+        <div id="resumen-rows"></div>
+      </div>
+
+      <hr class="rule" />
+
+      <h2 class="prose-col">Inversión por región</h2>
+      <div class="chart-panel">
+        <div class="legend-row" id="region-legend"></div>
+        <div class="chart-wrap short" style="height:320px;"><canvas id="region-chart"></canvas></div>
+      </div>
+
+      <hr class="rule" />
+
+      <h2 class="prose-col">Inversión por departamento</h2>
+      <div class="chart-panel">
+        <div class="chart-panel-head">
+          <div class="seg-control" id="dept-chart-mode">
+            <button data-mode="total" class="active">Mayor presupuesto total</button>
+            <button data-mode="percapita">Mayor inversión per cápita</button>
+          </div>
+        </div>
+        <div class="chart-wrap tall"><canvas id="dept-chart"></canvas></div>
+        <p class="chart-caption">Los colores de las barras corresponden a la región de cada departamento (ver leyenda arriba). Pase el mouse sobre una barra para ver el detalle.</p>
+      </div>
+
+      <hr class="rule" />
+
+      <div class="prose-col">
+        <h2>Todos los departamentos</h2>
+        <div class="tkt-search">
+          <label for="search-box">Buscar departamento o región</label>
+          <input type="search" id="search-box" placeholder="ej. antioquia, pacífico, chocó…" />
+        </div>
+      </div>
+      <div class="table-scroll">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th data-key="nombre">Departamento</th>
+              <th data-key="region">Región</th>
+              <th data-key="poblacion">Población</th>
+              <th data-key="nbi_pct">% NBI (DANE)</th>
+              <th data-key="presupuesto_2027_mill" class="sorted">Inversión 2027</th>
+              <th data-key="per_capita_mill">Per cápita</th>
+              <th data-key="sector_top">Sector principal</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+      <p class="prose-col"><small id="row-count"></small></p>
+
+      <div class="prose-col">
+        <div class="perforation"></div>
+        <div class="tkt-footer">
+          <p><strong>Fuente:</strong> "Regionalización inicial PGN Inversión 2027 (Preliminar e indicativa)",
+          Departamento Nacional de Planeación, 16 de septiembre de 2026. Cifras preliminares e indicativas,
+          sujetas a la ejecución real de las entidades durante la vigencia 2027.</p>
+          <p>Ejercicio independiente de visualización de datos públicos, sin relación con el Congreso ni el
+          Gobierno nacional. Ver <a href="metodologia.html">metodología completa</a>.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<script src="assets/common.js"></script>
+<script src="assets/regionalizacion.js"></script>
+</body>
+</html>

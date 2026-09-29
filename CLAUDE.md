@@ -22,21 +22,26 @@ publicarlo en Vercel (el usuario aún no lo ha desplegado).
 ├── index.html              landing: stats, análisis, novedades, gráfico, tabla completa
 ├── detalle.html             vista por dependencia (?codigo=NNNN)
 ├── metodologia.html         fuentes y caveats explicados
+├── regionalizacion.html     inversión 2027 por departamento (DNP) -- solo 2027, sin comparación 2026
 ├── assets/
 │   ├── style.css            paleta inspirada en senado.gov.co + colores de datos validados
-│   ├── common.js            helpers: fmtCOP, fmtPct, deltaBadgeHTML, loadData(), PALETTE
+│   ├── common.js            helpers: fmtCOP, fmtPct, deltaBadgeHTML, loadData(), PALETTE, REGION_COLORS
 │   ├── home.js               lógica de index.html (stat tiles, novedades, Chart.js, tabla)
-│   └── detail.js             lógica de detalle.html
+│   ├── detail.js             lógica de detalle.html
+│   └── regionalizacion.js    lógica de regionalizacion.html
 ├── data/
-│   ├── presupuesto.json     dataset FINAL que consume el sitio (fetch relativo)
+│   ├── presupuesto.json     dataset FINAL que consume index/detalle (fetch relativo)
+│   ├── regionalizacion.json dataset FINAL que consume regionalizacion.html
 │   └── raw/                  cachés intermedios para poder regenerar presupuesto.json
 │       ├── pgn2027_raw.json           (salida de scripts/1_extract_2027_xlsx.py)
 │       └── pgn2026_by_entidad_tipo.json  (salida de scripts/2_fetch_2026.sh)
 ├── scripts/
 │   ├── 1_extract_2027_xlsx.py   Excel 2027 -> data/raw/pgn2027_raw.json
 │   ├── 2_fetch_2026.sh          Datos Abiertos 2026 -> data/raw/pgn2026_by_entidad_tipo.json
-│   └── 3_build_dataset.py       combina los dos raw -> data/presupuesto.json
+│   ├── 3_build_dataset.py       combina los dos raw -> data/presupuesto.json
+│   └── 4_extract_regionalizacion.py   Libro de regionalización DNP -> data/regionalizacion.json
 ├── *.pdf / *.xlsx           documentos fuente originales que el usuario puso en la carpeta
+│                            (incluye libroregionalizacion2027_inicial(16092026).pdf)
 ```
 
 Para regenerar todo desde cero: `python scripts/1_extract_2027_xlsx.py`,
@@ -332,6 +337,93 @@ vez de truncar directamente el array `labels`.
   Igualdad y Equidad (en liquidación)" en 2026 y aparecen reasignados a otras
   secciones en 2027.
 
+## Nueva sección: Regionalización de la inversión (2026-09-28)
+
+El usuario trajo un archivo nuevo a la carpeta raíz:
+`libroregionalizacion2027_inicial(16092026).pdf` (403 páginas, DNP, 16-sep-2026)
+y pidió (1) usarlo como referencia para nuevos temas del sitio, y (2)
+buscar en la web si había cambios pendientes importantes al PGN 2027. Se
+hicieron ambas cosas:
+
+**Qué es el libro:** la "regionalización preliminar e indicativa" del
+componente de **inversión** del PGN 2027 — en qué departamento se ejecutan
+los $86,96 billones de inversión (de los $634,95 billones totales del PGN;
+funcionamiento y deuda no se regionalizan). Cada uno de los 33
+departamentos tiene una "ficha" de una página con población, %NBI (DANE),
+presupuesto 2027, inversión per cápita y el top de sectores que lo
+componen — todo en una página fija y predecible del PDF (offset `doc_page +
+1` respecto al índice, confirmado en Amazonas, Bogotá y Vichada). Hay
+también tablas limpias de agregados por región (6 regiones + Bogotá D.C.
+aparte) y por categoría (Regionalizado/Nacional/Por Regionalizar) en las
+páginas 19-20 del documento.
+
+**Validación de la extracción:** se sumaron los 33 departamentos por
+región y el resultado cuadra EXACTO (al peso) con las cifras oficiales de
+la tabla de regiones del libro (ej. Andina: suma de 10 departamentos =
+22.268.064 millones = cifra oficial exacta). Esto da alta confianza en que
+el parseo por regex (`scripts/4_extract_regionalizacion.py`) está bien.
+
+**Qué se construyó:**
+- `data/regionalizacion.json`: 33 departamentos (nombre, región, población,
+  %NBI, presupuesto 2027, per cápita, top de sectores con %) + agregados
+  por categoría y por región.
+- `regionalizacion.html` + `assets/regionalizacion.js`: página nueva, con
+  el mismo tratamiento "landing" (`body.landing`, ancho completo, colores
+  claros) que `index.html` — gráfico de barras por región (color
+  categórico por región, paleta en `REGION_COLORS` dentro de
+  `common.js`), gráfico de departamentos con toggle "mayor presupuesto
+  total" / "mayor inversión per cápita", y tabla completa ordenable/
+  buscable. Sin comparación 2026 (no existe libro equivalente) y sin
+  navegación a fichas individuales por departamento (no hay una "fase 2"
+  de detalle por depto todavía — posible próximo paso si se pide).
+- Enlace "REGIONALIZACIÓN" agregado al `tkt-nav` de `index.html` y
+  `metodologia.html` (no a `detalle.html`, que no tiene nav persistente,
+  solo el `back-link`).
+- Artículo 8 nuevo en `metodologia.html` explicando que esta vista usa una
+  fuente y un alcance distintos (solo inversión, solo 2027).
+
+**Nota para quien retome esto:** si en el futuro se quiere profundizar,
+la granularidad real del PDF llega hasta **proyecto de inversión
+individual por departamento** (miles de filas, ej. "CONSTRUCCIÓN,
+MEJORAMIENTO... RED VIAL FONDO SUBSIDIO SOBRETASA GASOLINA... $6.574
+millones" dentro de Amazonas) — deliberadamente NO se extrajo ese nivel,
+solo el resumen por departamento (población/NBI/presupuesto/per cápita/top
+sectores). Si se pide un detalle por departamento a nivel de proyecto,
+habría que extraer el resto de cada ficha departamental (que sí sigue el
+mismo patrón de tabla "Sector / Programa / Proyecto" visto en
+`scripts/1_extract_2027_xlsx.py` pero en texto de PDF, no en Excel — más
+frágil de parsear).
+
+## Hallazgo importante: el PGN 2027 ya superó primer debate (24-sep-2026)
+
+Al buscar en la web (segunda parte del pedido del usuario del 2026-09-28)
+se encontró que el 24 de septiembre de 2026 las Comisiones Económicas del
+Congreso aprobaron el proyecto en **primer debate**, manteniendo el techo
+de $634,9 billones pero con reasignaciones sectoriales conocidas (JEP
+−$170.000 millones, Salud +$2 billones, SENA +$500.000 millones, Deporte
++$99.100 millones, Planeación −$13.500 millones, Transporte −$15.600
+millones, más recursos para órganos de control). **El trámite sigue
+abierto**: 521 proposiciones por más de $111 billones en modificaciones
+quedaron pendientes para las plenarias, con plazo constitucional hasta el
+**20 de octubre de 2026**.
+
+Se decidió **NO** intentar incorporar estas cifras al dataset
+sección-por-sección (`data/presupuesto.json`), porque: (a) solo hay cifras
+agregadas de prensa, no un anexo oficial desagregado por sección como el
+que se usó para el resto del sitio; (b) el trámite no ha terminado, así
+que cualquier cifra "actualizada" hoy podría volver a cambiar antes del 20
+de octubre. En su lugar se agregó (i) una novedad nueva en el landing
+("Actualización pendiente") y (ii) el Artículo 4 en `metodologia.html` con
+el detalle completo y las fuentes de prensa citadas. **Cuando el Congreso
+sancione el texto definitivo** (después del 20-oct-2026), ese sí sería el
+momento de buscar el anexo de gastos oficial actualizado y repetir
+`scripts/1_extract_2027_xlsx.py` sobre él.
+
+Nota de conectividad: `WebFetch` no pudo resolver `camara.gov.co` (error de
+DNS en esta sesión) pero `curl` directo sí funcionó sin problema — si esto
+se repite, usar `curl`/Bash en vez de WebFetch para ese dominio en
+particular (mismo patrón que la nota ya existente sobre datos.gov.co).
+
 ## Pendientes / posibles próximos pasos
 
 - [ ] Desplegar en Vercel — guía completa paso a paso ya escrita en
@@ -345,10 +437,21 @@ vez de truncar directamente el array `labels`.
       máquina; `node`/`npm`/`gh` NO están instalados — por eso `DEPLOY.md`
       recomienda GitHub Desktop + panel web de Vercel en vez de la CLI de
       Vercel, para no depender de Node).
-- [ ] Si aparece una versión más nueva del proyecto de ley (post primer
-      debate en comisiones), regenerar `data/raw/pgn2027_raw.json` con el
-      nuevo Excel y actualizar las menciones a "$634,95 billones" /
-      "articulado de agosto de 2026" en `index.html` y `metodologia.html`.
+- [ ] **(Actualizado 2026-09-28)** El PGN 2027 ya superó primer debate
+      (24-sep-2026, mismo techo $634,9B pero con reasignaciones — ver
+      sección "Hallazgo importante" más arriba). Falta el texto definitivo
+      de las plenarias, plazo constitucional **20 de octubre de 2026**.
+      Cuando salga el anexo de gastos oficial y desagregado por sección de
+      la versión aprobada, regenerar con `scripts/1_extract_2027_xlsx.py`
+      apuntando a ese nuevo Excel/PDF, y revisar las menciones a "$634,95
+      billones" / "articulado de agosto de 2026" en `index.html` y
+      `metodologia.html` (Artículo 3 y 4).
 - [ ] Si se quiere refrescar el corte de 2026 a un mes más reciente que
       julio, correr `scripts/2_fetch_2026.sh <NombreMes>` (verificar antes
       qué meses hay disponibles, ver comentario dentro del script).
+- [ ] Posible extensión de `regionalizacion.html`: fichas de detalle por
+      departamento (hoy solo hay una vista agregada). El PDF fuente sí
+      tiene el desglose completo por proyecto de inversión dentro de cada
+      ficha departamental; no se extrajo por ser mucho más frágil de
+      parsear (texto de PDF, no Excel). Solo hacerlo si el usuario lo pide
+      explícitamente, dado el esfuerzo.
